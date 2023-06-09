@@ -1,0 +1,5569 @@
+"country","year","co2_per_person","new_cancer_cases"
+"Afghanistan",1989,0.21,139
+"Afghanistan",1990,0.183,141
+"Afghanistan",1991,0.0954,146
+"Afghanistan",1992,0.0844,150
+"Afghanistan",1993,0.0752,152
+"Afghanistan",1994,0.068,152
+"Afghanistan",1995,0.0619,151
+"Afghanistan",1996,0.0561,152
+"Afghanistan",1997,0.0522,153
+"Afghanistan",1998,0.0402,154
+"Afghanistan",1999,0.037,155
+"Afghanistan",2000,0.0376,159
+"Afghanistan",2001,0.0471,164
+"Afghanistan",2002,0.0509,171
+"Afghanistan",2003,0.0368,179
+"Afghanistan",2004,0.0515,185
+"Afghanistan",2005,0.0622,192
+"Afghanistan",2006,0.0838,200
+"Afghanistan",2007,0.152,209
+"Afghanistan",2008,0.238,219
+"Afghanistan",2009,0.29,229
+"Afghanistan",2010,0.406,240
+"Afghanistan",2011,0.345,254
+"Afghanistan",2012,0.28,268
+"Afghanistan",2013,0.253,282
+"Afghanistan",2014,0.262,295
+"Afghanistan",2015,0.245,311
+"Afghanistan",2016,0.247,330
+"Afghanistan",2017,0.254,348
+"Angola",1989,0.43,84.1
+"Angola",1990,0.414,87.4
+"Angola",1991,0.408,91.8
+"Angola",1992,0.44,96.1
+"Angola",1993,0.286,99.7
+"Angola",1994,0.786,102
+"Angola",1995,0.725,104
+"Angola",1996,0.494,108
+"Angola",1997,0.474,116
+"Angola",1998,0.576,124
+"Angola",1999,0.581,128
+"Angola",2000,0.571,130
+"Angola",2001,0.72,136
+"Angola",2002,0.496,143
+"Angola",2003,0.998,152
+"Angola",2004,0.979,157
+"Angola",2005,1.1,164
+"Angola",2006,1.2,170
+"Angola",2007,1.18,181
+"Angola",2008,1.23,194
+"Angola",2009,1.24,208
+"Angola",2010,1.25,223
+"Angola",2011,1.35,238
+"Angola",2012,1.28,252
+"Angola",2013,1.64,265
+"Angola",2014,1.22,285
+"Angola",2015,1.18,306
+"Angola",2016,1.14,330
+"Angola",2017,1.12,355
+"Albania",1989,1.68,104
+"Albania",1990,1.31,110
+"Albania",1991,0.775,111
+"Albania",1992,0.731,111
+"Albania",1993,0.612,112
+"Albania",1994,0.67,120
+"Albania",1995,0.651,129
+"Albania",1996,0.498,137
+"Albania",1997,0.563,144
+"Albania",1998,0.956,155
+"Albania",1999,0.966,155
+"Albania",2000,1.03,155
+"Albania",2001,1.2,165
+"Albania",2002,1.38,173
+"Albania",2003,1.34,173
+"Albania",2004,1.38,173
+"Albania",2005,1.27,171
+"Albania",2006,1.29,167
+"Albania",2007,1.46,170
+"Albania",2008,1.47,166
+"Albania",2009,1.56,161
+"Albania",2010,1.79,170
+"Albania",2011,1.69,177
+"Albania",2012,1.69,185
+"Albania",2013,1.9,193
+"Albania",2014,1.6,203
+"Albania",2015,1.57,212
+"Albania",2016,1.61,221
+"Albania",2017,1.59,229
+"Andorra",1989,7.47,3.8
+"Andorra",1990,7.18,4.06
+"Andorra",1991,6.91,4.35
+"Andorra",1992,6.74,4.69
+"Andorra",1993,6.49,4.89
+"Andorra",1994,6.66,4.95
+"Andorra",1995,7.06,5.07
+"Andorra",1996,7.24,5.24
+"Andorra",1997,7.66,5.43
+"Andorra",1998,7.98,5.61
+"Andorra",1999,8.02,5.82
+"Andorra",2000,7.79,6.07
+"Andorra",2001,7.59,6.33
+"Andorra",2002,7.32,6.64
+"Andorra",2003,7.36,7.02
+"Andorra",2004,7.3,7.17
+"Andorra",2005,6.75,7.5
+"Andorra",2006,6.52,7.76
+"Andorra",2007,6.43,8.14
+"Andorra",2008,6.12,8.57
+"Andorra",2009,6.12,8.81
+"Andorra",2010,5.87,8.49
+"Andorra",2011,5.92,8.61
+"Andorra",2012,5.9,9.03
+"Andorra",2013,5.83,9.5
+"Andorra",2014,5.97,9.97
+"Andorra",2015,6.07,10.2
+"Andorra",2016,6.27,10.6
+"Andorra",2017,6.12,11
+"United Arab Emirates",1989,28.3,11.6
+"United Arab Emirates",1990,29.3,12.7
+"United Arab Emirates",1991,28.2,13.8
+"United Arab Emirates",1992,30.2,15
+"United Arab Emirates",1993,31.7,16.4
+"United Arab Emirates",1994,29,17.8
+"United Arab Emirates",1995,28.7,19.2
+"United Arab Emirates",1996,27.4,20.5
+"United Arab Emirates",1997,28.7,21.9
+"United Arab Emirates",1998,26.2,23.5
+"United Arab Emirates",1999,35.7,24.6
+"United Arab Emirates",2000,30.5,26.2
+"United Arab Emirates",2001,24.1,27.7
+"United Arab Emirates",2002,28.5,30.7
+"United Arab Emirates",2003,27.5,34.1
+"United Arab Emirates",2004,25,35.6
+"United Arab Emirates",2005,23,38
+"United Arab Emirates",2006,21.6,40.7
+"United Arab Emirates",2007,21.7,43.5
+"United Arab Emirates",2008,20.9,47.2
+"United Arab Emirates",2009,18.3,51.2
+"United Arab Emirates",2010,18.9,55.8
+"United Arab Emirates",2011,23.8,60.7
+"United Arab Emirates",2012,23.7,65
+"United Arab Emirates",2013,24.2,66.2
+"United Arab Emirates",2014,20.7,73
+"United Arab Emirates",2015,21.7,80.4
+"United Arab Emirates",2016,21.1,88.4
+"United Arab Emirates",2017,21.4,97.8
+"Argentina",1989,3.43,1750
+"Argentina",1990,3.54,1810
+"Argentina",1991,3.61,1900
+"Argentina",1992,3.46,1970
+"Argentina",1993,3.55,2030
+"Argentina",1994,3.67,2100
+"Argentina",1995,3.82,2190
+"Argentina",1996,3.86,2280
+"Argentina",1997,3.87,2390
+"Argentina",1998,4.02,2490
+"Argentina",1999,3.85,2510
+"Argentina",2000,3.58,2600
+"Argentina",2001,3.3,2680
+"Argentina",2002,3.54,2800
+"Argentina",2003,4.08,2860
+"Argentina",2004,4.15,2930
+"Argentina",2005,4.45,3060
+"Argentina",2006,4.39,3220
+"Argentina",2007,4.7,3290
+"Argentina",2008,4.42,3450
+"Argentina",2009,4.57,3530
+"Argentina",2010,4.61,3680
+"Argentina",2011,4.6,3800
+"Argentina",2012,4.56,3900
+"Argentina",2013,4.56,3960
+"Argentina",2014,4.64,4060
+"Argentina",2015,4.6,4220
+"Argentina",2016,4.55,4290
+"Argentina",2017,4.41,4340
+"Armenia",1989,5.12,168
+"Armenia",1990,5.37,169
+"Armenia",1991,1.7,179
+"Armenia",1992,0.766,178
+"Armenia",1993,0.827,169
+"Armenia",1994,1.07,171
+"Armenia",1995,0.819,174
+"Armenia",1996,1.04,176
+"Armenia",1997,1.09,185
+"Armenia",1998,0.988,188
+"Armenia",1999,1.14,198
+"Armenia",2000,1.16,205
+"Armenia",2001,1.01,205
+"Armenia",2002,1.15,210
+"Armenia",2003,1.23,211
+"Armenia",2004,1.47,216
+"Armenia",2005,1.49,224
+"Armenia",2006,1.74,224
+"Armenia",2007,1.92,236
+"Armenia",2008,1.51,236
+"Armenia",2009,1.48,231
+"Armenia",2010,1.73,231
+"Armenia",2011,1.99,226
+"Armenia",2012,1.91,220
+"Armenia",2013,1.91,218
+"Armenia",2014,1.65,222
+"Armenia",2015,1.76,220
+"Armenia",2016,1.7,229
+"Armenia",2017,1.89,235
+"Antigua and Barbuda",1989,4.52,1.2
+"Antigua and Barbuda",1990,4.22,1.27
+"Antigua and Barbuda",1991,4.1,1.29
+"Antigua and Barbuda",1992,4.13,1.38
+"Antigua and Barbuda",1993,3.98,1.38
+"Antigua and Barbuda",1994,4,1.41
+"Antigua and Barbuda",1995,4.18,1.45
+"Antigua and Barbuda",1996,4.3,1.48
+"Antigua and Barbuda",1997,4.36,1.52
+"Antigua and Barbuda",1998,4.42,1.56
+"Antigua and Barbuda",1999,4.54,1.63
+"Antigua and Barbuda",2000,4.51,1.68
+"Antigua and Barbuda",2001,4.73,1.76
+"Antigua and Barbuda",2002,5.09,1.81
+"Antigua and Barbuda",2003,5.25,1.87
+"Antigua and Barbuda",2004,5.27,1.95
+"Antigua and Barbuda",2005,5.36,2.04
+"Antigua and Barbuda",2006,5.59,2.15
+"Antigua and Barbuda",2007,5.63,2.23
+"Antigua and Barbuda",2008,5.88,2.32
+"Antigua and Barbuda",2009,5.96,2.42
+"Antigua and Barbuda",2010,5.75,2.54
+"Antigua and Barbuda",2011,5.8,2.67
+"Antigua and Barbuda",2012,5.73,2.8
+"Antigua and Barbuda",2013,5.7,2.95
+"Antigua and Barbuda",2014,5.84,3.08
+"Antigua and Barbuda",2015,5.9,3.21
+"Antigua and Barbuda",2016,5.89,3.3
+"Antigua and Barbuda",2017,5.88,3.41
+"Australia",1989,16.4,2070
+"Australia",1990,16.3,2160
+"Australia",1991,16.4,2260
+"Australia",1992,16.4,2330
+"Australia",1993,16.5,2450
+"Australia",1994,17,2550
+"Australia",1995,17.2,2650
+"Australia",1996,17.5,2750
+"Australia",1997,18,2820
+"Australia",1998,18.3,2910
+"Australia",1999,18.5,3060
+"Australia",2000,18.6,3160
+"Australia",2001,18.7,3340
+"Australia",2002,18.9,3440
+"Australia",2003,19.3,3600
+"Australia",2004,19.2,3680
+"Australia",2005,19.1,3830
+"Australia",2006,19.2,4050
+"Australia",2007,19,4190
+"Australia",2008,18.8,4370
+"Australia",2009,18.4,4290
+"Australia",2010,18,4440
+"Australia",2011,17.8,4520
+"Australia",2012,17.1,4650
+"Australia",2013,16.7,4850
+"Australia",2014,16.8,4810
+"Australia",2015,17,4860
+"Australia",2016,17,4960
+"Australia",2017,16.9,5150
+"Austria",1989,8.08,880
+"Austria",1990,8.49,903
+"Austria",1991,7.72,926
+"Austria",1992,7.71,963
+"Austria",1993,7.71,988
+"Austria",1994,8.05,1030
+"Austria",1995,8.45,1070
+"Austria",1996,8.41,1080
+"Austria",1997,8.35,1120
+"Austria",1998,8.17,1180
+"Austria",1999,8.22,1230
+"Austria",2000,8.69,1250
+"Austria",2001,8.87,1300
+"Austria",2002,9.52,1380
+"Austria",2003,9.49,1400
+"Austria",2004,9.63,1450
+"Austria",2005,9.31,1480
+"Austria",2006,8.96,1570
+"Austria",2007,8.85,1640
+"Austria",2008,8.1,1720
+"Austria",2009,8.6,1750
+"Austria",2010,8.3,1840
+"Austria",2011,7.95,1890
+"Austria",2012,7.97,1940
+"Austria",2013,7.49,2040
+"Austria",2014,7.7,2040
+"Austria",2015,7.7,2060
+"Austria",2016,7.94,2020
+"Austria",2017,7.75,2020
+"Azerbaijan",1989,7.14,238
+"Azerbaijan",1990,6.93,240
+"Azerbaijan",1991,7.52,244
+"Azerbaijan",1992,6.39,245
+"Azerbaijan",1993,5.46,242
+"Azerbaijan",1994,4.29,235
+"Azerbaijan",1995,3.98,227
+"Azerbaijan",1996,3.76,222
+"Azerbaijan",1997,3.97,221
+"Azerbaijan",1998,3.55,222
+"Azerbaijan",1999,3.64,223
+"Azerbaijan",2000,3.52,220
+"Azerbaijan",2001,3.58,227
+"Azerbaijan",2002,3.67,235
+"Azerbaijan",2003,3.8,242
+"Azerbaijan",2004,4.02,256
+"Azerbaijan",2005,4.54,272
+"Azerbaijan",2006,3.49,292
+"Azerbaijan",2007,4.02,313
+"Azerbaijan",2008,3.57,333
+"Azerbaijan",2009,3.39,344
+"Azerbaijan",2010,3.61,356
+"Azerbaijan",2011,3.79,368
+"Azerbaijan",2012,3.74,376
+"Azerbaijan",2013,3.88,389
+"Azerbaijan",2014,3.86,391
+"Azerbaijan",2015,3.82,406
+"Azerbaijan",2016,3.73,424
+"Azerbaijan",2017,3.7,437
+"Burundi",1989,0.0384,41.6
+"Burundi",1990,0.0428,42.1
+"Burundi",1991,0.0381,42.6
+"Burundi",1992,0.0392,43.3
+"Burundi",1993,0.0398,43.4
+"Burundi",1994,0.0398,43.6
+"Burundi",1995,0.0399,43.6
+"Burundi",1996,0.0407,43.5
+"Burundi",1997,0.0403,43.6
+"Burundi",1998,0.0404,43.1
+"Burundi",1999,0.0425,42.5
+"Burundi",2000,0.0315,41.6
+"Burundi",2001,0.0317,41.6
+"Burundi",2002,0.0233,42.2
+"Burundi",2003,0.0278,43.3
+"Burundi",2004,0.0209,44.1
+"Burundi",2005,0.0246,44.5
+"Burundi",2006,0.0238,45
+"Burundi",2007,0.0235,45.9
+"Burundi",2008,0.0227,47.3
+"Burundi",2009,0.0355,49.6
+"Burundi",2010,0.047,51.6
+"Burundi",2011,0.0411,54.1
+"Burundi",2012,0.0419,56.4
+"Burundi",2013,0.0383,58.3
+"Burundi",2014,0.0386,60.2
+"Burundi",2015,0.0461,62
+"Burundi",2016,0.047,64.3
+"Burundi",2017,0.0467,67.7
+"Belgium",1989,12.1,1130
+"Belgium",1990,12.3,1150
+"Belgium",1991,12.2,1190
+"Belgium",1992,12,1200
+"Belgium",1993,12.3,1240
+"Belgium",1994,12.4,1260
+"Belgium",1995,12.7,1270
+"Belgium",1996,12.1,1310
+"Belgium",1997,12.7,1360
+"Belgium",1998,12.2,1380
+"Belgium",1999,12.3,1440
+"Belgium",2000,12.2,1490
+"Belgium",2001,12.2,1550
+"Belgium",2002,12.3,1590
+"Belgium",2003,12.3,1660
+"Belgium",2004,11.9,1710
+"Belgium",2005,11.7,1770
+"Belgium",2006,11.3,1880
+"Belgium",2007,11.2,1860
+"Belgium",2008,9.93,2130
+"Belgium",2009,10.4,2240
+"Belgium",2010,9.48,2410
+"Belgium",2011,9.17,2510
+"Belgium",2012,9.11,2670
+"Belgium",2013,8.55,2680
+"Belgium",2014,8.84,2730
+"Belgium",2015,8.68,2700
+"Belgium",2016,8.55,2650
+"Belgium",2017,8.69,2630
+"Benin",1989,0.137,42.5
+"Benin",1990,0.154,43.4
+"Benin",1991,0.162,44.5
+"Benin",1992,0.197,45.9
+"Benin",1993,0.214,47.6
+"Benin",1994,0.216,49.4
+"Benin",1995,0.202,51.1
+"Benin",1996,0.191,52.4
+"Benin",1997,0.185,53.8
+"Benin",1998,0.232,55.4
+"Benin",1999,0.229,57.5
+"Benin",2000,0.253,59.4
+"Benin",2001,0.282,61.6
+"Benin",2002,0.31,63.8
+"Benin",2003,0.32,66.5
+"Benin",2004,0.297,69.1
+"Benin",2005,0.452,72.2
+"Benin",2006,0.511,75.2
+"Benin",2007,0.49,79.4
+"Benin",2008,0.504,84.3
+"Benin",2009,0.537,88.9
+"Benin",2010,0.517,93.7
+"Benin",2011,0.477,97.8
+"Benin",2012,0.488,102
+"Benin",2013,0.508,107
+"Benin",2014,0.555,111
+"Benin",2015,0.577,116
+"Benin",2016,0.618,122
+"Benin",2017,0.623,128
+"Burkina Faso",1989,0.0662,79.1
+"Burkina Faso",1990,0.0693,78.7
+"Burkina Faso",1991,0.0678,79.5
+"Burkina Faso",1992,0.0656,80
+"Burkina Faso",1993,0.0658,80.7
+"Burkina Faso",1994,0.0619,81.6
+"Burkina Faso",1995,0.068,81.8
+"Burkina Faso",1996,0.0753,83.9
+"Burkina Faso",1997,0.0783,86.4
+"Burkina Faso",1998,0.0811,86.9
+"Burkina Faso",1999,0.0889,88.8
+"Burkina Faso",2000,0.0831,89.4
+"Burkina Faso",2001,0.0815,91.3
+"Burkina Faso",2002,0.085,95.2
+"Burkina Faso",2003,0.0845,100
+"Burkina Faso",2004,0.0837,105
+"Burkina Faso",2005,0.0982,108
+"Burkina Faso",2006,0.112,111
+"Burkina Faso",2007,0.118,114
+"Burkina Faso",2008,0.121,117
+"Burkina Faso",2009,0.131,124
+"Burkina Faso",2010,0.133,130
+"Burkina Faso",2011,0.158,138
+"Burkina Faso",2012,0.168,148
+"Burkina Faso",2013,0.166,157
+"Burkina Faso",2014,0.182,168
+"Burkina Faso",2015,0.181,181
+"Burkina Faso",2016,0.196,194
+"Burkina Faso",2017,0.198,206
+"Bangladesh",1989,0.137,519
+"Bangladesh",1990,0.14,503
+"Bangladesh",1991,0.143,527
+"Bangladesh",1992,0.146,541
+"Bangladesh",1993,0.156,558
+"Bangladesh",1994,0.183,587
+"Bangladesh",1995,0.183,598
+"Bangladesh",1996,0.193,608
+"Bangladesh",1997,0.189,628
+"Bangladesh",1998,0.2,658
+"Bangladesh",1999,0.208,697
+"Bangladesh",2000,0.239,717
+"Bangladesh",2001,0.242,747
+"Bangladesh",2002,0.248,773
+"Bangladesh",2003,0.263,805
+"Bangladesh",2004,0.271,859
+"Bangladesh",2005,0.296,906
+"Bangladesh",2006,0.299,950
+"Bangladesh",2007,0.314,1000
+"Bangladesh",2008,0.337,1080
+"Bangladesh",2009,0.366,1170
+"Bangladesh",2010,0.379,1240
+"Bangladesh",2011,0.402,1330
+"Bangladesh",2012,0.405,1410
+"Bangladesh",2013,0.427,1500
+"Bangladesh",2014,0.467,1600
+"Bangladesh",2015,0.481,1720
+"Bangladesh",2016,0.494,1860
+"Bangladesh",2017,0.531,2010
+"Bulgaria",1989,8.66,552
+"Bulgaria",1990,6.98,545
+"Bulgaria",1991,6.57,520
+"Bulgaria",1992,6.72,480
+"Bulgaria",1993,6.61,469
+"Bulgaria",1994,6.88,468
+"Bulgaria",1995,7,466
+"Bulgaria",1996,6.78,473
+"Bulgaria",1997,6.54,473
+"Bulgaria",1998,5.74,481
+"Bulgaria",1999,5.66,500
+"Bulgaria",2000,6.17,516
+"Bulgaria",2001,5.87,544
+"Bulgaria",2002,6.47,579
+"Bulgaria",2003,6.4,644
+"Bulgaria",2004,6.59,693
+"Bulgaria",2005,6.8,741
+"Bulgaria",2006,7.35,791
+"Bulgaria",2007,7.18,829
+"Bulgaria",2008,6.12,862
+"Bulgaria",2009,6.44,897
+"Bulgaria",2010,7.2,935
+"Bulgaria",2011,6.59,953
+"Bulgaria",2012,5.84,964
+"Bulgaria",2013,6.23,1000
+"Bulgaria",2014,6.69,1010
+"Bulgaria",2015,6.33,992
+"Bulgaria",2016,6.68,986
+"Bulgaria",2017,6.32,988
+"Bahrain",1989,25,11.5
+"Bahrain",1990,23.3,11.7
+"Bahrain",1991,20.8,12
+"Bahrain",1992,27.3,12.1
+"Bahrain",1993,26.9,12.1
+"Bahrain",1994,26.3,12.3
+"Bahrain",1995,27,12.8
+"Bahrain",1996,29.1,13
+"Bahrain",1997,30,14.4
+"Bahrain",1998,28.3,15.7
+"Bahrain",1999,28.3,15.4
+"Bahrain",2000,20.2,15
+"Bahrain",2001,21.6,16.7
+"Bahrain",2002,21.6,18.6
+"Bahrain",2003,21.6,19.9
+"Bahrain",2004,22.3,20.8
+"Bahrain",2005,20.3,21
+"Bahrain",2006,25.9,21.4
+"Bahrain",2007,26.7,22.2
+"Bahrain",2008,23.7,22.4
+"Bahrain",2009,23.5,22.6
+"Bahrain",2010,22.4,22.6
+"Bahrain",2011,21,22.4
+"Bahrain",2012,23.7,23.1
+"Bahrain",2013,23.3,23.9
+"Bahrain",2014,23.8,26.2
+"Bahrain",2015,22.1,28.5
+"Bahrain",2016,21.3,31.3
+"Bahrain",2017,19.8,33.8
+"Bahamas",1989,7.18,6.04
+"Bahamas",1990,7.07,6.01
+"Bahamas",1991,6.96,6
+"Bahamas",1992,6.49,6.16
+"Bahamas",1993,6.34,6.31
+"Bahamas",1994,6.22,6.63
+"Bahamas",1995,6.09,7.11
+"Bahamas",1996,5.32,7.33
+"Bahamas",1997,6.57,7.59
+"Bahamas",1998,6.65,8.18
+"Bahamas",1999,6.55,8.64
+"Bahamas",2000,6.18,8.99
+"Bahamas",2001,6.27,9.27
+"Bahamas",2002,6.28,9.75
+"Bahamas",2003,6.19,10.1
+"Bahamas",2004,5.63,10.5
+"Bahamas",2005,5.37,11.1
+"Bahamas",2006,5.33,11.3
+"Bahamas",2007,6.87,11.9
+"Bahamas",2008,4.59,12.6
+"Bahamas",2009,6.73,13.1
+"Bahamas",2010,5.01,13.6
+"Bahamas",2011,5.24,13.9
+"Bahamas",2012,7.82,14.7
+"Bahamas",2013,6.34,14.8
+"Bahamas",2014,5.39,15.3
+"Bahamas",2015,4.73,15.7
+"Bahamas",2016,4.72,16.1
+"Bahamas",2017,4.7,16.6
+"Bosnia and Herzegovina",1989,4.36,278
+"Bosnia and Herzegovina",1990,3.16,297
+"Bosnia and Herzegovina",1991,3.55,305
+"Bosnia and Herzegovina",1992,3.09,305
+"Bosnia and Herzegovina",1993,0.815,305
+"Bosnia and Herzegovina",1994,0.889,305
+"Bosnia and Herzegovina",1995,1.13,312
+"Bosnia and Herzegovina",1996,2.24,332
+"Bosnia and Herzegovina",1997,2.83,339
+"Bosnia and Herzegovina",1998,2.76,364
+"Bosnia and Herzegovina",1999,3.66,381
+"Bosnia and Herzegovina",2000,3.53,404
+"Bosnia and Herzegovina",2001,3.77,424
+"Bosnia and Herzegovina",2002,3.82,434
+"Bosnia and Herzegovina",2003,4.11,448
+"Bosnia and Herzegovina",2004,4.26,451
+"Bosnia and Herzegovina",2005,4.62,462
+"Bosnia and Herzegovina",2006,4.65,486
+"Bosnia and Herzegovina",2007,5.32,474
+"Bosnia and Herzegovina",2008,5.5,485
+"Bosnia and Herzegovina",2009,5.71,496
+"Bosnia and Herzegovina",2010,6.5,496
+"Bosnia and Herzegovina",2011,6.15,504
+"Bosnia and Herzegovina",2012,6.16,518
+"Bosnia and Herzegovina",2013,5.55,530
+"Bosnia and Herzegovina",2014,5.39,552
+"Bosnia and Herzegovina",2015,6.42,555
+"Bosnia and Herzegovina",2016,6.5,560
+"Bosnia and Herzegovina",2017,6.53,569
+"Belarus",1989,10.3,656
+"Belarus",1990,9.56,689
+"Belarus",1991,8.87,705
+"Belarus",1992,7.66,721
+"Belarus",1993,6.37,696
+"Belarus",1994,5.76,681
+"Belarus",1995,5.9,669
+"Belarus",1996,6.25,670
+"Belarus",1997,5.96,650
+"Belarus",1998,5.75,627
+"Belarus",1999,5.62,581
+"Belarus",2000,5.67,572
+"Belarus",2001,5.72,533
+"Belarus",2002,5.91,504
+"Belarus",2003,6.32,506
+"Belarus",2004,6.5,508
+"Belarus",2005,6.82,496
+"Belarus",2006,6.78,483
+"Belarus",2007,7.03,488
+"Belarus",2008,6.57,505
+"Belarus",2009,6.79,530
+"Belarus",2010,6.68,523
+"Belarus",2011,6.77,496
+"Belarus",2012,6.85,488
+"Belarus",2013,6.77,492
+"Belarus",2014,6.29,492
+"Belarus",2015,6.46,510
+"Belarus",2016,6.64,526
+"Belarus",2017,6.93,542
+"Belize",1989,1.66,2.26
+"Belize",1990,2.13,2.25
+"Belize",1991,1.83,2.29
+"Belize",1992,1.91,2.39
+"Belize",1993,1.85,2.54
+"Belize",1994,1.82,2.76
+"Belize",1995,1.44,3.02
+"Belize",1996,1.75,3.28
+"Belize",1997,1.61,3.44
+"Belize",1998,1.46,3.56
+"Belize",1999,1.6,3.84
+"Belize",2000,1.75,3.98
+"Belize",2001,1.65,4.21
+"Belize",2002,1.61,4.41
+"Belize",2003,1.42,4.67
+"Belize",2004,1.49,4.92
+"Belize",2005,1.52,5.37
+"Belize",2006,1.59,5.68
+"Belize",2007,1.42,5.89
+"Belize",2008,1.86,6.19
+"Belize",2009,1.67,6.52
+"Belize",2010,1.82,6.84
+"Belize",2011,1.41,7.17
+"Belize",2012,1.49,7.54
+"Belize",2013,1.4,7.84
+"Belize",2014,1.61,8.05
+"Belize",2015,1.54,8.34
+"Belize",2016,1.51,8.79
+"Belize",2017,1.5,9.33
+"Bolivia",1989,0.835,129
+"Bolivia",1990,0.853,137
+"Bolivia",1991,0.925,146
+"Bolivia",1992,1.07,153
+"Bolivia",1993,1.15,160
+"Bolivia",1994,1.29,167
+"Bolivia",1995,1.26,173
+"Bolivia",1996,1.37,185
+"Bolivia",1997,1.35,191
+"Bolivia",1998,1.26,195
+"Bolivia",1999,1.31,206
+"Bolivia",2000,0.999,215
+"Bolivia",2001,1.18,227
+"Bolivia",2002,1.24,237
+"Bolivia",2003,1.22,249
+"Bolivia",2004,1.31,260
+"Bolivia",2005,1.59,270
+"Bolivia",2006,1.27,285
+"Bolivia",2007,1.34,294
+"Bolivia",2008,1.38,303
+"Bolivia",2009,1.49,315
+"Bolivia",2010,1.57,330
+"Bolivia",2011,1.79,343
+"Bolivia",2012,1.79,353
+"Bolivia",2013,1.87,348
+"Bolivia",2014,1.81,367
+"Bolivia",2015,1.92,402
+"Bolivia",2016,1.94,417
+"Bolivia",2017,1.96,436
+"Brazil",1989,1.39,4260
+"Brazil",1990,1.43,4410
+"Brazil",1991,1.42,4620
+"Brazil",1992,1.46,4890
+"Brazil",1993,1.5,5130
+"Brazil",1994,1.58,5400
+"Brazil",1995,1.71,5680
+"Brazil",1996,1.78,5920
+"Brazil",1997,1.82,6220
+"Brazil",1998,1.84,6520
+"Brazil",1999,1.86,6890
+"Brazil",2000,1.88,7200
+"Brazil",2001,1.83,7540
+"Brazil",2002,1.75,7900
+"Brazil",2003,1.81,8260
+"Brazil",2004,1.84,8590
+"Brazil",2005,1.82,9010
+"Brazil",2006,1.88,9430
+"Brazil",2007,1.98,9870
+"Brazil",2008,1.86,NA
+"Brazil",2009,2.1,NA
+"Brazil",2010,2.18,NA
+"Brazil",2011,2.31,NA
+"Brazil",2012,2.46,NA
+"Brazil",2013,2.59,NA
+"Brazil",2014,2.42,NA
+"Brazil",2015,2.2,NA
+"Brazil",2016,2.23,NA
+"Brazil",2017,2.18,NA
+"Barbados",1989,4.1,7.5
+"Barbados",1990,4.59,7.49
+"Barbados",1991,3.71,7.66
+"Barbados",1992,4.17,7.56
+"Barbados",1993,2.8,7.35
+"Barbados",1994,3.03,7.45
+"Barbados",1995,3.09,7.62
+"Barbados",1996,3.32,7.89
+"Barbados",1997,4.09,8.24
+"Barbados",1998,4.3,8.61
+"Barbados",1999,4.24,9.18
+"Barbados",2000,4.36,9.5
+"Barbados",2001,4.39,10.1
+"Barbados",2002,4.54,10.7
+"Barbados",2003,4.62,11
+"Barbados",2004,4.78,11.3
+"Barbados",2005,4.84,11.6
+"Barbados",2006,4.89,12.2
+"Barbados",2007,5.76,12.8
+"Barbados",2008,5.69,13.3
+"Barbados",2009,5.19,13.8
+"Barbados",2010,5.36,14.4
+"Barbados",2011,5.15,14.7
+"Barbados",2012,5.06,15.1
+"Barbados",2013,4.37,15.3
+"Barbados",2014,4.36,15.5
+"Barbados",2015,4.43,15.8
+"Barbados",2016,4.44,16.2
+"Barbados",2017,4.48,16.5
+"Brunei",1989,23.9,14.3
+"Brunei",1990,19.9,14.7
+"Brunei",1991,19,15.2
+"Brunei",1992,17.6,15.8
+"Brunei",1993,16.2,16.2
+"Brunei",1994,16.1,16.8
+"Brunei",1995,15.6,17.4
+"Brunei",1996,15.8,18.6
+"Brunei",1997,16.2,19.2
+"Brunei",1998,11.7,19.9
+"Brunei",1999,13.8,20.9
+"Brunei",2000,12.9,21.5
+"Brunei",2001,12.3,22.3
+"Brunei",2002,12.7,23.5
+"Brunei",2003,13.6,24.9
+"Brunei",2004,13.3,26.2
+"Brunei",2005,12.8,27.5
+"Brunei",2006,22.2,29
+"Brunei",2007,23.7,30
+"Brunei",2008,20.2,31.5
+"Brunei",2009,20.8,33.1
+"Brunei",2010,24.3,35
+"Brunei",2011,23.8,37.3
+"Brunei",2012,18.9,39.5
+"Brunei",2013,21.8,41.5
+"Brunei",2014,16.8,43.8
+"Brunei",2015,18,45.9
+"Brunei",2016,17.9,48
+"Brunei",2017,18.5,50.5
+"Bhutan",1989,0.242,3.16
+"Bhutan",1990,0.33,3.29
+"Bhutan",1991,0.385,3.41
+"Bhutan",1992,0.325,3.57
+"Bhutan",1993,0.379,3.75
+"Bhutan",1994,0.442,3.97
+"Bhutan",1995,0.527,4.14
+"Bhutan",1996,0.683,4.37
+"Bhutan",1997,0.651,4.59
+"Bhutan",1998,0.642,4.73
+"Bhutan",1999,0.646,5.01
+"Bhutan",2000,0.612,5.17
+"Bhutan",2001,0.653,5.34
+"Bhutan",2002,0.576,5.58
+"Bhutan",2003,0.455,5.81
+"Bhutan",2004,0.583,6.06
+"Bhutan",2005,0.568,6.29
+"Bhutan",2006,0.56,6.58
+"Bhutan",2007,0.597,6.88
+"Bhutan",2008,0.543,7.22
+"Bhutan",2009,0.678,7.62
+"Bhutan",2010,0.964,8.04
+"Bhutan",2011,1.1,8.45
+"Bhutan",2012,1.2,8.84
+"Bhutan",2013,1.33,9.22
+"Bhutan",2014,1.34,9.61
+"Bhutan",2015,1.56,10
+"Bhutan",2016,1.58,10.4
+"Bhutan",2017,1.61,11
+"Botswana",1989,2.1,23.4
+"Botswana",1990,1.99,25
+"Botswana",1991,2.04,26.6
+"Botswana",1992,2.29,28.1
+"Botswana",1993,2.11,29.5
+"Botswana",1994,2.07,30.6
+"Botswana",1995,1.83,31.2
+"Botswana",1996,1.82,32
+"Botswana",1997,2.12,34
+"Botswana",1998,1.96,36.3
+"Botswana",1999,2.3,39.1
+"Botswana",2000,2.3,41.6
+"Botswana",2001,2.33,43.9
+"Botswana",2002,2.21,45.4
+"Botswana",2003,2.21,46
+"Botswana",2004,2.28,46
+"Botswana",2005,2.25,47.3
+"Botswana",2006,2.26,49.8
+"Botswana",2007,2.35,54.1
+"Botswana",2008,1.98,57.1
+"Botswana",2009,2.28,60.6
+"Botswana",2010,2,64.7
+"Botswana",2011,2.49,67.7
+"Botswana",2012,2.75,71.3
+"Botswana",2013,3.28,75
+"Botswana",2014,2.56,77.4
+"Botswana",2015,2.93,79.2
+"Botswana",2016,3.14,82.2
+"Botswana",2017,2.96,85.8
+"Central African Republic",1989,0.0706,26.8
+"Central African Republic",1990,0.0713,27.5
+"Central African Republic",1991,0.0731,27.2
+"Central African Republic",1992,0.0734,28.1
+"Central African Republic",1993,0.0749,28.7
+"Central African Republic",1994,0.0728,29.4
+"Central African Republic",1995,0.0709,30.4
+"Central African Republic",1996,0.0724,30.6
+"Central African Republic",1997,0.0717,31.2
+"Central African Republic",1998,0.0742,31.9
+"Central African Republic",1999,0.0735,32.1
+"Central African Republic",2000,0.066,32.6
+"Central African Republic",2001,0.0646,33.3
+"Central African Republic",2002,0.0605,33.9
+"Central African Republic",2003,0.0593,34.6
+"Central African Republic",2004,0.0581,35
+"Central African Republic",2005,0.0605,35.5
+"Central African Republic",2006,0.0603,36.2
+"Central African Republic",2007,0.0592,36.7
+"Central African Republic",2008,0.0583,37.7
+"Central African Republic",2009,0.0602,39.4
+"Central African Republic",2010,0.0631,41.2
+"Central African Republic",2011,0.0661,42.5
+"Central African Republic",2012,0.0643,43.2
+"Central African Republic",2013,0.0649,43.5
+"Central African Republic",2014,0.0653,44.1
+"Central African Republic",2015,0.0655,44.9
+"Central African Republic",2016,0.0645,45.8
+"Central African Republic",2017,0.0651,47.2
+"Canada",1989,16.8,5810
+"Canada",1990,16.2,6110
+"Canada",1991,16.5,6400
+"Canada",1992,16.4,6710
+"Canada",1993,16.7,7010
+"Canada",1994,17,7410
+"Canada",1995,17.3,7750
+"Canada",1996,17.6,7980
+"Canada",1997,17.8,8390
+"Canada",1998,18.1,8670
+"Canada",1999,18.7,9000
+"Canada",2000,18.3,9260
+"Canada",2001,18.3,9700
+"Canada",2002,18.7,NA
+"Canada",2003,18.4,NA
+"Canada",2004,17.9,NA
+"Canada",2005,17.6,NA
+"Canada",2006,18.1,NA
+"Canada",2007,17.3,NA
+"Canada",2008,16.1,NA
+"Canada",2009,16.3,NA
+"Canada",2010,16.4,NA
+"Canada",2011,16.3,NA
+"Canada",2012,16.4,NA
+"Canada",2013,16.2,NA
+"Canada",2014,16,NA
+"Canada",2015,15.5,NA
+"Canada",2016,15.6,NA
+"Canada",2017,15.3,NA
+"Switzerland",1989,6.64,868
+"Switzerland",1990,6.87,886
+"Switzerland",1991,6.78,896
+"Switzerland",1992,6.35,901
+"Switzerland",1993,6.16,860
+"Switzerland",1994,6.21,903
+"Switzerland",1995,6.27,896
+"Switzerland",1996,6.09,926
+"Switzerland",1997,6.3,942
+"Switzerland",1998,6.25,964
+"Switzerland",1999,6.11,939
+"Switzerland",2000,6.28,1060
+"Switzerland",2001,6.02,1140
+"Switzerland",2002,6.15,1220
+"Switzerland",2003,6.18,1260
+"Switzerland",2004,6.2,1300
+"Switzerland",2005,6.09,1390
+"Switzerland",2006,5.76,1450
+"Switzerland",2007,5.87,1490
+"Switzerland",2008,5.65,1560
+"Switzerland",2009,5.77,1580
+"Switzerland",2010,5.19,1610
+"Switzerland",2011,5.28,1670
+"Switzerland",2012,5.33,1690
+"Switzerland",2013,4.78,1680
+"Switzerland",2014,4.67,1650
+"Switzerland",2015,4.68,1700
+"Switzerland",2016,4.52,1710
+"Switzerland",2017,4.33,1720
+"Chile",1989,2.48,501
+"Chile",1990,2.31,509
+"Chile",1991,2.35,524
+"Chile",1992,2.46,552
+"Chile",1993,2.67,574
+"Chile",1994,2.86,597
+"Chile",1995,3.27,621
+"Chile",1996,3.75,648
+"Chile",1997,3.8,672
+"Chile",1998,4.02,704
+"Chile",1999,3.79,715
+"Chile",2000,3.39,767
+"Chile",2001,3.48,791
+"Chile",2002,3.47,839
+"Chile",2003,3.69,885
+"Chile",2004,3.77,922
+"Chile",2005,3.91,972
+"Chile",2006,4.28,1020
+"Chile",2007,4.24,1050
+"Chile",2008,3.91,1120
+"Chile",2009,4.18,1190
+"Chile",2010,4.53,1260
+"Chile",2011,4.58,1320
+"Chile",2012,4.65,1390
+"Chile",2013,4.36,1420
+"Chile",2014,4.55,1480
+"Chile",2015,4.62,1510
+"Chile",2016,4.52,1580
+"Chile",2017,4.59,1640
+"China",1989,2.06,NA
+"China",1990,2.13,NA
+"China",1991,2.2,NA
+"China",1992,2.33,NA
+"China",1993,2.45,NA
+"China",1994,2.63,NA
+"China",1995,2.73,NA
+"China",1996,2.71,NA
+"China",1997,2.57,NA
+"China",1998,2.54,NA
+"China",1999,2.6,NA
+"China",2000,2.64,NA
+"China",2001,2.9,NA
+"China",2002,3.39,NA
+"China",2003,3.88,NA
+"China",2004,4.34,NA
+"China",2005,4.77,NA
+"China",2006,5.1,NA
+"China",2007,5.45,NA
+"China",2008,5.7,NA
+"China",2009,6.22,NA
+"China",2010,6.83,NA
+"China",2011,6.97,NA
+"China",2012,7.04,NA
+"China",2013,7.02,NA
+"China",2014,6.91,NA
+"China",2015,6.87,NA
+"China",2016,6.93,NA
+"China",2017,7.06,NA
+"Cote d'Ivoire",1989,0.401,85.3
+"Cote d'Ivoire",1990,0.349,88.9
+"Cote d'Ivoire",1991,0.3,92.8
+"Cote d'Ivoire",1992,0.384,97.8
+"Cote d'Ivoire",1993,0.301,102
+"Cote d'Ivoire",1994,0.431,106
+"Cote d'Ivoire",1995,0.501,111
+"Cote d'Ivoire",1996,0.464,115
+"Cote d'Ivoire",1997,0.423,122
+"Cote d'Ivoire",1998,0.371,128
+"Cote d'Ivoire",1999,0.393,135
+"Cote d'Ivoire",2000,0.439,140
+"Cote d'Ivoire",2001,0.404,146
+"Cote d'Ivoire",2002,0.292,151
+"Cote d'Ivoire",2003,0.409,156
+"Cote d'Ivoire",2004,0.409,160
+"Cote d'Ivoire",2005,0.363,165
+"Cote d'Ivoire",2006,0.341,170
+"Cote d'Ivoire",2007,0.336,175
+"Cote d'Ivoire",2008,0.275,183
+"Cote d'Ivoire",2009,0.296,192
+"Cote d'Ivoire",2010,0.302,200
+"Cote d'Ivoire",2011,0.387,211
+"Cote d'Ivoire",2012,0.432,225
+"Cote d'Ivoire",2013,0.43,237
+"Cote d'Ivoire",2014,0.405,248
+"Cote d'Ivoire",2015,0.331,254
+"Cote d'Ivoire",2016,0.327,264
+"Cote d'Ivoire",2017,0.335,282
+"Cameroon",1989,0.0532,130
+"Cameroon",1990,0.00465,135
+"Cameroon",1991,0.218,140
+"Cameroon",1992,0.224,145
+"Cameroon",1993,0.215,149
+"Cameroon",1994,0.236,153
+"Cameroon",1995,0.257,156
+"Cameroon",1996,0.22,162
+"Cameroon",1997,0.213,168
+"Cameroon",1998,0.199,173
+"Cameroon",1999,0.216,179
+"Cameroon",2000,0.209,185
+"Cameroon",2001,0.203,192
+"Cameroon",2002,0.22,201
+"Cameroon",2003,0.223,210
+"Cameroon",2004,0.203,220
+"Cameroon",2005,0.206,232
+"Cameroon",2006,0.305,242
+"Cameroon",2007,0.282,254
+"Cameroon",2008,0.334,268
+"Cameroon",2009,0.328,286
+"Cameroon",2010,0.295,304
+"Cameroon",2011,0.274,321
+"Cameroon",2012,0.22,339
+"Cameroon",2013,0.293,357
+"Cameroon",2014,0.333,375
+"Cameroon",2015,0.334,393
+"Cameroon",2016,0.326,412
+"Cameroon",2017,0.323,436
+"Congo, Dem. Rep.",1989,0.123,388
+"Congo, Dem. Rep.",1990,0.0873,406
+"Congo, Dem. Rep.",1991,0.0753,417
+"Congo, Dem. Rep.",1992,0.0686,424
+"Congo, Dem. Rep.",1993,0.0423,429
+"Congo, Dem. Rep.",1994,0.0506,439
+"Congo, Dem. Rep.",1995,0.0541,454
+"Congo, Dem. Rep.",1996,0.0428,447
+"Congo, Dem. Rep.",1997,0.0369,454
+"Congo, Dem. Rep.",1998,0.0287,461
+"Congo, Dem. Rep.",1999,0.019,465
+"Congo, Dem. Rep.",2000,0.0159,469
+"Congo, Dem. Rep.",2001,0.0171,473
+"Congo, Dem. Rep.",2002,0.0202,485
+"Congo, Dem. Rep.",2003,0.0217,494
+"Congo, Dem. Rep.",2004,0.0264,500
+"Congo, Dem. Rep.",2005,0.0275,509
+"Congo, Dem. Rep.",2006,0.029,516
+"Congo, Dem. Rep.",2007,0.03,532
+"Congo, Dem. Rep.",2008,0.0272,548
+"Congo, Dem. Rep.",2009,0.0304,570
+"Congo, Dem. Rep.",2010,0.0366,602
+"Congo, Dem. Rep.",2011,0.0342,639
+"Congo, Dem. Rep.",2012,0.0496,682
+"Congo, Dem. Rep.",2013,0.0628,726
+"Congo, Dem. Rep.",2014,0.0367,768
+"Congo, Dem. Rep.",2015,0.0254,815
+"Congo, Dem. Rep.",2016,0.0244,865
+"Congo, Dem. Rep.",2017,0.0243,923
+"Congo, Rep.",1989,0.501,43.3
+"Congo, Rep.",1990,0.519,44.3
+"Congo, Rep.",1991,0.628,45.3
+"Congo, Rep.",1992,0.599,47.1
+"Congo, Rep.",1993,0.813,50.5
+"Congo, Rep.",1994,0.575,52.6
+"Congo, Rep.",1995,0.614,55.6
+"Congo, Rep.",1996,0.817,57.5
+"Congo, Rep.",1997,0.263,57.1
+"Congo, Rep.",1998,0.27,58.3
+"Congo, Rep.",1999,0.335,58.5
+"Congo, Rep.",2000,0.238,58
+"Congo, Rep.",2001,0.174,58.6
+"Congo, Rep.",2002,0.269,61
+"Congo, Rep.",2003,0.271,63.7
+"Congo, Rep.",2004,0.268,66.8
+"Congo, Rep.",2005,0.296,70
+"Congo, Rep.",2006,0.31,73.3
+"Congo, Rep.",2007,0.323,76.6
+"Congo, Rep.",2008,0.416,79.9
+"Congo, Rep.",2009,0.459,84
+"Congo, Rep.",2010,0.51,88.2
+"Congo, Rep.",2011,0.653,93.5
+"Congo, Rep.",2012,0.695,98.8
+"Congo, Rep.",2013,0.656,104
+"Congo, Rep.",2014,0.649,109
+"Congo, Rep.",2015,0.638,113
+"Congo, Rep.",2016,0.623,118
+"Congo, Rep.",2017,0.617,124
+"Colombia",1989,1.72,1000
+"Colombia",1990,1.68,1050
+"Colombia",1991,1.79,1080
+"Colombia",1992,1.81,1120
+"Colombia",1993,1.87,1170
+"Colombia",1994,1.62,1210
+"Colombia",1995,1.61,1250
+"Colombia",1996,1.71,1260
+"Colombia",1997,1.7,1290
+"Colombia",1998,1.41,1340
+"Colombia",1999,1.42,1370
+"Colombia",2000,1.39,1420
+"Colombia",2001,1.36,1500
+"Colombia",2002,1.38,1580
+"Colombia",2003,1.3,1630
+"Colombia",2004,1.41,1680
+"Colombia",2005,1.44,1750
+"Colombia",2006,1.41,1800
+"Colombia",2007,1.52,1870
+"Colombia",2008,1.62,1950
+"Colombia",2009,1.69,2040
+"Colombia",2010,1.67,2090
+"Colombia",2011,1.73,2180
+"Colombia",2012,1.98,2270
+"Colombia",2013,1.83,2410
+"Colombia",2014,1.96,2530
+"Colombia",2015,2.01,2670
+"Colombia",2016,1.91,2790
+"Colombia",2017,1.96,2930
+"Comoros",1989,0.151,4.21
+"Comoros",1990,0.156,4.34
+"Comoros",1991,0.151,4.68
+"Comoros",1992,0.155,4.97
+"Comoros",1993,0.151,5.27
+"Comoros",1994,0.154,5.56
+"Comoros",1995,0.158,5.75
+"Comoros",1996,0.161,5.89
+"Comoros",1997,0.171,6
+"Comoros",1998,0.173,6.2
+"Comoros",1999,0.189,6.56
+"Comoros",2000,0.185,6.8
+"Comoros",2001,0.18,6.99
+"Comoros",2002,0.226,7.12
+"Comoros",2003,0.239,7.04
+"Comoros",2004,0.228,7.42
+"Comoros",2005,0.258,7.41
+"Comoros",2006,0.16,8.01
+"Comoros",2007,0.162,8.37
+"Comoros",2008,0.196,8.35
+"Comoros",2009,0.234,8.55
+"Comoros",2010,0.192,8.96
+"Comoros",2011,0.198,9.4
+"Comoros",2012,0.237,9.8
+"Comoros",2013,0.203,10.7
+"Comoros",2014,0.217,11
+"Comoros",2015,0.254,11.5
+"Comoros",2016,0.261,11.9
+"Comoros",2017,0.263,12.2
+"Cape Verde",1989,0.282,10.2
+"Cape Verde",1990,0.286,10.6
+"Cape Verde",1991,0.299,10.7
+"Cape Verde",1992,0.301,10.8
+"Cape Verde",1993,0.302,10.8
+"Cape Verde",1994,0.313,10.8
+"Cape Verde",1995,0.362,10.8
+"Cape Verde",1996,0.363,10.7
+"Cape Verde",1997,0.382,10.7
+"Cape Verde",1998,0.436,10.9
+"Cape Verde",1999,0.505,11.3
+"Cape Verde",2000,0.539,11.8
+"Cape Verde",2001,0.621,12.3
+"Cape Verde",2002,0.685,12.8
+"Cape Verde",2003,0.723,13.2
+"Cape Verde",2004,0.95,13.6
+"Cape Verde",2005,1.01,14.1
+"Cape Verde",2006,1.07,14.7
+"Cape Verde",2007,0.976,15.3
+"Cape Verde",2008,1.08,16
+"Cape Verde",2009,1.13,16.7
+"Cape Verde",2010,1.23,17.7
+"Cape Verde",2011,1,19.1
+"Cape Verde",2012,0.975,19.7
+"Cape Verde",2013,0.948,20.8
+"Cape Verde",2014,0.943,21.9
+"Cape Verde",2015,1.02,23.7
+"Cape Verde",2016,1.13,24.4
+"Cape Verde",2017,1.16,25.3
+"Costa Rica",1989,0.934,57.9
+"Costa Rica",1990,1.03,60.6
+"Costa Rica",1991,1.14,61.9
+"Costa Rica",1992,1.15,64.3
+"Costa Rica",1993,1.5,68.5
+"Costa Rica",1994,1.36,74.4
+"Costa Rica",1995,1.29,76.1
+"Costa Rica",1996,1.32,79
+"Costa Rica",1997,1.38,82.2
+"Costa Rica",1998,1.4,87
+"Costa Rica",1999,1.36,90.5
+"Costa Rica",2000,1.41,93
+"Costa Rica",2001,1.52,92.5
+"Costa Rica",2002,1.57,100
+"Costa Rica",2003,1.61,105
+"Costa Rica",2004,1.56,107
+"Costa Rica",2005,1.6,111
+"Costa Rica",2006,1.79,107
+"Costa Rica",2007,1.77,113
+"Costa Rica",2008,1.7,122
+"Costa Rica",2009,1.62,130
+"Costa Rica",2010,1.56,132
+"Costa Rica",2011,1.53,136
+"Costa Rica",2012,1.59,142
+"Costa Rica",2013,1.6,146
+"Costa Rica",2014,1.51,153
+"Costa Rica",2015,1.6,163
+"Costa Rica",2016,1.58,172
+"Costa Rica",2017,1.61,180
+"Cuba",1989,3.09,954
+"Cuba",1990,2.71,970
+"Cuba",1991,1.96,999
+"Cuba",1992,1.84,1000
+"Cuba",1993,1.97,994
+"Cuba",1994,2.35,1030
+"Cuba",1995,2.46,1050
+"Cuba",1996,2.23,1080
+"Cuba",1997,2.21,1120
+"Cuba",1998,2.27,1170
+"Cuba",1999,2.33,1240
+"Cuba",2000,2.27,1320
+"Cuba",2001,2.32,1360
+"Cuba",2002,2.26,1460
+"Cuba",2003,2.21,1540
+"Cuba",2004,2.3,1620
+"Cuba",2005,2.34,1670
+"Cuba",2006,2.29,1770
+"Cuba",2007,2.47,1870
+"Cuba",2008,2.5,1920
+"Cuba",2009,3.02,1950
+"Cuba",2010,2.6,1960
+"Cuba",2011,2.62,2030
+"Cuba",2012,2.46,2110
+"Cuba",2013,2.43,2170
+"Cuba",2014,2.57,2240
+"Cuba",2015,2.48,2290
+"Cuba",2016,2.48,2370
+"Cuba",2017,2.53,2440
+"Cyprus",1989,6.08,29.2
+"Cyprus",1990,6.57,29
+"Cyprus",1991,6.9,30.6
+"Cyprus",1992,7.05,32.9
+"Cyprus",1993,7.18,35.2
+"Cyprus",1994,6.88,37
+"Cyprus",1995,7.14,36.9
+"Cyprus",1996,7.1,37.7
+"Cyprus",1997,7.28,38.9
+"Cyprus",1998,7.43,40.6
+"Cyprus",1999,7.56,42
+"Cyprus",2000,7.3,44.8
+"Cyprus",2001,7.37,49.5
+"Cyprus",2002,7.64,54.8
+"Cyprus",2003,7.74,60.6
+"Cyprus",2004,7.79,66.7
+"Cyprus",2005,7.84,71.7
+"Cyprus",2006,8.01,76.7
+"Cyprus",2007,8.03,82.8
+"Cyprus",2008,7.68,87
+"Cyprus",2009,7.25,88.2
+"Cyprus",2010,6.89,91.3
+"Cyprus",2011,6.36,93.6
+"Cyprus",2012,5.72,96.8
+"Cyprus",2013,6.01,103
+"Cyprus",2014,5.99,106
+"Cyprus",2015,6.29,108
+"Cyprus",2016,6.39,111
+"Cyprus",2017,6.3,113
+"Czech Republic",1989,15.9,1000
+"Czech Republic",1990,14.4,1050
+"Czech Republic",1991,14,1070
+"Czech Republic",1992,13.4,1110
+"Czech Republic",1993,12.8,1160
+"Czech Republic",1994,12.7,1260
+"Czech Republic",1995,13,1270
+"Czech Republic",1996,12.7,1310
+"Czech Republic",1997,12.1,1330
+"Czech Republic",1998,11.3,1350
+"Czech Republic",1999,12.4,1400
+"Czech Republic",2000,12.4,1350
+"Czech Republic",2001,12.1,1470
+"Czech Republic",2002,12.5,1570
+"Czech Republic",2003,12.5,1620
+"Czech Republic",2004,12.3,1720
+"Czech Republic",2005,12.3,1780
+"Czech Republic",2006,12.4,1860
+"Czech Republic",2007,11.8,1960
+"Czech Republic",2008,11,2030
+"Czech Republic",2009,11.2,2090
+"Czech Republic",2010,10.9,2140
+"Czech Republic",2011,10.5,2170
+"Czech Republic",2012,10.1,2190
+"Czech Republic",2013,9.83,2180
+"Czech Republic",2014,9.89,2180
+"Czech Republic",2015,10,2210
+"Czech Republic",2016,9.93,2230
+"Czech Republic",2017,9.94,2250
+"Germany",1989,13.3,8300
+"Germany",1990,12.8,8740
+"Germany",1991,12.1,9090
+"Germany",1992,11.9,9660
+"Germany",1993,11.6,NA
+"Germany",1994,11.6,NA
+"Germany",1995,11.8,NA
+"Germany",1996,11.5,NA
+"Germany",1997,11.4,NA
+"Germany",1998,11,NA
+"Germany",1999,11.1,NA
+"Germany",2000,11.3,NA
+"Germany",2001,11.1,NA
+"Germany",2002,11.1,NA
+"Germany",2003,10.9,NA
+"Germany",2004,10.6,NA
+"Germany",2005,10.8,NA
+"Germany",2006,10.5,NA
+"Germany",2007,10.5,NA
+"Germany",2008,9.76,NA
+"Germany",2009,10.3,NA
+"Germany",2010,10,NA
+"Germany",2011,10.1,NA
+"Germany",2012,10.3,NA
+"Germany",2013,9.74,NA
+"Germany",2014,9.74,NA
+"Germany",2015,9.76,NA
+"Germany",2016,9.66,NA
+"Germany",2017,9.14,NA
+"Djibouti",1989,0.547,2.61
+"Djibouti",1990,0.556,2.71
+"Djibouti",1991,0.549,2.84
+"Djibouti",1992,0.545,3.02
+"Djibouti",1993,0.53,3.09
+"Djibouti",1994,0.524,3.33
+"Djibouti",1995,0.518,3.52
+"Djibouti",1996,0.527,3.71
+"Djibouti",1997,0.501,3.98
+"Djibouti",1998,0.487,4.17
+"Djibouti",1999,0.511,4.3
+"Djibouti",2000,0.5,4.48
+"Djibouti",2001,0.535,4.79
+"Djibouti",2002,0.555,5.04
+"Djibouti",2003,0.528,5.58
+"Djibouti",2004,0.529,6.01
+"Djibouti",2005,0.517,6.31
+"Djibouti",2006,0.574,6.66
+"Djibouti",2007,0.611,7.05
+"Djibouti",2008,0.554,7.4
+"Djibouti",2009,0.615,7.95
+"Djibouti",2010,0.554,8.46
+"Djibouti",2011,0.553,9.01
+"Djibouti",2012,0.629,9.58
+"Djibouti",2013,0.661,9.97
+"Djibouti",2014,0.665,10.7
+"Djibouti",2015,0.646,11.3
+"Djibouti",2016,0.666,12.3
+"Djibouti",2017,0.672,13.3
+"Dominica",1989,0.833,3.17
+"Dominica",1990,0.834,3.16
+"Dominica",1991,0.832,3.06
+"Dominica",1992,0.88,3.05
+"Dominica",1993,0.929,3.1
+"Dominica",1994,1.13,3.17
+"Dominica",1995,1.03,3.2
+"Dominica",1996,1.14,3.2
+"Dominica",1997,1.1,3.23
+"Dominica",1998,1.16,3.36
+"Dominica",1999,1.47,3.47
+"Dominica",2000,1.58,3.55
+"Dominica",2001,1.47,3.65
+"Dominica",2002,1.67,3.71
+"Dominica",2003,2.03,3.7
+"Dominica",2004,2.03,3.75
+"Dominica",2005,2.02,3.83
+"Dominica",2006,2.59,3.85
+"Dominica",2007,2.33,3.89
+"Dominica",2008,2.28,3.95
+"Dominica",2009,2.43,4.02
+"Dominica",2010,2.17,4.12
+"Dominica",2011,2.33,4.18
+"Dominica",2012,2.38,4.28
+"Dominica",2013,2.48,4.33
+"Dominica",2014,2.47,4.38
+"Dominica",2015,2.52,4.41
+"Dominica",2016,2.54,4.45
+"Dominica",2017,2.55,4.49
+"Denmark",1989,10.4,1470
+"Denmark",1990,12.5,1490
+"Denmark",1991,11.3,1530
+"Denmark",1992,11.7,1580
+"Denmark",1993,12.4,1600
+"Denmark",1994,11.8,1650
+"Denmark",1995,14.3,1640
+"Denmark",1996,12.4,1690
+"Denmark",1997,11.6,1670
+"Denmark",1998,11,1780
+"Denmark",1999,10.2,1770
+"Denmark",2000,10.4,1850
+"Denmark",2001,10.3,1920
+"Denmark",2002,11.3,1970
+"Denmark",2003,10.2,2040
+"Denmark",2004,9.51,2070
+"Denmark",2005,10.9,2150
+"Denmark",2006,10,2250
+"Denmark",2007,9.33,2320
+"Denmark",2008,8.84,2380
+"Denmark",2009,8.86,2400
+"Denmark",2010,7.93,2400
+"Denmark",2011,7.11,2420
+"Denmark",2012,7.41,2420
+"Denmark",2013,6.63,2400
+"Denmark",2014,6.19,2370
+"Denmark",2015,6.49,2380
+"Denmark",2016,6.07,2380
+"Denmark",2017,6.06,2390
+"Dominican Republic",1989,1.28,134
+"Dominican Republic",1990,1.37,140
+"Dominican Republic",1991,1.46,145
+"Dominican Republic",1992,1.55,156
+"Dominican Republic",1993,1.61,160
+"Dominican Republic",1994,2.02,166
+"Dominican Republic",1995,2.16,176
+"Dominican Republic",1996,2.22,185
+"Dominican Republic",1997,2.22,191
+"Dominican Republic",1998,2.21,193
+"Dominican Republic",1999,2.31,197
+"Dominican Republic",2000,2.28,210
+"Dominican Republic",2001,2.42,226
+"Dominican Republic",2002,2.4,245
+"Dominican Republic",2003,2.02,268
+"Dominican Republic",2004,2.02,291
+"Dominican Republic",2005,2.11,312
+"Dominican Republic",2006,2.22,327
+"Dominican Republic",2007,2.14,338
+"Dominican Republic",2008,2.07,349
+"Dominican Republic",2009,2.12,357
+"Dominican Republic",2010,2.17,366
+"Dominican Republic",2011,2.17,382
+"Dominican Republic",2012,2.09,404
+"Dominican Republic",2013,2.12,422
+"Dominican Republic",2014,2.29,441
+"Dominican Republic",2015,2.37,456
+"Dominican Republic",2016,2.32,465
+"Dominican Republic",2017,2.34,476
+"Algeria",1989,2.98,238
+"Algeria",1990,2.99,251
+"Algeria",1991,2.96,260
+"Algeria",1992,2.97,268
+"Algeria",1993,3.06,278
+"Algeria",1994,3.31,288
+"Algeria",1995,3.31,294
+"Algeria",1996,2.93,300
+"Algeria",1997,3.53,304
+"Algeria",1998,3,316
+"Algeria",1999,2.82,327
+"Algeria",2000,2.67,339
+"Algeria",2001,2.81,350
+"Algeria",2002,2.82,360
+"Algeria",2003,2.69,373
+"Algeria",2004,3.21,388
+"Algeria",2005,2.98,403
+"Algeria",2006,3.18,418
+"Algeria",2007,3.14,432
+"Algeria",2008,3.4,445
+"Algeria",2009,3.28,463
+"Algeria",2010,3.27,487
+"Algeria",2011,3.43,510
+"Algeria",2012,3.48,533
+"Algeria",2013,3.68,558
+"Algeria",2014,3.8,582
+"Algeria",2015,3.64,607
+"Algeria",2016,3.56,636
+"Algeria",2017,3.69,678
+"Ecuador",1989,1.63,157
+"Ecuador",1990,1.57,171
+"Ecuador",1991,2.07,184
+"Ecuador",1992,2.2,192
+"Ecuador",1993,1.21,205
+"Ecuador",1994,1.98,216
+"Ecuador",1995,2.05,229
+"Ecuador",1996,1.52,233
+"Ecuador",1997,1.83,243
+"Ecuador",1998,1.72,244
+"Ecuador",1999,1.62,259
+"Ecuador",2000,1.78,257
+"Ecuador",2001,1.88,305
+"Ecuador",2002,2,335
+"Ecuador",2003,2.12,355
+"Ecuador",2004,2.17,381
+"Ecuador",2005,2.03,407
+"Ecuador",2006,2.21,431
+"Ecuador",2007,2.29,448
+"Ecuador",2008,2.4,461
+"Ecuador",2009,2.39,472
+"Ecuador",2010,2.35,479
+"Ecuador",2011,2.06,526
+"Ecuador",2012,2.59,544
+"Ecuador",2013,2.85,549
+"Ecuador",2014,2.63,551
+"Ecuador",2015,2.46,581
+"Ecuador",2016,2.36,607
+"Ecuador",2017,2.46,633
+"Egypt",1989,1.34,554
+"Egypt",1990,1.35,566
+"Egypt",1991,1.36,595
+"Egypt",1992,1.54,639
+"Egypt",1993,1.39,668
+"Egypt",1994,1.52,676
+"Egypt",1995,1.47,708
+"Egypt",1996,1.66,738
+"Egypt",1997,1.84,755
+"Egypt",1998,1.85,787
+"Egypt",1999,2.04,808
+"Egypt",2000,1.77,871
+"Egypt",2001,1.76,905
+"Egypt",2002,2.01,939
+"Egypt",2003,2.01,974
+"Egypt",2004,2.19,1010
+"Egypt",2005,2.29,1040
+"Egypt",2006,2.38,1040
+"Egypt",2007,2.45,1080
+"Egypt",2008,2.5,1150
+"Egypt",2009,2.4,1220
+"Egypt",2010,2.53,1250
+"Egypt",2011,2.49,1330
+"Egypt",2012,2.37,1300
+"Egypt",2013,2.47,1390
+"Egypt",2014,2.37,1560
+"Egypt",2015,2.47,1660
+"Egypt",2016,2.46,1740
+"Egypt",2017,2.43,1830
+"Eritrea",1989,NA,16.4
+"Eritrea",1990,NA,16.5
+"Eritrea",1991,NA,17.5
+"Eritrea",1992,NA,18.8
+"Eritrea",1993,0.319,20.5
+"Eritrea",1994,0.359,22.4
+"Eritrea",1995,0.392,23.8
+"Eritrea",1996,0.35,25.6
+"Eritrea",1997,0.266,27
+"Eritrea",1998,0.275,28.9
+"Eritrea",1999,0.264,30.8
+"Eritrea",2000,0.264,32.4
+"Eritrea",2001,0.242,35.5
+"Eritrea",2002,0.273,37.7
+"Eritrea",2003,0.281,39.6
+"Eritrea",2004,0.27,41.3
+"Eritrea",2005,0.187,42.9
+"Eritrea",2006,0.187,44.6
+"Eritrea",2007,0.131,46.4
+"Eritrea",2008,0.159,48
+"Eritrea",2009,0.157,49.5
+"Eritrea",2010,0.174,51.3
+"Eritrea",2011,0.19,53.7
+"Eritrea",2012,0.191,56.2
+"Eritrea",2013,0.205,58.6
+"Eritrea",2014,0.201,61.5
+"Eritrea",2015,0.204,64.5
+"Eritrea",2016,0.212,67.8
+"Eritrea",2017,0.215,71.5
+"Spain",1989,5.9,1760
+"Spain",1990,6.13,1820
+"Spain",1991,6.33,1840
+"Spain",1992,6.1,1880
+"Spain",1993,6.4,1930
+"Spain",1994,6.72,2030
+"Spain",1995,6.39,2090
+"Spain",1996,6.68,2160
+"Spain",1997,6.86,2260
+"Spain",1998,7.4,2380
+"Spain",1999,7.62,2460
+"Spain",2000,7.57,2610
+"Spain",2001,7.95,2780
+"Spain",2002,7.91,3030
+"Spain",2003,8.17,3210
+"Spain",2004,8.37,3340
+"Spain",2005,8.04,3570
+"Spain",2006,8.09,3880
+"Spain",2007,7.29,4250
+"Spain",2008,6.37,4520
+"Spain",2009,6.04,4660
+"Spain",2010,6.04,5000
+"Spain",2011,5.93,5200
+"Spain",2012,5.37,5460
+"Spain",2013,5.45,5630
+"Spain",2014,5.81,5820
+"Spain",2015,5.59,5890
+"Spain",2016,5.89,5880
+"Spain",2017,5.75,5910
+"Estonia",1989,23.7,146
+"Estonia",1990,22,150
+"Estonia",1991,16.1,146
+"Estonia",1992,12.8,149
+"Estonia",1993,13.7,147
+"Estonia",1994,12.7,140
+"Estonia",1995,13.4,134
+"Estonia",1996,13.1,135
+"Estonia",1997,12,135
+"Estonia",1998,11.2,134
+"Estonia",1999,11,137
+"Estonia",2000,11.3,141
+"Estonia",2001,11,141
+"Estonia",2002,12.5,145
+"Estonia",2003,12.7,150
+"Estonia",2004,12.6,156
+"Estonia",2005,12.2,162
+"Estonia",2006,14.9,169
+"Estonia",2007,13.3,176
+"Estonia",2008,10.9,181
+"Estonia",2009,14.3,181
+"Estonia",2010,14.4,189
+"Estonia",2011,13.6,191
+"Estonia",2012,14.9,196
+"Estonia",2013,14.4,199
+"Estonia",2014,12.1,199
+"Estonia",2015,13.3,215
+"Estonia",2016,14.2,217
+"Estonia",2017,14.8,215
+"Ethiopia",1989,0.0624,161
+"Ethiopia",1990,0.0597,162
+"Ethiopia",1991,0.0572,168
+"Ethiopia",1992,0.0562,173
+"Ethiopia",1993,0.0398,175
+"Ethiopia",1994,0.044,179
+"Ethiopia",1995,0.0475,182
+"Ethiopia",1996,0.0491,187
+"Ethiopia",1997,0.0504,196
+"Ethiopia",1998,0.0481,203
+"Ethiopia",1999,0.0524,202
+"Ethiopia",2000,0.0626,206
+"Ethiopia",2001,0.0632,213
+"Ethiopia",2002,0.0675,218
+"Ethiopia",2003,0.0695,226
+"Ethiopia",2004,0.065,233
+"Ethiopia",2005,0.0678,240
+"Ethiopia",2006,0.0724,248
+"Ethiopia",2007,0.0775,258
+"Ethiopia",2008,0.0761,271
+"Ethiopia",2009,0.0724,282
+"Ethiopia",2010,0.0765,297
+"Ethiopia",2011,0.0874,309
+"Ethiopia",2012,0.104,328
+"Ethiopia",2013,0.121,346
+"Ethiopia",2014,0.128,369
+"Ethiopia",2015,0.135,391
+"Ethiopia",2016,0.138,417
+"Ethiopia",2017,0.137,446
+"Finland",1989,11.4,514
+"Finland",1990,11,504
+"Finland",1991,10.8,508
+"Finland",1992,11.1,510
+"Finland",1993,12.1,508
+"Finland",1994,11.4,527
+"Finland",1995,12.5,532
+"Finland",1996,12.2,560
+"Finland",1997,11.5,583
+"Finland",1998,11.4,598
+"Finland",1999,11,628
+"Finland",2000,12,645
+"Finland",2001,12.5,671
+"Finland",2002,13.9,690
+"Finland",2003,13.2,737
+"Finland",2004,10.9,751
+"Finland",2005,13,762
+"Finland",2006,12.6,804
+"Finland",2007,11,850
+"Finland",2008,10.5,885
+"Finland",2009,12,913
+"Finland",2010,10.5,946
+"Finland",2011,9.47,997
+"Finland",2012,9.52,1030
+"Finland",2013,8.73,1050
+"Finland",2014,8.06,1070
+"Finland",2015,8.6,1080
+"Finland",2016,8.12,1090
+"Finland",2017,8.52,1100
+"Fiji",1989,1.11,10.2
+"Fiji",1990,0.902,10.3
+"Fiji",1991,0.995,10.5
+"Fiji",1992,0.986,10.7
+"Fiji",1993,0.966,10.8
+"Fiji",1994,0.973,11.1
+"Fiji",1995,1.04,11.4
+"Fiji",1996,0.988,11.7
+"Fiji",1997,0.952,11.7
+"Fiji",1998,0.962,12.3
+"Fiji",1999,1.03,12.8
+"Fiji",2000,1.29,12.7
+"Fiji",2001,1.08,13.3
+"Fiji",2002,1.27,13.9
+"Fiji",2003,1.64,14.2
+"Fiji",2004,1.32,14.8
+"Fiji",2005,1.45,16.1
+"Fiji",2006,1.37,17
+"Fiji",2007,1.04,17.8
+"Fiji",2008,0.913,18.4
+"Fiji",2009,1.4,19.1
+"Fiji",2010,1.24,19.9
+"Fiji",2011,1.2,20.3
+"Fiji",2012,1.52,21
+"Fiji",2013,1.87,21.8
+"Fiji",2014,2.45,22.7
+"Fiji",2015,2.32,23.6
+"Fiji",2016,2.36,24.4
+"Fiji",2017,2.41,25.4
+"France",1989,7.08,3490
+"France",1990,7.5,3640
+"France",1991,7.28,3800
+"France",1992,6.9,4010
+"France",1993,6.79,4140
+"France",1994,6.88,4390
+"France",1995,7.13,4590
+"France",1996,6.98,4800
+"France",1997,7.29,5170
+"France",1998,7.19,5490
+"France",1999,7.06,5790
+"France",2000,7.09,6250
+"France",2001,6.96,6800
+"France",2002,7.02,7340
+"France",2003,6.99,7740
+"France",2004,6.99,8160
+"France",2005,6.77,8730
+"France",2006,6.56,9250
+"France",2007,6.42,9970
+"France",2008,6.12,NA
+"France",2009,6.2,NA
+"France",2010,5.78,NA
+"France",2011,5.76,NA
+"France",2012,5.75,NA
+"France",2013,5.23,NA
+"France",2014,5.3,NA
+"France",2015,5.31,NA
+"France",2016,5.35,NA
+"France",2017,5.2,NA
+"Micronesia, Fed. Sts.",1989,NA,2.9
+"Micronesia, Fed. Sts.",1990,NA,3.01
+"Micronesia, Fed. Sts.",1991,0.977,3.09
+"Micronesia, Fed. Sts.",1992,0.953,3.18
+"Micronesia, Fed. Sts.",1993,0.968,3.26
+"Micronesia, Fed. Sts.",1994,0.989,3.37
+"Micronesia, Fed. Sts.",1995,0.982,3.44
+"Micronesia, Fed. Sts.",1996,1.01,3.49
+"Micronesia, Fed. Sts.",1997,1.08,3.54
+"Micronesia, Fed. Sts.",1998,1.02,3.57
+"Micronesia, Fed. Sts.",1999,1.16,3.64
+"Micronesia, Fed. Sts.",2000,1.57,3.71
+"Micronesia, Fed. Sts.",2001,1.34,3.77
+"Micronesia, Fed. Sts.",2002,1.34,3.85
+"Micronesia, Fed. Sts.",2003,1.34,3.93
+"Micronesia, Fed. Sts.",2004,1.14,4.02
+"Micronesia, Fed. Sts.",2005,1.15,4.13
+"Micronesia, Fed. Sts.",2006,1.26,4.26
+"Micronesia, Fed. Sts.",2007,1.06,4.39
+"Micronesia, Fed. Sts.",2008,1.42,4.52
+"Micronesia, Fed. Sts.",2009,0.998,4.66
+"Micronesia, Fed. Sts.",2010,1.13,4.8
+"Micronesia, Fed. Sts.",2011,1.19,4.93
+"Micronesia, Fed. Sts.",2012,1.28,5.07
+"Micronesia, Fed. Sts.",2013,1.26,5.22
+"Micronesia, Fed. Sts.",2014,1.31,5.39
+"Micronesia, Fed. Sts.",2015,1.3,5.54
+"Micronesia, Fed. Sts.",2016,1.32,5.72
+"Micronesia, Fed. Sts.",2017,1.34,5.9
+"Gabon",1989,4.73,22.8
+"Gabon",1990,4.64,23.6
+"Gabon",1991,4.91,24.3
+"Gabon",1992,4.83,25
+"Gabon",1993,4.14,26.4
+"Gabon",1994,4.25,27.6
+"Gabon",1995,4.27,29.2
+"Gabon",1996,4.19,30
+"Gabon",1997,4.24,30.9
+"Gabon",1998,4,31.9
+"Gabon",1999,3.8,32.8
+"Gabon",2000,3.8,33.9
+"Gabon",2001,3.53,34
+"Gabon",2002,3.5,35.1
+"Gabon",2003,3.44,35.9
+"Gabon",2004,3.5,36
+"Gabon",2005,2.9,37.1
+"Gabon",2006,2.78,37.4
+"Gabon",2007,2.74,38.4
+"Gabon",2008,2.69,38.4
+"Gabon",2009,2.94,38.5
+"Gabon",2010,2.92,39.9
+"Gabon",2011,2.88,40.8
+"Gabon",2012,2.9,41.4
+"Gabon",2013,2.82,43
+"Gabon",2014,2.69,45
+"Gabon",2015,2.64,47
+"Gabon",2016,2.58,49.3
+"Gabon",2017,2.53,51.6
+"United Kingdom",1989,10.5,NA
+"United Kingdom",1990,10.6,NA
+"United Kingdom",1991,10.3,NA
+"United Kingdom",1992,10.1,NA
+"United Kingdom",1993,9.97,NA
+"United Kingdom",1994,9.79,NA
+"United Kingdom",1995,10.1,NA
+"United Kingdom",1996,9.65,NA
+"United Kingdom",1997,9.71,NA
+"United Kingdom",1998,9.55,NA
+"United Kingdom",1999,9.63,NA
+"United Kingdom",2000,9.75,NA
+"United Kingdom",2001,9.45,NA
+"United Kingdom",2002,9.6,NA
+"United Kingdom",2003,9.58,NA
+"United Kingdom",2004,9.46,NA
+"United Kingdom",2005,9.33,NA
+"United Kingdom",2006,9.1,NA
+"United Kingdom",2007,8.77,NA
+"United Kingdom",2008,7.87,NA
+"United Kingdom",2009,8.07,NA
+"United Kingdom",2010,7.34,NA
+"United Kingdom",2011,7.56,NA
+"United Kingdom",2012,7.36,NA
+"United Kingdom",2013,6.71,NA
+"United Kingdom",2014,6.42,NA
+"United Kingdom",2015,6.04,NA
+"United Kingdom",2016,5.81,NA
+"United Kingdom",2017,5.65,NA
+"Georgia",1989,5.09,326
+"Georgia",1990,3.98,324
+"Georgia",1991,2.88,309
+"Georgia",1992,1.91,285
+"Georgia",1993,1.19,259
+"Georgia",1994,0.461,238
+"Georgia",1995,0.837,227
+"Georgia",1996,0.94,229
+"Georgia",1997,1.08,226
+"Georgia",1998,0.968,228
+"Georgia",1999,1.03,240
+"Georgia",2000,0.87,247
+"Georgia",2001,0.788,258
+"Georgia",2002,0.882,270
+"Georgia",2003,1.01,283
+"Georgia",2004,1.19,290
+"Georgia",2005,1.46,279
+"Georgia",2006,1.53,263
+"Georgia",2007,1.28,263
+"Georgia",2008,1.49,264
+"Georgia",2009,1.52,261
+"Georgia",2010,1.91,259
+"Georgia",2011,2.03,253
+"Georgia",2012,1.98,245
+"Georgia",2013,2.18,245
+"Georgia",2014,2.38,250
+"Georgia",2015,2.47,256
+"Georgia",2016,2.66,261
+"Georgia",2017,2.64,266
+"Ghana",1989,0.257,184
+"Ghana",1990,0.277,196
+"Ghana",1991,0.234,210
+"Ghana",1992,0.268,226
+"Ghana",1993,0.308,235
+"Ghana",1994,0.303,241
+"Ghana",1995,0.313,253
+"Ghana",1996,0.347,268
+"Ghana",1997,0.341,281
+"Ghana",1998,0.339,291
+"Ghana",1999,0.317,303
+"Ghana",2000,0.341,294
+"Ghana",2001,0.357,279
+"Ghana",2002,0.359,262
+"Ghana",2003,0.336,251
+"Ghana",2004,0.312,243
+"Ghana",2005,0.41,236
+"Ghana",2006,0.419,231
+"Ghana",2007,0.379,244
+"Ghana",2008,0.31,255
+"Ghana",2009,0.392,269
+"Ghana",2010,0.443,288
+"Ghana",2011,0.551,302
+"Ghana",2012,0.533,314
+"Ghana",2013,0.542,332
+"Ghana",2014,0.579,349
+"Ghana",2015,0.57,375
+"Ghana",2016,0.606,400
+"Ghana",2017,0.615,418
+"Guinea",1989,0.158,54.9
+"Guinea",1990,0.157,57.3
+"Guinea",1991,0.158,60
+"Guinea",1992,0.158,62.8
+"Guinea",1993,0.159,65.9
+"Guinea",1994,0.16,68.4
+"Guinea",1995,0.166,71
+"Guinea",1996,0.168,73.9
+"Guinea",1997,0.174,76.8
+"Guinea",1998,0.178,79.1
+"Guinea",1999,0.181,80.6
+"Guinea",2000,0.186,82.4
+"Guinea",2001,0.189,84.3
+"Guinea",2002,0.194,85.8
+"Guinea",2003,0.198,87.6
+"Guinea",2004,0.2,89.6
+"Guinea",2005,0.203,91.3
+"Guinea",2006,0.207,91.9
+"Guinea",2007,0.205,92.8
+"Guinea",2008,0.212,94.2
+"Guinea",2009,0.244,95.7
+"Guinea",2010,0.249,97
+"Guinea",2011,0.228,98.9
+"Guinea",2012,0.194,101
+"Guinea",2013,0.194,103
+"Guinea",2014,0.215,106
+"Guinea",2015,0.234,108
+"Guinea",2016,0.254,111
+"Guinea",2017,0.256,115
+"Gambia",1989,0.207,4.67
+"Gambia",1990,0.199,4.94
+"Gambia",1991,0.193,5.3
+"Gambia",1992,0.197,5.41
+"Gambia",1993,0.191,5.61
+"Gambia",1994,0.192,6.34
+"Gambia",1995,0.189,6.22
+"Gambia",1996,0.186,6.53
+"Gambia",1997,0.195,7.27
+"Gambia",1998,0.215,8.26
+"Gambia",1999,0.209,8.25
+"Gambia",2000,0.221,8.56
+"Gambia",2001,0.214,9.11
+"Gambia",2002,0.207,9.91
+"Gambia",2003,0.216,11.3
+"Gambia",2004,0.211,12.2
+"Gambia",2005,0.221,12.6
+"Gambia",2006,0.215,13.1
+"Gambia",2007,0.217,13.3
+"Gambia",2008,0.219,14.2
+"Gambia",2009,0.241,14.6
+"Gambia",2010,0.242,14.2
+"Gambia",2011,0.239,15.1
+"Gambia",2012,0.22,16.1
+"Gambia",2013,0.254,18
+"Gambia",2014,0.251,18.2
+"Gambia",2015,0.247,19.9
+"Gambia",2016,0.266,21.8
+"Gambia",2017,0.268,22.6
+"Guinea-Bissau",1989,0.177,9.79
+"Guinea-Bissau",1990,0.176,10
+"Guinea-Bissau",1991,0.176,10.2
+"Guinea-Bissau",1992,0.176,10.4
+"Guinea-Bissau",1993,0.172,10.7
+"Guinea-Bissau",1994,0.168,10.9
+"Guinea-Bissau",1995,0.165,11.1
+"Guinea-Bissau",1996,0.178,11.3
+"Guinea-Bissau",1997,0.149,11.5
+"Guinea-Bissau",1998,0.165,11.7
+"Guinea-Bissau",1999,0.122,12
+"Guinea-Bissau",2000,0.123,12.3
+"Guinea-Bissau",2001,0.123,12.9
+"Guinea-Bissau",2002,0.151,13.4
+"Guinea-Bissau",2003,0.154,14
+"Guinea-Bissau",2004,0.158,14.4
+"Guinea-Bissau",2005,0.157,15
+"Guinea-Bissau",2006,0.164,15.6
+"Guinea-Bissau",2007,0.157,16.1
+"Guinea-Bissau",2008,0.158,16.7
+"Guinea-Bissau",2009,0.157,17.3
+"Guinea-Bissau",2010,0.157,17.9
+"Guinea-Bissau",2011,0.158,18.6
+"Guinea-Bissau",2012,0.156,19.3
+"Guinea-Bissau",2013,0.16,20.1
+"Guinea-Bissau",2014,0.16,20.8
+"Guinea-Bissau",2015,0.165,21.7
+"Guinea-Bissau",2016,0.179,22.6
+"Guinea-Bissau",2017,0.181,23.3
+"Equatorial Guinea",1989,0.149,3.84
+"Equatorial Guinea",1990,0.152,3.97
+"Equatorial Guinea",1991,0.148,4.07
+"Equatorial Guinea",1992,0.151,4.27
+"Equatorial Guinea",1993,0.161,4.47
+"Equatorial Guinea",1994,0.17,4.73
+"Equatorial Guinea",1995,0.249,5.14
+"Equatorial Guinea",1996,0.567,5.58
+"Equatorial Guinea",1997,0.328,6.09
+"Equatorial Guinea",1998,0.838,6.68
+"Equatorial Guinea",1999,0.756,7.28
+"Equatorial Guinea",2000,6.86,7.99
+"Equatorial Guinea",2001,9.65,8.66
+"Equatorial Guinea",2002,11.2,9.54
+"Equatorial Guinea",2003,9.85,10.6
+"Equatorial Guinea",2004,10,11.7
+"Equatorial Guinea",2005,10.4,12.8
+"Equatorial Guinea",2006,9.57,13.7
+"Equatorial Guinea",2007,7.47,14.9
+"Equatorial Guinea",2008,7.52,16.2
+"Equatorial Guinea",2009,7.31,17.4
+"Equatorial Guinea",2010,9.52,19
+"Equatorial Guinea",2011,6.77,20.1
+"Equatorial Guinea",2012,7.15,20.8
+"Equatorial Guinea",2013,6.51,21.9
+"Equatorial Guinea",2014,5.16,23.3
+"Equatorial Guinea",2015,4.65,25
+"Equatorial Guinea",2016,4.54,26.2
+"Equatorial Guinea",2017,4.35,27.6
+"Greece",1989,8.16,1080
+"Greece",1990,8.09,1110
+"Greece",1991,8.16,1170
+"Greece",1992,8,1180
+"Greece",1993,8.12,1200
+"Greece",1994,8.1,1240
+"Greece",1995,8.23,1260
+"Greece",1996,8.61,1290
+"Greece",1997,9,1350
+"Greece",1998,8.89,1390
+"Greece",1999,9.3,1410
+"Greece",2000,9.47,1430
+"Greece",2001,9.4,1480
+"Greece",2002,9.73,1510
+"Greece",2003,9.76,1540
+"Greece",2004,10.2,1540
+"Greece",2005,10.1,1560
+"Greece",2006,10.3,1650
+"Greece",2007,10.1,1710
+"Greece",2008,9.53,1750
+"Greece",2009,8.95,1770
+"Greece",2010,8.74,1840
+"Greece",2011,8.49,1910
+"Greece",2012,7.62,1920
+"Greece",2013,7.36,1920
+"Greece",2014,7.04,1940
+"Greece",2015,6.73,1990
+"Greece",2016,7.09,2000
+"Greece",2017,7.03,2040
+"Grenada",1989,1.1,2.71
+"Grenada",1990,1.14,2.67
+"Grenada",1991,1.21,2.69
+"Grenada",1992,1.23,2.71
+"Grenada",1993,1.44,2.65
+"Grenada",1994,1.5,2.65
+"Grenada",1995,1.52,2.62
+"Grenada",1996,1.66,2.63
+"Grenada",1997,1.73,2.64
+"Grenada",1998,1.9,2.62
+"Grenada",1999,1.85,2.71
+"Grenada",2000,1.88,2.79
+"Grenada",2001,1.98,2.94
+"Grenada",2002,2.08,3.06
+"Grenada",2003,1.97,3.17
+"Grenada",2004,2.07,3.31
+"Grenada",2005,2.2,3.5
+"Grenada",2006,2.27,3.68
+"Grenada",2007,2.4,3.86
+"Grenada",2008,2.39,4.04
+"Grenada",2009,2.45,4.16
+"Grenada",2010,2.37,4.3
+"Grenada",2011,2.53,4.4
+"Grenada",2012,2.81,4.48
+"Grenada",2013,2.16,4.56
+"Grenada",2014,2.38,4.68
+"Grenada",2015,2.43,4.82
+"Grenada",2016,2.41,4.78
+"Grenada",2017,2.43,4.96
+"Guatemala",1989,0.537,144
+"Guatemala",1990,0.523,156
+"Guatemala",1991,0.61,169
+"Guatemala",1992,0.562,185
+"Guatemala",1993,0.664,195
+"Guatemala",1994,0.681,189
+"Guatemala",1995,0.618,187
+"Guatemala",1996,0.69,201
+"Guatemala",1997,0.777,212
+"Guatemala",1998,0.774,223
+"Guatemala",1999,0.839,228
+"Guatemala",2000,0.859,234
+"Guatemala",2001,0.879,241
+"Guatemala",2002,0.836,249
+"Guatemala",2003,0.874,258
+"Guatemala",2004,0.925,265
+"Guatemala",2005,0.91,269
+"Guatemala",2006,0.887,267
+"Guatemala",2007,0.778,266
+"Guatemala",2008,0.8,271
+"Guatemala",2009,0.759,273
+"Guatemala",2010,0.752,276
+"Guatemala",2011,0.758,271
+"Guatemala",2012,0.807,274
+"Guatemala",2013,0.852,281
+"Guatemala",2014,0.95,288
+"Guatemala",2015,0.988,303
+"Guatemala",2016,0.959,317
+"Guatemala",2017,1.07,339
+"Guyana",1989,1.53,9.04
+"Guyana",1990,1.51,8.92
+"Guyana",1991,1.4,8.73
+"Guyana",1992,1.39,9.07
+"Guyana",1993,1.83,9.02
+"Guyana",1994,1.92,9.3
+"Guyana",1995,2,9.81
+"Guyana",1996,2.1,9.98
+"Guyana",1997,2.2,10.2
+"Guyana",1998,2.24,10.4
+"Guyana",1999,2.16,11.9
+"Guyana",2000,2.14,11.8
+"Guyana",2001,2.12,12.2
+"Guyana",2002,2.1,12.4
+"Guyana",2003,2.18,12.5
+"Guyana",2004,1.93,12.6
+"Guyana",2005,1.73,13
+"Guyana",2006,2.09,13.5
+"Guyana",2007,2.09,14
+"Guyana",2008,2.09,14.3
+"Guyana",2009,2.29,14.8
+"Guyana",2010,2.37,15.4
+"Guyana",2011,2.64,16
+"Guyana",2012,2.55,16.6
+"Guyana",2013,2.63,17.4
+"Guyana",2014,2.61,18
+"Guyana",2015,3.04,18.6
+"Guyana",2016,3.03,19.2
+"Guyana",2017,3.12,20
+"Honduras",1989,0.514,136
+"Honduras",1990,0.52,138
+"Honduras",1991,0.578,155
+"Honduras",1992,0.519,160
+"Honduras",1993,0.594,167
+"Honduras",1994,0.671,197
+"Honduras",1995,0.663,215
+"Honduras",1996,0.676,228
+"Honduras",1997,0.737,243
+"Honduras",1998,0.73,262
+"Honduras",1999,0.751,283
+"Honduras",2000,0.831,301
+"Honduras",2001,0.865,318
+"Honduras",2002,0.938,338
+"Honduras",2003,0.995,358
+"Honduras",2004,0.996,376
+"Honduras",2005,0.978,397
+"Honduras",2006,1.1,418
+"Honduras",2007,1.06,443
+"Honduras",2008,0.943,470
+"Honduras",2009,0.954,502
+"Honduras",2010,1.02,546
+"Honduras",2011,1.04,589
+"Honduras",2012,1.05,616
+"Honduras",2013,1.04,645
+"Honduras",2014,1.08,674
+"Honduras",2015,1.04,707
+"Honduras",2016,1.02,743
+"Honduras",2017,1.04,781
+"Croatia",1989,4.89,500
+"Croatia",1990,3.61,502
+"Croatia",1991,3.49,507
+"Croatia",1992,3.61,497
+"Croatia",1993,3.49,499
+"Croatia",1994,3.67,518
+"Croatia",1995,3.83,541
+"Croatia",1996,4.1,558
+"Croatia",1997,4.3,571
+"Croatia",1998,4.52,564
+"Croatia",1999,4.45,570
+"Croatia",2000,4.73,571
+"Croatia",2001,4.99,600
+"Croatia",2002,5.31,645
+"Croatia",2003,5.23,675
+"Croatia",2004,5.35,698
+"Croatia",2005,5.4,720
+"Croatia",2006,5.72,729
+"Croatia",2007,5.44,834
+"Croatia",2008,5.04,892
+"Croatia",2009,4.87,905
+"Croatia",2010,4.8,931
+"Croatia",2011,4.45,935
+"Croatia",2012,4.32,949
+"Croatia",2013,4.16,973
+"Croatia",2014,4.22,971
+"Croatia",2015,4.3,927
+"Croatia",2016,4.48,916
+"Croatia",2017,4.48,911
+"Haiti",1989,0.141,92.6
+"Haiti",1990,0.136,93.9
+"Haiti",1991,0.121,96.9
+"Haiti",1992,0.092,99.5
+"Haiti",1993,0.0241,102
+"Haiti",1994,0.113,104
+"Haiti",1995,0.129,106
+"Haiti",1996,0.168,109
+"Haiti",1997,0.151,111
+"Haiti",1998,0.158,115
+"Haiti",1999,0.159,120
+"Haiti",2000,0.181,126
+"Haiti",2001,0.206,131
+"Haiti",2002,0.192,137
+"Haiti",2003,0.217,143
+"Haiti",2004,0.223,149
+"Haiti",2005,0.223,154
+"Haiti",2006,0.249,159
+"Haiti",2007,0.245,163
+"Haiti",2008,0.228,168
+"Haiti",2009,0.211,170
+"Haiti",2010,0.207,177
+"Haiti",2011,0.214,184
+"Haiti",2012,0.221,190
+"Haiti",2013,0.264,197
+"Haiti",2014,0.272,204
+"Haiti",2015,0.273,211
+"Haiti",2016,0.271,217
+"Haiti",2017,0.27,226
+"Hungary",1989,7.08,1510
+"Hungary",1990,6.74,1570
+"Hungary",1991,6.03,1670
+"Hungary",1992,6.14,1770
+"Hungary",1993,5.98,1820
+"Hungary",1994,5.96,1930
+"Hungary",1995,6.12,1990
+"Hungary",1996,6,2100
+"Hungary",1997,5.97,2220
+"Hungary",1998,6.04,2370
+"Hungary",1999,5.73,2510
+"Hungary",2000,5.91,2680
+"Hungary",2001,5.83,2820
+"Hungary",2002,6.11,2960
+"Hungary",2003,5.98,3020
+"Hungary",2004,6,3150
+"Hungary",2005,5.96,3210
+"Hungary",2006,5.85,3390
+"Hungary",2007,5.75,3420
+"Hungary",2008,5.21,3500
+"Hungary",2009,5.26,3500
+"Hungary",2010,5.09,3550
+"Hungary",2011,4.75,3530
+"Hungary",2012,4.46,3540
+"Hungary",2013,4.48,3600
+"Hungary",2014,4.78,3650
+"Hungary",2015,4.87,3600
+"Hungary",2016,5.11,3660
+"Hungary",2017,5.14,3690
+"Indonesia",1989,0.829,4830
+"Indonesia",1990,0.979,5080
+"Indonesia",1991,1.09,5380
+"Indonesia",1992,1.15,5720
+"Indonesia",1993,1.15,6060
+"Indonesia",1994,1.15,6420
+"Indonesia",1995,1.28,6800
+"Indonesia",1996,1.39,7170
+"Indonesia",1997,1.05,7460
+"Indonesia",1998,1.17,7770
+"Indonesia",1999,1.26,8040
+"Indonesia",2000,1.39,8240
+"Indonesia",2001,1.42,8410
+"Indonesia",2002,1.44,8630
+"Indonesia",2003,1.52,8900
+"Indonesia",2004,1.52,9220
+"Indonesia",2005,1.51,9530
+"Indonesia",2006,1.62,9880
+"Indonesia",2007,1.77,NA
+"Indonesia",2008,1.88,NA
+"Indonesia",2009,1.77,NA
+"Indonesia",2010,2.07,NA
+"Indonesia",2011,2.12,NA
+"Indonesia",2012,1.63,NA
+"Indonesia",2013,1.44,NA
+"Indonesia",2014,1.96,NA
+"Indonesia",2015,2.15,NA
+"Indonesia",2016,2.21,NA
+"Indonesia",2017,2.3,NA
+"India",1989,0.707,5760
+"India",1990,0.737,5870
+"India",1991,0.769,6010
+"India",1992,0.78,6340
+"India",1993,0.809,6730
+"India",1994,0.843,6980
+"India",1995,0.895,7510
+"India",1996,0.915,8170
+"India",1997,0.916,8580
+"India",1998,0.96,8720
+"India",1999,0.975,8980
+"India",2000,0.964,9530
+"India",2001,0.959,NA
+"India",2002,0.983,NA
+"India",2003,1.01,NA
+"India",2004,1.06,NA
+"India",2005,1.11,NA
+"India",2006,1.18,NA
+"India",2007,1.29,NA
+"India",2008,1.41,NA
+"India",2009,1.38,NA
+"India",2010,1.45,NA
+"India",2011,1.56,NA
+"India",2012,1.56,NA
+"India",2013,1.7,NA
+"India",2014,1.76,NA
+"India",2015,1.79,NA
+"India",2016,1.84,NA
+"India",2017,1.96,NA
+"Ireland",1989,9.38,543
+"Ireland",1990,9.57,543
+"Ireland",1991,9.48,563
+"Ireland",1992,9.5,566
+"Ireland",1993,9.76,578
+"Ireland",1994,9.98,603
+"Ireland",1995,10.3,602
+"Ireland",1996,10.6,627
+"Ireland",1997,11,640
+"Ireland",1998,11.4,671
+"Ireland",1999,12,676
+"Ireland",2000,12.4,685
+"Ireland",2001,11.8,701
+"Ireland",2002,11.5,750
+"Ireland",2003,11.4,788
+"Ireland",2004,11.6,776
+"Ireland",2005,11.3,825
+"Ireland",2006,11,838
+"Ireland",2007,10.7,896
+"Ireland",2008,9.38,924
+"Ireland",2009,9.16,897
+"Ireland",2010,8.28,936
+"Ireland",2011,8.29,960
+"Ireland",2012,8.06,977
+"Ireland",2013,7.93,1000
+"Ireland",2014,8.27,1030
+"Ireland",2015,8.5,1040
+"Ireland",2016,8.15,1070
+"Ireland",2017,8.09,1110
+"Iran",1989,3.72,590
+"Iran",1990,3.92,614
+"Iran",1991,3.86,636
+"Iran",1992,3.95,674
+"Iran",1993,4.35,698
+"Iran",1994,4.42,736
+"Iran",1995,4.4,789
+"Iran",1996,4.23,826
+"Iran",1997,4.79,860
+"Iran",1998,5.86,878
+"Iran",1999,5.63,954
+"Iran",2000,5.95,1040
+"Iran",2001,5.92,1080
+"Iran",2002,6.08,1120
+"Iran",2003,6.42,1160
+"Iran",2004,6.65,1230
+"Iran",2005,7.15,1280
+"Iran",2006,7.2,1320
+"Iran",2007,7.42,1380
+"Iran",2008,7.51,1470
+"Iran",2009,7.65,1580
+"Iran",2010,7.76,1700
+"Iran",2011,7.96,1830
+"Iran",2012,7.97,1960
+"Iran",2013,8.29,2110
+"Iran",2014,8.17,2280
+"Iran",2015,8.21,2420
+"Iran",2016,8.51,2540
+"Iran",2017,8.81,2680
+"Iraq",1989,2.82,205
+"Iraq",1990,2.53,212
+"Iraq",1991,3.2,223
+"Iraq",1992,3.33,231
+"Iraq",1993,3.64,237
+"Iraq",1994,3.68,247
+"Iraq",1995,3.34,258
+"Iraq",1996,3.18,269
+"Iraq",1997,3.26,282
+"Iraq",1998,3.15,297
+"Iraq",1999,3.05,315
+"Iraq",2000,3.5,336
+"Iraq",2001,3.47,356
+"Iraq",2002,3.54,372
+"Iraq",2003,4.32,391
+"Iraq",2004,4.2,409
+"Iraq",2005,3.58,431
+"Iraq",2006,2.2,459
+"Iraq",2007,3.25,514
+"Iraq",2008,3.57,537
+"Iraq",2009,3.73,587
+"Iraq",2010,4.41,641
+"Iraq",2011,4.8,722
+"Iraq",2012,4.94,808
+"Iraq",2013,4.8,873
+"Iraq",2014,4.66,923
+"Iraq",2015,5.15,978
+"Iraq",2016,4.99,1030
+"Iraq",2017,5.32,1100
+"Iceland",1989,8.78,44.7
+"Iceland",1990,8.23,47.2
+"Iceland",1991,8.71,49.4
+"Iceland",1992,9.23,51.2
+"Iceland",1993,8.92,53.5
+"Iceland",1994,9.22,55.5
+"Iceland",1995,9.34,57.2
+"Iceland",1996,9.6,59.2
+"Iceland",1997,9.58,61.2
+"Iceland",1998,10.2,63
+"Iceland",1999,10.5,64.5
+"Iceland",2000,10.1,67
+"Iceland",2001,10.5,69.6
+"Iceland",2002,10.4,72.8
+"Iceland",2003,10.7,74.6
+"Iceland",2004,10.1,75.9
+"Iceland",2005,10.5,77
+"Iceland",2006,11.5,77.1
+"Iceland",2007,12.2,77.7
+"Iceland",2008,11.8,78.1
+"Iceland",2009,11.3,79.4
+"Iceland",2010,10.8,79.6
+"Iceland",2011,10.7,80.3
+"Iceland",2012,10.7,81
+"Iceland",2013,10.5,82.6
+"Iceland",2014,10.7,83
+"Iceland",2015,10.5,83.7
+"Iceland",2016,10.8,82.9
+"Iceland",2017,10.8,84.3
+"Israel",1989,8.06,341
+"Israel",1990,7.88,360
+"Israel",1991,8.86,387
+"Israel",1992,8.98,399
+"Israel",1993,9.31,417
+"Israel",1994,9.47,437
+"Israel",1995,9.58,444
+"Israel",1996,9.86,457
+"Israel",1997,9.84,469
+"Israel",1998,9.41,490
+"Israel",1999,10,504
+"Israel",2000,10.4,519
+"Israel",2001,9.62,541
+"Israel",2002,9.95,560
+"Israel",2003,9.18,572
+"Israel",2004,8.66,597
+"Israel",2005,9.31,625
+"Israel",2006,9.18,661
+"Israel",2007,9.69,674
+"Israel",2008,8.89,704
+"Israel",2009,9.3,722
+"Israel",2010,9.17,756
+"Israel",2011,9.83,750
+"Israel",2012,8.41,779
+"Israel",2013,7.88,798
+"Israel",2014,8.15,811
+"Israel",2015,7.89,829
+"Israel",2016,7.85,855
+"Israel",2017,7.67,889
+"Italy",1989,7.71,5580
+"Italy",1990,7.7,5820
+"Italy",1991,7.66,6010
+"Italy",1992,7.53,6230
+"Italy",1993,7.43,6410
+"Italy",1994,7.9,6690
+"Italy",1995,7.79,6900
+"Italy",1996,7.89,7090
+"Italy",1997,8.11,7480
+"Italy",1998,8.2,7660
+"Italy",1999,8.3,8000
+"Italy",2000,8.38,8280
+"Italy",2001,8.36,8630
+"Italy",2002,8.53,8960
+"Italy",2003,8.54,9060
+"Italy",2004,8.49,9300
+"Italy",2005,8.36,9590
+"Italy",2006,8.16,NA
+"Italy",2007,7.94,NA
+"Italy",2008,7.06,NA
+"Italy",2009,7.19,NA
+"Italy",2010,6.95,NA
+"Italy",2011,6.56,NA
+"Italy",2012,6.06,NA
+"Italy",2013,5.77,NA
+"Italy",2014,5.88,NA
+"Italy",2015,5.83,NA
+"Italy",2016,5.76,NA
+"Italy",2017,5.58,NA
+"Jamaica",1989,3.11,57.4
+"Jamaica",1990,3.18,59.9
+"Jamaica",1991,3.14,60.6
+"Jamaica",1992,3.22,62.2
+"Jamaica",1993,3.27,62.1
+"Jamaica",1994,3.62,59.8
+"Jamaica",1995,3.79,65
+"Jamaica",1996,3.9,68.6
+"Jamaica",1997,3.72,71.8
+"Jamaica",1998,3.79,75.6
+"Jamaica",1999,3.89,80.4
+"Jamaica",2000,3.96,84.1
+"Jamaica",2001,3.79,84.6
+"Jamaica",2002,3.94,85.9
+"Jamaica",2003,3.88,87.9
+"Jamaica",2004,3.78,86.4
+"Jamaica",2005,4.15,88.6
+"Jamaica",2006,3.48,91.1
+"Jamaica",2007,3.57,93.9
+"Jamaica",2008,2.73,95.8
+"Jamaica",2009,2.54,96.5
+"Jamaica",2010,2.72,101
+"Jamaica",2011,2.58,103
+"Jamaica",2012,2.78,107
+"Jamaica",2013,2.54,115
+"Jamaica",2014,2.62,116
+"Jamaica",2015,2.81,117
+"Jamaica",2016,2.8,119
+"Jamaica",2017,2.79,122
+"Jordan",1989,2.94,29.2
+"Jordan",1990,2.64,30.7
+"Jordan",1991,3.02,31.5
+"Jordan",1992,2.8,34.1
+"Jordan",1993,3.01,35.7
+"Jordan",1994,2.88,37.9
+"Jordan",1995,2.92,40.5
+"Jordan",1996,2.91,42.3
+"Jordan",1997,2.89,44.5
+"Jordan",1998,2.84,46.7
+"Jordan",1999,2.97,48.7
+"Jordan",2000,2.99,51.3
+"Jordan",2001,3.09,55.1
+"Jordan",2002,3.13,58.1
+"Jordan",2003,3.35,65.7
+"Jordan",2004,3.55,74.4
+"Jordan",2005,3.43,80.1
+"Jordan",2006,3.43,81.9
+"Jordan",2007,3.16,85.5
+"Jordan",2008,3.1,93.3
+"Jordan",2009,2.84,102
+"Jordan",2010,2.77,112
+"Jordan",2011,2.95,124
+"Jordan",2012,2.8,136
+"Jordan",2013,2.91,149
+"Jordan",2014,2.75,162
+"Jordan",2015,2.55,175
+"Jordan",2016,2.47,188
+"Jordan",2017,2.42,203
+"Japan",1989,9.31,NA
+"Japan",1990,9.37,NA
+"Japan",1991,9.42,NA
+"Japan",1992,9.34,NA
+"Japan",1993,9.75,NA
+"Japan",1994,9.82,NA
+"Japan",1995,9.89,NA
+"Japan",1996,9.82,NA
+"Japan",1997,9.49,NA
+"Japan",1998,9.76,NA
+"Japan",1999,9.93,NA
+"Japan",2000,9.8,NA
+"Japan",2001,10,NA
+"Japan",2002,10.1,NA
+"Japan",2003,10,NA
+"Japan",2004,10.1,NA
+"Japan",2005,9.88,NA
+"Japan",2006,10.1,NA
+"Japan",2007,9.59,NA
+"Japan",2008,9.05,NA
+"Japan",2009,9.46,NA
+"Japan",2010,9.85,NA
+"Japan",2011,10.2,NA
+"Japan",2012,10.3,NA
+"Japan",2013,9.88,NA
+"Japan",2014,9.58,NA
+"Japan",2015,9.45,NA
+"Japan",2016,9.33,NA
+"Japan",2017,9.14,NA
+"Kazakhstan",1989,16.3,993
+"Kazakhstan",1990,15.7,962
+"Kazakhstan",1991,14.3,945
+"Kazakhstan",1992,12.7,941
+"Kazakhstan",1993,10.7,922
+"Kazakhstan",1994,10.3,912
+"Kazakhstan",1995,9.54,881
+"Kazakhstan",1996,9.1,846
+"Kazakhstan",1997,8.9,805
+"Kazakhstan",1998,7.2,780
+"Kazakhstan",1999,8.95,755
+"Kazakhstan",2000,8.57,743
+"Kazakhstan",2001,9.76,732
+"Kazakhstan",2002,10.8,721
+"Kazakhstan",2003,11.2,698
+"Kazakhstan",2004,11.9,698
+"Kazakhstan",2005,13.3,694
+"Kazakhstan",2006,13.6,685
+"Kazakhstan",2007,13.4,685
+"Kazakhstan",2008,13,678
+"Kazakhstan",2009,14.5,678
+"Kazakhstan",2010,13.8,688
+"Kazakhstan",2011,14,694
+"Kazakhstan",2012,14.1,682
+"Kazakhstan",2013,14.8,686
+"Kazakhstan",2014,15,679
+"Kazakhstan",2015,15,702
+"Kazakhstan",2016,15.7,713
+"Kazakhstan",2017,17.6,747
+"Kenya",1989,0.24,63.7
+"Kenya",1990,0.192,66.9
+"Kenya",1991,0.213,70.1
+"Kenya",1992,0.238,73.1
+"Kenya",1993,0.238,76.2
+"Kenya",1994,0.267,79.4
+"Kenya",1995,0.32,82.4
+"Kenya",1996,0.276,86.1
+"Kenya",1997,0.327,89.8
+"Kenya",1998,0.323,93.1
+"Kenya",1999,0.323,98
+"Kenya",2000,0.281,102
+"Kenya",2001,0.232,111
+"Kenya",2002,0.19,120
+"Kenya",2003,0.209,128
+"Kenya",2004,0.228,135
+"Kenya",2005,0.248,142
+"Kenya",2006,0.247,148
+"Kenya",2007,0.249,155
+"Kenya",2008,0.293,163
+"Kenya",2009,0.28,174
+"Kenya",2010,0.3,182
+"Kenya",2011,0.271,191
+"Kenya",2012,0.281,201
+"Kenya",2013,0.295,212
+"Kenya",2014,0.341,224
+"Kenya",2015,0.35,237
+"Kenya",2016,0.36,251
+"Kenya",2017,0.36,269
+"Kyrgyz Republic",1989,4.85,157
+"Kyrgyz Republic",1990,4.21,159
+"Kyrgyz Republic",1991,2.49,158
+"Kyrgyz Republic",1992,1.9,156
+"Kyrgyz Republic",1993,1.36,155
+"Kyrgyz Republic",1994,0.989,149
+"Kyrgyz Republic",1995,1.22,140
+"Kyrgyz Republic",1996,1.19,134
+"Kyrgyz Republic",1997,1.24,128
+"Kyrgyz Republic",1998,0.957,121
+"Kyrgyz Republic",1999,0.936,117
+"Kyrgyz Republic",2000,0.779,113
+"Kyrgyz Republic",2001,0.986,109
+"Kyrgyz Republic",2002,1.07,110
+"Kyrgyz Republic",2003,1.15,107
+"Kyrgyz Republic",2004,1.09,105
+"Kyrgyz Republic",2005,1.06,105
+"Kyrgyz Republic",2006,1.26,105
+"Kyrgyz Republic",2007,1.44,105
+"Kyrgyz Republic",2008,1.26,105
+"Kyrgyz Republic",2009,1.17,106
+"Kyrgyz Republic",2010,1.37,109
+"Kyrgyz Republic",2011,1.78,111
+"Kyrgyz Republic",2012,1.69,117
+"Kyrgyz Republic",2013,1.73,120
+"Kyrgyz Republic",2014,1.73,121
+"Kyrgyz Republic",2015,1.59,126
+"Kyrgyz Republic",2016,1.53,128
+"Kyrgyz Republic",2017,1.6,133
+"Cambodia",1989,0.141,219
+"Cambodia",1990,0.141,227
+"Cambodia",1991,0.14,236
+"Cambodia",1992,0.139,246
+"Cambodia",1993,0.142,255
+"Cambodia",1994,0.145,266
+"Cambodia",1995,0.146,275
+"Cambodia",1996,0.135,284
+"Cambodia",1997,0.167,294
+"Cambodia",1998,0.16,306
+"Cambodia",1999,0.163,317
+"Cambodia",2000,0.181,329
+"Cambodia",2001,0.175,342
+"Cambodia",2002,0.185,355
+"Cambodia",2003,0.187,371
+"Cambodia",2004,0.209,389
+"Cambodia",2005,0.223,408
+"Cambodia",2006,0.253,429
+"Cambodia",2007,0.274,450
+"Cambodia",2008,0.324,472
+"Cambodia",2009,0.352,499
+"Cambodia",2010,0.351,525
+"Cambodia",2011,0.361,552
+"Cambodia",2012,0.365,581
+"Cambodia",2013,0.427,611
+"Cambodia",2014,0.545,646
+"Cambodia",2015,0.617,680
+"Cambodia",2016,0.626,715
+"Cambodia",2017,0.64,756
+"Kiribati",1989,0.304,1.25
+"Kiribati",1990,0.299,1.29
+"Kiribati",1991,0.343,1.33
+"Kiribati",1992,0.387,1.37
+"Kiribati",1993,0.383,1.39
+"Kiribati",1994,0.377,1.43
+"Kiribati",1995,0.372,1.47
+"Kiribati",1996,0.366,1.51
+"Kiribati",1997,0.36,1.56
+"Kiribati",1998,0.354,1.61
+"Kiribati",1999,0.391,1.67
+"Kiribati",2000,0.342,1.68
+"Kiribati",2001,0.462,1.69
+"Kiribati",2002,0.495,1.71
+"Kiribati",2003,0.527,1.72
+"Kiribati",2004,0.636,1.73
+"Kiribati",2005,0.7,1.76
+"Kiribati",2006,0.608,1.81
+"Kiribati",2007,0.668,1.85
+"Kiribati",2008,0.545,1.88
+"Kiribati",2009,0.57,1.92
+"Kiribati",2010,0.525,1.96
+"Kiribati",2011,0.483,2
+"Kiribati",2012,0.476,2.04
+"Kiribati",2013,0.536,2.06
+"Kiribati",2014,0.562,2.13
+"Kiribati",2015,0.587,2.23
+"Kiribati",2016,0.594,2.33
+"Kiribati",2017,0.601,2.44
+"St. Kitts and Nevis",1989,2.64,1.7
+"St. Kitts and Nevis",1990,2.63,1.33
+"St. Kitts and Nevis",1991,2.7,1.31
+"St. Kitts and Nevis",1992,2.76,1.29
+"St. Kitts and Nevis",1993,2.91,1.34
+"St. Kitts and Nevis",1994,3.05,1.42
+"St. Kitts and Nevis",1995,3.11,1.42
+"St. Kitts and Nevis",1996,3.34,1.41
+"St. Kitts and Nevis",1997,3.48,1.41
+"St. Kitts and Nevis",1998,3.7,1.39
+"St. Kitts and Nevis",1999,3.91,1.42
+"St. Kitts and Nevis",2000,3.95,1.43
+"St. Kitts and Nevis",2001,4.38,1.47
+"St. Kitts and Nevis",2002,4.33,1.48
+"St. Kitts and Nevis",2003,4.59,1.5
+"St. Kitts and Nevis",2004,4.23,1.53
+"St. Kitts and Nevis",2005,4.26,1.59
+"St. Kitts and Nevis",2006,4.53,1.64
+"St. Kitts and Nevis",2007,4.49,1.69
+"St. Kitts and Nevis",2008,4.6,1.74
+"St. Kitts and Nevis",2009,4.49,1.77
+"St. Kitts and Nevis",2010,4.67,1.84
+"St. Kitts and Nevis",2011,4.41,1.9
+"St. Kitts and Nevis",2012,4.44,1.98
+"St. Kitts and Nevis",2013,4.55,2.05
+"St. Kitts and Nevis",2014,4.58,2.11
+"St. Kitts and Nevis",2015,4.62,2.21
+"St. Kitts and Nevis",2016,4.62,2.31
+"St. Kitts and Nevis",2017,4.62,2.43
+"South Korea",1989,5.77,1970
+"South Korea",1990,6.05,2190
+"South Korea",1991,6.44,2400
+"South Korea",1992,7.27,2630
+"South Korea",1993,7.69,2890
+"South Korea",1994,8.26,3220
+"South Korea",1995,8.78,3490
+"South Korea",1996,9.27,3770
+"South Korea",1997,7.8,3930
+"South Korea",1998,8.48,4100
+"South Korea",1999,9.41,4190
+"South Korea",2000,9.41,4200
+"South Korea",2001,9.67,4290
+"South Korea",2002,9.59,4390
+"South Korea",2003,9.88,4420
+"South Korea",2004,9.44,4520
+"South Korea",2005,9.53,4760
+"South Korea",2006,10.1,5200
+"South Korea",2007,10.3,5560
+"South Korea",2008,10.3,5980
+"South Korea",2009,11.4,6270
+"South Korea",2010,11.8,6510
+"South Korea",2011,11.7,6770
+"South Korea",2012,11.8,7060
+"South Korea",2013,11.6,7280
+"South Korea",2014,11.7,7500
+"South Korea",2015,12.1,7770
+"South Korea",2016,12.5,8160
+"South Korea",2017,12.9,8680
+"Kuwait",1989,18.1,15.3
+"Kuwait",1990,7.35,14.9
+"Kuwait",1991,15.5,14.7
+"Kuwait",1992,27.7,15.7
+"Kuwait",1993,33.3,15.2
+"Kuwait",1994,34,15.5
+"Kuwait",1995,30.7,16.9
+"Kuwait",1996,32,18.3
+"Kuwait",1997,28.2,19.4
+"Kuwait",1998,27.6,18.4
+"Kuwait",1999,26.1,19.4
+"Kuwait",2000,27.4,20.4
+"Kuwait",2001,27.2,20.1
+"Kuwait",2002,27.6,21.4
+"Kuwait",2003,28.7,21.6
+"Kuwait",2004,31.4,23.7
+"Kuwait",2005,30.9,25.5
+"Kuwait",2006,29.9,27.8
+"Kuwait",2007,31,30.9
+"Kuwait",2008,30.8,31.3
+"Kuwait",2009,29.9,30.8
+"Kuwait",2010,27.3,31.2
+"Kuwait",2011,29.9,32.7
+"Kuwait",2012,26.8,34
+"Kuwait",2013,23.8,36.3
+"Kuwait",2014,24.1,38.2
+"Kuwait",2015,24.8,40.9
+"Kuwait",2016,24.1,44.2
+"Kuwait",2017,23.7,48
+"Lao",1989,0.121,106
+"Lao",1990,0.125,110
+"Lao",1991,0.132,114
+"Lao",1992,0.132,117
+"Lao",1993,0.134,121
+"Lao",1994,0.138,125
+"Lao",1995,0.152,128
+"Lao",1996,0.157,131
+"Lao",1997,0.16,134
+"Lao",1998,0.162,137
+"Lao",1999,0.18,138
+"Lao",2000,0.196,141
+"Lao",2001,0.212,142
+"Lao",2002,0.218,143
+"Lao",2003,0.226,146
+"Lao",2004,0.233,150
+"Lao",2005,0.3,153
+"Lao",2006,0.308,158
+"Lao",2007,0.352,163
+"Lao",2008,0.434,168
+"Lao",2009,0.48,174
+"Lao",2010,0.499,180
+"Lao",2011,0.528,187
+"Lao",2012,0.613,195
+"Lao",2013,0.653,204
+"Lao",2014,1.31,215
+"Lao",2015,2.56,225
+"Lao",2016,2.62,235
+"Lao",2017,2.74,247
+"Lebanon",1989,2.81,98
+"Lebanon",1990,2.78,102
+"Lebanon",1991,3.16,108
+"Lebanon",1992,3.19,113
+"Lebanon",1993,3.27,117
+"Lebanon",1994,3.48,123
+"Lebanon",1995,3.53,128
+"Lebanon",1996,4.13,134
+"Lebanon",1997,4.41,141
+"Lebanon",1998,4.39,154
+"Lebanon",1999,4.03,169
+"Lebanon",2000,4.11,187
+"Lebanon",2001,3.89,205
+"Lebanon",2002,4.23,223
+"Lebanon",2003,3.77,238
+"Lebanon",2004,3.55,254
+"Lebanon",2005,3.11,273
+"Lebanon",2006,2.89,289
+"Lebanon",2007,3.66,305
+"Lebanon",2008,4.36,323
+"Lebanon",2009,4.04,342
+"Lebanon",2010,3.9,365
+"Lebanon",2011,4.04,388
+"Lebanon",2012,3.76,411
+"Lebanon",2013,3.79,430
+"Lebanon",2014,3.69,444
+"Lebanon",2015,3.64,460
+"Lebanon",2016,3.53,476
+"Lebanon",2017,3.53,492
+"Liberia",1989,0.226,23.2
+"Liberia",1990,0.182,23.7
+"Liberia",1991,0.194,23.8
+"Liberia",1992,0.215,23.2
+"Liberia",1993,0.212,22.5
+"Liberia",1994,0.208,21.5
+"Liberia",1995,0.201,20.9
+"Liberia",1996,0.195,20.3
+"Liberia",1997,0.192,20
+"Liberia",1998,0.145,20.2
+"Liberia",1999,0.148,21.4
+"Liberia",2000,0.152,22.5
+"Liberia",2001,0.144,24
+"Liberia",2002,0.152,24.6
+"Liberia",2003,0.174,25.6
+"Liberia",2004,0.204,26.6
+"Liberia",2005,0.202,28.1
+"Liberia",2006,0.181,29.3
+"Liberia",2007,0.148,30.8
+"Liberia",2008,0.127,32.3
+"Liberia",2009,0.196,34.2
+"Liberia",2010,0.212,35.7
+"Liberia",2011,0.233,38.1
+"Liberia",2012,0.207,40
+"Liberia",2013,0.273,40.9
+"Liberia",2014,0.27,42.1
+"Liberia",2015,0.296,43.4
+"Liberia",2016,0.32,44.9
+"Liberia",2017,0.324,47.2
+"Libya",1989,8.24,26.8
+"Libya",1990,9.39,28.4
+"Libya",1991,7.97,30
+"Libya",1992,8.15,32
+"Libya",1993,9.02,33.7
+"Libya",1994,9.24,35.2
+"Libya",1995,8.7,36.8
+"Libya",1996,8.74,39.5
+"Libya",1997,8.7,42.6
+"Libya",1998,8.4,45
+"Libya",1999,8.74,47.1
+"Libya",2000,8.78,48.2
+"Libya",2001,8.59,49.6
+"Libya",2002,8.69,50.9
+"Libya",2003,8.76,52.5
+"Libya",2004,8.92,55.7
+"Libya",2005,8.95,59.7
+"Libya",2006,8.26,70.4
+"Libya",2007,9.14,76.4
+"Libya",2008,9.33,84.6
+"Libya",2009,9.87,87
+"Libya",2010,6.29,90.3
+"Libya",2011,8.34,95.5
+"Libya",2012,8.87,99.6
+"Libya",2013,9.23,104
+"Libya",2014,8.79,108
+"Libya",2015,7.72,111
+"Libya",2016,7.96,116
+"Libya",2017,8.09,122
+"St. Lucia",1989,1.17,3.69
+"St. Lucia",1990,1.2,3.81
+"St. Lucia",1991,1.06,3.96
+"St. Lucia",1992,1.61,3.96
+"St. Lucia",1993,1.77,3.89
+"St. Lucia",1994,2.1,4
+"St. Lucia",1995,2.17,3.98
+"St. Lucia",1996,2.02,3.93
+"St. Lucia",1997,1.92,3.95
+"St. Lucia",1998,2.15,4.01
+"St. Lucia",1999,2.22,4.15
+"St. Lucia",2000,2.2,4.23
+"St. Lucia",2001,1.82,4.38
+"St. Lucia",2002,2.24,4.5
+"St. Lucia",2003,2.2,4.67
+"St. Lucia",2004,2.24,4.81
+"St. Lucia",2005,2.22,4.99
+"St. Lucia",2006,2.3,4.87
+"St. Lucia",2007,2.33,5.04
+"St. Lucia",2008,2.24,5.11
+"St. Lucia",2009,2.32,5.2
+"St. Lucia",2010,2.32,5.53
+"St. Lucia",2011,2.3,5.81
+"St. Lucia",2012,2.29,6.16
+"St. Lucia",2013,2.28,6.48
+"St. Lucia",2014,2.29,6.81
+"St. Lucia",2015,2.3,7.52
+"St. Lucia",2016,2.31,7.84
+"St. Lucia",2017,2.31,8.16
+"Sri Lanka",1989,0.221,213
+"Sri Lanka",1990,0.236,211
+"Sri Lanka",1991,0.288,216
+"Sri Lanka",1992,0.278,228
+"Sri Lanka",1993,0.301,245
+"Sri Lanka",1994,0.319,256
+"Sri Lanka",1995,0.38,275
+"Sri Lanka",1996,0.407,289
+"Sri Lanka",1997,0.417,288
+"Sri Lanka",1998,0.457,295
+"Sri Lanka",1999,0.54,301
+"Sri Lanka",2000,0.547,301
+"Sri Lanka",2001,0.575,313
+"Sri Lanka",2002,0.57,331
+"Sri Lanka",2003,0.627,353
+"Sri Lanka",2004,0.611,373
+"Sri Lanka",2005,0.599,401
+"Sri Lanka",2006,0.613,427
+"Sri Lanka",2007,0.6,454
+"Sri Lanka",2008,0.644,499
+"Sri Lanka",2009,0.645,517
+"Sri Lanka",2010,0.73,543
+"Sri Lanka",2011,0.77,566
+"Sri Lanka",2012,0.711,601
+"Sri Lanka",2013,0.852,631
+"Sri Lanka",2014,0.949,659
+"Sri Lanka",2015,1.1,686
+"Sri Lanka",2016,1.16,713
+"Sri Lanka",2017,1.1,743
+"Lesotho",1989,0.865,23.8
+"Lesotho",1990,0.878,24.2
+"Lesotho",1991,0.891,24.7
+"Lesotho",1992,0.898,25.2
+"Lesotho",1993,0.9,25.7
+"Lesotho",1994,0.9,26
+"Lesotho",1995,0.899,26
+"Lesotho",1996,0.9,26.1
+"Lesotho",1997,0.903,28
+"Lesotho",1998,0.904,30
+"Lesotho",1999,0.911,33.2
+"Lesotho",2000,0.922,34.4
+"Lesotho",2001,0.939,36.1
+"Lesotho",2002,0.957,38.6
+"Lesotho",2003,0.989,40.1
+"Lesotho",2004,1.01,41
+"Lesotho",2005,1.02,41.7
+"Lesotho",2006,1.04,42.8
+"Lesotho",2007,1.07,44.5
+"Lesotho",2008,1.11,45.3
+"Lesotho",2009,1.14,46.7
+"Lesotho",2010,1.16,48
+"Lesotho",2011,1.19,50.1
+"Lesotho",2012,1.19,52.1
+"Lesotho",2013,1.19,53.7
+"Lesotho",2014,1.14,55.1
+"Lesotho",2015,1.21,55.6
+"Lesotho",2016,1.33,56
+"Lesotho",2017,1.26,57.2
+"Lithuania",1989,9.69,239
+"Lithuania",1990,10.3,245
+"Lithuania",1991,5.75,236
+"Lithuania",1992,4.45,239
+"Lithuania",1993,4.32,234
+"Lithuania",1994,4.14,233
+"Lithuania",1995,4.35,225
+"Lithuania",1996,4.21,219
+"Lithuania",1997,4.47,221
+"Lithuania",1998,3.8,222
+"Lithuania",1999,3.37,229
+"Lithuania",2000,3.6,236
+"Lithuania",2001,3.66,234
+"Lithuania",2002,3.69,242
+"Lithuania",2003,3.9,242
+"Lithuania",2004,4.22,250
+"Lithuania",2005,4.36,252
+"Lithuania",2006,4.84,270
+"Lithuania",2007,4.7,284
+"Lithuania",2008,4.05,278
+"Lithuania",2009,4.39,282
+"Lithuania",2010,4.57,285
+"Lithuania",2011,4.65,291
+"Lithuania",2012,4.36,298
+"Lithuania",2013,4.34,298
+"Lithuania",2014,4.48,301
+"Lithuania",2015,4.54,304
+"Lithuania",2016,4.72,306
+"Lithuania",2017,4.84,308
+"Luxembourg",1989,31.1,42.4
+"Luxembourg",1990,32.3,44.1
+"Luxembourg",1991,31.2,45.4
+"Luxembourg",1992,31.2,46.9
+"Luxembourg",1993,28.7,48.3
+"Luxembourg",1994,22.5,49.5
+"Luxembourg",1995,22.3,51.1
+"Luxembourg",1996,20.4,53.4
+"Luxembourg",1997,18.1,56
+"Luxembourg",1998,18.9,58.8
+"Luxembourg",1999,20,61.3
+"Luxembourg",2000,21,62.6
+"Luxembourg",2001,22.6,64.8
+"Luxembourg",2002,23.4,68.6
+"Luxembourg",2003,26.2,71.4
+"Luxembourg",2004,26.5,74.9
+"Luxembourg",2005,25.7,78.4
+"Luxembourg",2006,23.9,83.5
+"Luxembourg",2007,23.1,86.3
+"Luxembourg",2008,21.5,90.7
+"Luxembourg",2009,22.1,92.3
+"Luxembourg",2010,21.4,94.9
+"Luxembourg",2011,20.5,97.4
+"Luxembourg",2012,19,99.4
+"Luxembourg",2013,17.7,101
+"Luxembourg",2014,16.5,99.5
+"Luxembourg",2015,15.7,97.1
+"Luxembourg",2016,15.6,98
+"Luxembourg",2017,15.9,99.5
+"Latvia",1989,7.33,231
+"Latvia",1990,6.72,227
+"Latvia",1991,5.38,222
+"Latvia",1992,4.58,226
+"Latvia",1993,4.05,228
+"Latvia",1994,3.63,219
+"Latvia",1995,3.7,197
+"Latvia",1996,3.53,191
+"Latvia",1997,3.41,195
+"Latvia",1998,3.2,191
+"Latvia",1999,2.97,189
+"Latvia",2000,3.17,197
+"Latvia",2001,3.22,197
+"Latvia",2002,3.35,204
+"Latvia",2003,3.4,208
+"Latvia",2004,3.47,218
+"Latvia",2005,3.74,235
+"Latvia",2006,3.93,238
+"Latvia",2007,3.78,231
+"Latvia",2008,3.48,233
+"Latvia",2009,4.04,233
+"Latvia",2010,3.73,236
+"Latvia",2011,3.64,229
+"Latvia",2012,3.61,235
+"Latvia",2013,3.56,230
+"Latvia",2014,3.65,229
+"Latvia",2015,3.67,232
+"Latvia",2016,3.71,236
+"Latvia",2017,3.73,238
+"Morocco",1989,0.93,170
+"Morocco",1990,0.964,179
+"Morocco",1991,0.994,188
+"Morocco",1992,1.06,198
+"Morocco",1993,1.09,206
+"Morocco",1994,1.1,214
+"Morocco",1995,1.11,225
+"Morocco",1996,1.12,237
+"Morocco",1997,1.11,245
+"Morocco",1998,1.14,256
+"Morocco",1999,1.17,266
+"Morocco",2000,1.29,280
+"Morocco",2001,1.29,296
+"Morocco",2002,1.26,311
+"Morocco",2003,1.44,326
+"Morocco",2004,1.5,342
+"Morocco",2005,1.54,360
+"Morocco",2006,1.61,379
+"Morocco",2007,1.68,396
+"Morocco",2008,1.65,414
+"Morocco",2009,1.74,432
+"Morocco",2010,1.73,453
+"Morocco",2011,1.78,473
+"Morocco",2012,1.74,495
+"Morocco",2013,1.75,518
+"Morocco",2014,1.76,541
+"Morocco",2015,1.74,567
+"Morocco",2016,1.79,595
+"Morocco",2017,1.84,626
+"Moldova",1989,6.36,256
+"Moldova",1990,5.12,245
+"Moldova",1991,4.8,220
+"Moldova",1992,3.63,218
+"Moldova",1993,2.85,217
+"Moldova",1994,2.63,212
+"Moldova",1995,2.71,202
+"Moldova",1996,1.7,192
+"Moldova",1997,1.52,181
+"Moldova",1998,1.11,179
+"Moldova",1999,0.851,179
+"Moldova",2000,0.905,182
+"Moldova",2001,0.971,184
+"Moldova",2002,1.06,188
+"Moldova",2003,1.11,188
+"Moldova",2004,1.19,193
+"Moldova",2005,1.21,198
+"Moldova",2006,1.21,203
+"Moldova",2007,1.26,206
+"Moldova",2008,1.11,209
+"Moldova",2009,1.18,214
+"Moldova",2010,1.21,208
+"Moldova",2011,1.17,211
+"Moldova",2012,1.2,213
+"Moldova",2013,1.16,221
+"Moldova",2014,1.18,223
+"Moldova",2015,1.21,222
+"Moldova",2016,1.18,218
+"Moldova",2017,1.27,222
+"Madagascar",1989,0.0802,80.5
+"Madagascar",1990,0.0846,82.4
+"Madagascar",1991,0.0798,84.3
+"Madagascar",1992,0.0794,86.4
+"Madagascar",1993,0.0954,85.5
+"Madagascar",1994,0.0955,89.6
+"Madagascar",1995,0.0965,91.4
+"Madagascar",1996,0.113,94.9
+"Madagascar",1997,0.116,98
+"Madagascar",1998,0.119,98.8
+"Madagascar",1999,0.119,101
+"Madagascar",2000,0.107,104
+"Madagascar",2001,0.0735,110
+"Madagascar",2002,0.0973,113
+"Madagascar",2003,0.101,117
+"Madagascar",2004,0.0942,120
+"Madagascar",2005,0.0883,122
+"Madagascar",2006,0.0918,123
+"Madagascar",2007,0.0935,127
+"Madagascar",2008,0.0853,132
+"Madagascar",2009,0.0917,137
+"Madagascar",2010,0.109,142
+"Madagascar",2011,0.123,149
+"Madagascar",2012,0.137,156
+"Madagascar",2013,0.139,164
+"Madagascar",2014,0.149,173
+"Madagascar",2015,0.156,183
+"Madagascar",2016,0.163,194
+"Madagascar",2017,0.163,206
+"Maldives",1989,0.772,1.74
+"Maldives",1990,0.67,1.85
+"Maldives",1991,0.978,1.97
+"Maldives",1992,0.816,2.03
+"Maldives",1993,0.797,2.03
+"Maldives",1994,0.981,2.17
+"Maldives",1995,1.12,2.41
+"Maldives",1996,1.25,2.59
+"Maldives",1997,1.12,2.63
+"Maldives",1998,1.54,2.72
+"Maldives",1999,1.61,2.9
+"Maldives",2000,1.61,3.02
+"Maldives",2001,2.02,2.92
+"Maldives",2002,1.67,3
+"Maldives",2003,2.14,3.07
+"Maldives",2004,1.88,3.14
+"Maldives",2005,2.32,3.25
+"Maldives",2006,2.33,3.38
+"Maldives",2007,2.46,3.54
+"Maldives",2008,2.5,3.71
+"Maldives",2009,2.56,3.89
+"Maldives",2010,2.59,4.05
+"Maldives",2011,2.8,4.24
+"Maldives",2012,2.63,4.44
+"Maldives",2013,3.03,4.63
+"Maldives",2014,2.86,4.8
+"Maldives",2015,3.04,5.09
+"Maldives",2016,2.99,5.39
+"Maldives",2017,2.96,5.77
+"Mexico",1989,3.78,1850
+"Mexico",1990,3.86,1880
+"Mexico",1991,3.82,1920
+"Mexico",1992,3.82,1980
+"Mexico",1993,3.9,2070
+"Mexico",1994,3.62,2150
+"Mexico",1995,3.72,2210
+"Mexico",1996,3.9,2280
+"Mexico",1997,4.05,2320
+"Mexico",1998,4.01,2350
+"Mexico",1999,4.01,2380
+"Mexico",2000,4.1,2400
+"Mexico",2001,4.05,2470
+"Mexico",2002,4.25,2520
+"Mexico",2003,4.2,2560
+"Mexico",2004,4.38,2630
+"Mexico",2005,4.43,2660
+"Mexico",2006,4.4,2690
+"Mexico",2007,4.45,2770
+"Mexico",2008,4.24,2850
+"Mexico",2009,4.07,2850
+"Mexico",2010,4.19,2900
+"Mexico",2011,4.24,2970
+"Mexico",2012,4.13,3120
+"Mexico",2013,4,3210
+"Mexico",2014,3.96,3270
+"Mexico",2015,3.94,3390
+"Mexico",2016,3.95,3560
+"Mexico",2017,3.79,3750
+"Marshall Islands",1989,NA,0.87
+"Marshall Islands",1990,NA,0.91
+"Marshall Islands",1991,1.56,0.94
+"Marshall Islands",1992,1.69,0.98
+"Marshall Islands",1993,1.68,1
+"Marshall Islands",1994,1.74,1.05
+"Marshall Islands",1995,1.74,1.09
+"Marshall Islands",1996,1.74,1.12
+"Marshall Islands",1997,1.82,1.14
+"Marshall Islands",1998,1.75,1.15
+"Marshall Islands",1999,1.95,1.19
+"Marshall Islands",2000,2,1.23
+"Marshall Islands",2001,2.1,1.27
+"Marshall Islands",2002,1.99,1.31
+"Marshall Islands",2003,2.15,1.35
+"Marshall Islands",2004,2.06,1.4
+"Marshall Islands",2005,2.17,1.48
+"Marshall Islands",2006,2.22,1.54
+"Marshall Islands",2007,2.29,1.61
+"Marshall Islands",2008,2.35,1.68
+"Marshall Islands",2009,2.41,1.76
+"Marshall Islands",2010,2.47,1.84
+"Marshall Islands",2011,2.39,1.92
+"Marshall Islands",2012,2.45,2
+"Marshall Islands",2013,2.5,2.08
+"Marshall Islands",2014,2.49,2.19
+"Marshall Islands",2015,2.48,2.28
+"Marshall Islands",2016,2.53,2.39
+"Marshall Islands",2017,2.58,2.49
+"North Macedonia",1989,7.16,93.1
+"North Macedonia",1990,5.08,95.5
+"North Macedonia",1991,5.55,100
+"North Macedonia",1992,5.13,105
+"North Macedonia",1993,5.2,110
+"North Macedonia",1994,5.39,115
+"North Macedonia",1995,5.9,122
+"North Macedonia",1996,5.32,129
+"North Macedonia",1997,6.27,137
+"North Macedonia",1998,5.79,139
+"North Macedonia",1999,5.93,142
+"North Macedonia",2000,5.87,144
+"North Macedonia",2001,5.34,148
+"North Macedonia",2002,5.51,157
+"North Macedonia",2003,5.44,168
+"North Macedonia",2004,5.47,178
+"North Macedonia",2005,5.3,188
+"North Macedonia",2006,4.6,202
+"North Macedonia",2007,4.55,207
+"North Macedonia",2008,4.2,210
+"North Macedonia",2009,4.15,215
+"North Macedonia",2010,4.49,219
+"North Macedonia",2011,4.25,230
+"North Macedonia",2012,3.79,227
+"North Macedonia",2013,3.63,232
+"North Macedonia",2014,3.41,240
+"North Macedonia",2015,3.39,242
+"North Macedonia",2016,3.53,245
+"North Macedonia",2017,3.49,250
+"Mali",1989,0.0501,69.7
+"Mali",1990,0.0503,71
+"Mali",1991,0.0507,72.7
+"Mali",1992,0.0506,74.3
+"Mali",1993,0.0501,76.3
+"Mali",1994,0.0492,78.7
+"Mali",1995,0.0502,81.2
+"Mali",1996,0.0524,84
+"Mali",1997,0.0743,86.1
+"Mali",1998,0.0755,87.8
+"Mali",1999,0.076,89.9
+"Mali",2000,0.0745,92
+"Mali",2001,0.0739,94.6
+"Mali",2002,0.0716,96.6
+"Mali",2003,0.072,99.3
+"Mali",2004,0.0718,102
+"Mali",2005,0.0819,105
+"Mali",2006,0.0951,109
+"Mali",2007,0.11,112
+"Mali",2008,0.122,117
+"Mali",2009,0.131,121
+"Mali",2010,0.139,125
+"Mali",2011,0.144,130
+"Mali",2012,0.161,134
+"Mali",2013,0.172,139
+"Mali",2014,0.178,145
+"Mali",2015,0.173,154
+"Mali",2016,0.186,162
+"Mali",2017,0.187,169
+"Malta",1989,5.37,14.2
+"Malta",1990,5.79,14.6
+"Malta",1991,6.27,15.2
+"Malta",1992,6.26,15.9
+"Malta",1993,6.65,16.5
+"Malta",1994,6.58,17
+"Malta",1995,6.41,17.4
+"Malta",1996,6.47,18.2
+"Malta",1997,6.42,19.3
+"Malta",1998,6.49,20.5
+"Malta",1999,6.42,22.1
+"Malta",2000,6.13,22.8
+"Malta",2001,6.08,23.7
+"Malta",2002,6.56,25.2
+"Malta",2003,6.31,26
+"Malta",2004,6.42,26
+"Malta",2005,6.41,27.1
+"Malta",2006,6.58,28
+"Malta",2007,6.74,29.4
+"Malta",2008,6.15,31.1
+"Malta",2009,6.12,31.9
+"Malta",2010,6.26,33.3
+"Malta",2011,6.58,34.9
+"Malta",2012,5.73,36.1
+"Malta",2013,5.64,37.3
+"Malta",2014,3.96,39.1
+"Malta",2015,3.24,39.8
+"Malta",2016,3.68,40.7
+"Malta",2017,3.61,41.5
+"Myanmar",1989,0.103,1320
+"Myanmar",1990,0.0988,1360
+"Myanmar",1991,0.114,1400
+"Myanmar",1992,0.124,1440
+"Myanmar",1993,0.143,1480
+"Myanmar",1994,0.157,1530
+"Myanmar",1995,0.162,1590
+"Myanmar",1996,0.165,1640
+"Myanmar",1997,0.176,1690
+"Myanmar",1998,0.194,1750
+"Myanmar",1999,0.215,1810
+"Myanmar",2000,0.184,1890
+"Myanmar",2001,0.192,1950
+"Myanmar",2002,0.203,2030
+"Myanmar",2003,0.255,2100
+"Myanmar",2004,0.236,2160
+"Myanmar",2005,0.259,2240
+"Myanmar",2006,0.258,2290
+"Myanmar",2007,0.195,2340
+"Myanmar",2008,0.202,2380
+"Myanmar",2009,0.259,2420
+"Myanmar",2010,0.296,2460
+"Myanmar",2011,0.232,2510
+"Myanmar",2012,0.25,2600
+"Myanmar",2013,0.31,2690
+"Myanmar",2014,0.421,2790
+"Myanmar",2015,0.471,2900
+"Myanmar",2016,0.476,3030
+"Myanmar",2017,0.491,3170
+"Montenegro",1989,3.12,67.7
+"Montenegro",1990,2.21,67.3
+"Montenegro",1991,2.4,69.2
+"Montenegro",1992,2.09,71.4
+"Montenegro",1993,2.03,74.7
+"Montenegro",1994,2.14,78
+"Montenegro",1995,2.51,80.9
+"Montenegro",1996,2.7,84.3
+"Montenegro",1997,2.85,87.2
+"Montenegro",1998,1.97,90
+"Montenegro",1999,2.48,95.2
+"Montenegro",2000,2.72,99.9
+"Montenegro",2001,2.88,104
+"Montenegro",2002,3.07,108
+"Montenegro",2003,3.32,112
+"Montenegro",2004,2.84,114
+"Montenegro",2005,3.34,116
+"Montenegro",2006,3.32,120
+"Montenegro",2007,4.2,124
+"Montenegro",2008,2.7,127
+"Montenegro",2009,3.88,128
+"Montenegro",2010,3.85,130
+"Montenegro",2011,3.54,132
+"Montenegro",2012,3.44,134
+"Montenegro",2013,3.36,136
+"Montenegro",2014,3.57,136
+"Montenegro",2015,3.22,137
+"Montenegro",2016,3.23,139
+"Montenegro",2017,3.2,140
+"Mongolia",1989,4.53,92.8
+"Mongolia",1990,5.47,97.2
+"Mongolia",1991,4.9,102
+"Mongolia",1992,4.1,104
+"Mongolia",1993,3.48,107
+"Mongolia",1994,3.44,112
+"Mongolia",1995,3.47,113
+"Mongolia",1996,3.29,114
+"Mongolia",1997,3.27,112
+"Mongolia",1998,3.17,112
+"Mongolia",1999,3.13,110
+"Mongolia",2000,3.26,105
+"Mongolia",2001,3.38,97.1
+"Mongolia",2002,3.25,92.1
+"Mongolia",2003,3.44,89.1
+"Mongolia",2004,3.4,88.1
+"Mongolia",2005,3.68,88.7
+"Mongolia",2006,4.66,88.4
+"Mongolia",2007,4.57,89.1
+"Mongolia",2008,4.89,91.7
+"Mongolia",2009,5.09,93.8
+"Mongolia",2010,7.74,98
+"Mongolia",2011,12.4,100
+"Mongolia",2012,15.1,103
+"Mongolia",2013,10.1,106
+"Mongolia",2014,7.76,110
+"Mongolia",2015,8.29,118
+"Mongolia",2016,8.49,125
+"Mongolia",2017,8.88,133
+"Mozambique",1989,0.0782,79.7
+"Mozambique",1990,0.0762,80.6
+"Mozambique",1991,0.0726,82.1
+"Mozambique",1992,0.0749,84.4
+"Mozambique",1993,0.0708,86.7
+"Mozambique",1994,0.0717,88.1
+"Mozambique",1995,0.0684,90.6
+"Mozambique",1996,0.0714,94.5
+"Mozambique",1997,0.0662,97.9
+"Mozambique",1998,0.0677,101
+"Mozambique",1999,0.0747,104
+"Mozambique",2000,0.0853,105
+"Mozambique",2001,0.0821,108
+"Mozambique",2002,0.0961,113
+"Mozambique",2003,0.0937,118
+"Mozambique",2004,0.0865,125
+"Mozambique",2005,0.0909,132
+"Mozambique",2006,0.101,140
+"Mozambique",2007,0.0979,151
+"Mozambique",2008,0.107,161
+"Mozambique",2009,0.112,171
+"Mozambique",2010,0.129,182
+"Mozambique",2011,0.12,192
+"Mozambique",2012,0.159,202
+"Mozambique",2013,0.314,213
+"Mozambique",2014,0.233,223
+"Mozambique",2015,0.278,233
+"Mozambique",2016,0.28,244
+"Mozambique",2017,0.281,255
+"Mauritania",1989,0.42,33.6
+"Mauritania",1990,0.416,33.9
+"Mauritania",1991,0.423,34.4
+"Mauritania",1992,0.422,35.1
+"Mauritania",1993,0.424,34.7
+"Mauritania",1994,0.439,34.4
+"Mauritania",1995,0.448,34.8
+"Mauritania",1996,0.443,34.9
+"Mauritania",1997,0.429,35.7
+"Mauritania",1998,0.428,35.5
+"Mauritania",1999,0.424,36.1
+"Mauritania",2000,0.434,37
+"Mauritania",2001,0.45,37.9
+"Mauritania",2002,0.452,38.4
+"Mauritania",2003,0.472,40.2
+"Mauritania",2004,0.475,41.4
+"Mauritania",2005,0.457,43.9
+"Mauritania",2006,0.512,45
+"Mauritania",2007,0.538,46.2
+"Mauritania",2008,0.578,49.1
+"Mauritania",2009,0.561,50.6
+"Mauritania",2010,0.587,52.9
+"Mauritania",2011,0.629,56.3
+"Mauritania",2012,0.536,58.9
+"Mauritania",2013,0.636,59.9
+"Mauritania",2014,0.609,62.2
+"Mauritania",2015,0.552,64
+"Mauritania",2016,0.599,68
+"Mauritania",2017,0.605,70.3
+"Mauritius",1989,1.39,24.7
+"Mauritius",1990,1.42,25.1
+"Mauritius",1991,1.58,26.4
+"Mauritius",1992,1.62,26.9
+"Mauritius",1993,1.46,27.7
+"Mauritius",1994,1.62,27.8
+"Mauritius",1995,1.71,27.5
+"Mauritius",1996,1.73,28.7
+"Mauritius",1997,1.86,30.5
+"Mauritius",1998,2.06,31.9
+"Mauritius",1999,2.27,33.5
+"Mauritius",2000,2.4,34.8
+"Mauritius",2001,2.4,36.3
+"Mauritius",2002,2.53,39
+"Mauritius",2003,2.54,39.1
+"Mauritius",2004,2.7,40.1
+"Mauritius",2005,2.96,40.3
+"Mauritius",2006,2.99,40.5
+"Mauritius",2007,3.04,42
+"Mauritius",2008,2.98,43
+"Mauritius",2009,3.14,43.8
+"Mauritius",2010,3.13,43.6
+"Mauritius",2011,3.17,45.8
+"Mauritius",2012,3.24,46.6
+"Mauritius",2013,3.35,48.1
+"Mauritius",2014,3.35,50.6
+"Mauritius",2015,3.45,50.8
+"Mauritius",2016,3.75,55
+"Mauritius",2017,3.83,58.1
+"Malawi",1989,0.0786,50
+"Malawi",1990,0.0818,50.8
+"Malawi",1991,0.0811,51.3
+"Malawi",1992,0.0906,51.6
+"Malawi",1993,0.0929,52.2
+"Malawi",1994,0.0922,53.3
+"Malawi",1995,0.0903,54.5
+"Malawi",1996,0.0924,55.8
+"Malawi",1997,0.0874,57.9
+"Malawi",1998,0.0849,59.1
+"Malawi",1999,0.0776,60.3
+"Malawi",2000,0.0693,60.5
+"Malawi",2001,0.0723,61.9
+"Malawi",2002,0.0754,63.6
+"Malawi",2003,0.0742,65.2
+"Malawi",2004,0.0718,66.2
+"Malawi",2005,0.0708,67.4
+"Malawi",2006,0.0727,69.5
+"Malawi",2007,0.0793,72.5
+"Malawi",2008,0.0775,76.3
+"Malawi",2009,0.0707,80.9
+"Malawi",2010,0.0762,84.8
+"Malawi",2011,0.0737,88.5
+"Malawi",2012,0.0734,92.2
+"Malawi",2013,0.0628,96.2
+"Malawi",2014,0.0669,101
+"Malawi",2015,0.0735,106
+"Malawi",2016,0.0764,111
+"Malawi",2017,0.0762,117
+"Malaysia",1989,3.16,354
+"Malaysia",1990,3.69,368
+"Malaysia",1991,3.92,389
+"Malaysia",1992,4.66,418
+"Malaysia",1993,4.66,445
+"Malaysia",1994,5.86,490
+"Malaysia",1995,5.9,517
+"Malaysia",1996,5.74,553
+"Malaysia",1997,5.17,596
+"Malaysia",1998,4.78,691
+"Malaysia",1999,5.46,709
+"Malaysia",2000,5.7,738
+"Malaysia",2001,5.64,791
+"Malaysia",2002,6.37,845
+"Malaysia",2003,6.82,885
+"Malaysia",2004,7.08,934
+"Malaysia",2005,6.83,994
+"Malaysia",2006,6.85,1040
+"Malaysia",2007,7.44,1090
+"Malaysia",2008,7.11,1150
+"Malaysia",2009,7.68,1170
+"Malaysia",2010,7.6,1200
+"Malaysia",2011,7.43,1240
+"Malaysia",2012,7.96,1250
+"Malaysia",2013,8.08,1300
+"Malaysia",2014,7.71,1330
+"Malaysia",2015,8.05,1380
+"Malaysia",2016,7.93,1420
+"Malaysia",2017,8.08,1460
+"Namibia",1989,NA,11.5
+"Namibia",1990,0.715,11.9
+"Namibia",1991,0.759,12.4
+"Namibia",1992,0.894,13
+"Namibia",1993,0.988,13.6
+"Namibia",1994,0.996,14.2
+"Namibia",1995,1.04,14.8
+"Namibia",1996,1.04,15.6
+"Namibia",1997,1.05,16.5
+"Namibia",1998,0.944,17.5
+"Namibia",1999,0.915,18.6
+"Namibia",2000,1.11,18.9
+"Namibia",2001,0.951,19.5
+"Namibia",2002,0.997,20
+"Namibia",2003,1.03,20.2
+"Namibia",2004,1.19,20.4
+"Namibia",2005,1.18,20.5
+"Namibia",2006,1.18,20.9
+"Namibia",2007,1.63,21.5
+"Namibia",2008,1.47,22.4
+"Namibia",2009,1.46,23.2
+"Namibia",2010,1.28,23.8
+"Namibia",2011,1.53,25.1
+"Namibia",2012,1.17,26.4
+"Namibia",2013,1.63,27.8
+"Namibia",2014,1.71,29.3
+"Namibia",2015,1.78,30.7
+"Namibia",2016,1.76,31.9
+"Namibia",2017,1.75,33.3
+"Niger",1989,0.0751,40.3
+"Niger",1990,0.0688,41.4
+"Niger",1991,0.0618,43
+"Niger",1992,0.068,44.8
+"Niger",1993,0.0633,46.2
+"Niger",1994,0.0592,47.7
+"Niger",1995,0.0654,48.3
+"Niger",1996,0.0635,50.2
+"Niger",1997,0.0662,52.1
+"Niger",1998,0.0625,53.9
+"Niger",1999,0.0612,56.2
+"Niger",2000,0.0555,58.6
+"Niger",2001,0.057,61.6
+"Niger",2002,0.0596,64.5
+"Niger",2003,0.0616,66.8
+"Niger",2004,0.052,69.8
+"Niger",2005,0.0486,72
+"Niger",2006,0.0489,74.7
+"Niger",2007,0.0527,76.8
+"Niger",2008,0.0608,79.4
+"Niger",2009,0.0711,83
+"Niger",2010,0.0773,87.2
+"Niger",2011,0.0986,92.2
+"Niger",2012,0.102,97.4
+"Niger",2013,0.107,104
+"Niger",2014,0.101,111
+"Niger",2015,0.0967,119
+"Niger",2016,0.103,126
+"Niger",2017,0.103,133
+"Nigeria",1989,0.408,515
+"Nigeria",1990,0.43,527
+"Nigeria",1991,0.462,539
+"Nigeria",1992,0.437,551
+"Nigeria",1993,0.332,561
+"Nigeria",1994,0.31,564
+"Nigeria",1995,0.333,569
+"Nigeria",1996,0.362,580
+"Nigeria",1997,0.325,591
+"Nigeria",1998,0.332,601
+"Nigeria",1999,0.645,609
+"Nigeria",2000,0.692,626
+"Nigeria",2001,0.734,658
+"Nigeria",2002,0.759,688
+"Nigeria",2003,0.73,732
+"Nigeria",2004,0.762,775
+"Nigeria",2005,0.687,818
+"Nigeria",2006,0.645,865
+"Nigeria",2007,0.631,914
+"Nigeria",2008,0.486,977
+"Nigeria",2009,0.713,1050
+"Nigeria",2010,0.8,1150
+"Nigeria",2011,0.701,1260
+"Nigeria",2012,0.711,1360
+"Nigeria",2013,0.725,1440
+"Nigeria",2014,0.627,1520
+"Nigeria",2015,0.634,1600
+"Nigeria",2016,0.644,1680
+"Nigeria",2017,0.65,1770
+"Nicaragua",1989,0.49,31.3
+"Nicaragua",1990,0.466,34
+"Nicaragua",1991,0.544,35.2
+"Nicaragua",1992,0.512,37.8
+"Nicaragua",1993,0.553,39
+"Nicaragua",1994,0.593,48.8
+"Nicaragua",1995,0.601,52.1
+"Nicaragua",1996,0.645,52.6
+"Nicaragua",1997,0.691,53.1
+"Nicaragua",1998,0.722,54.7
+"Nicaragua",1999,0.735,58.2
+"Nicaragua",2000,0.763,62.6
+"Nicaragua",2001,0.765,66.7
+"Nicaragua",2002,0.82,70.3
+"Nicaragua",2003,0.817,76.1
+"Nicaragua",2004,0.786,80.9
+"Nicaragua",2005,0.802,79.4
+"Nicaragua",2006,0.815,86.8
+"Nicaragua",2007,0.771,92.4
+"Nicaragua",2008,0.774,97.5
+"Nicaragua",2009,0.768,99.9
+"Nicaragua",2010,0.815,105
+"Nicaragua",2011,0.76,109
+"Nicaragua",2012,0.718,113
+"Nicaragua",2013,0.749,119
+"Nicaragua",2014,0.844,122
+"Nicaragua",2015,0.875,128
+"Nicaragua",2016,0.862,132
+"Nicaragua",2017,0.862,140
+"Netherlands",1989,10.9,1560
+"Netherlands",1990,11.3,1690
+"Netherlands",1991,11.3,1810
+"Netherlands",1992,11.2,1960
+"Netherlands",1993,11.2,2080
+"Netherlands",1994,11.2,2180
+"Netherlands",1995,11.7,2330
+"Netherlands",1996,11.2,2480
+"Netherlands",1997,11.2,2610
+"Netherlands",1998,10.8,2810
+"Netherlands",1999,10.8,2950
+"Netherlands",2000,11.1,3080
+"Netherlands",2001,11,3210
+"Netherlands",2002,11.1,3080
+"Netherlands",2003,11.1,3600
+"Netherlands",2004,10.9,3920
+"Netherlands",2005,10.5,4200
+"Netherlands",2006,10.5,4490
+"Netherlands",2007,10.6,4850
+"Netherlands",2008,10.2,5080
+"Netherlands",2009,10.9,5260
+"Netherlands",2010,10.1,5540
+"Netherlands",2011,9.89,5700
+"Netherlands",2012,9.85,5800
+"Netherlands",2013,9.41,5940
+"Netherlands",2014,9.83,6040
+"Netherlands",2015,9.81,6230
+"Netherlands",2016,9.67,6200
+"Netherlands",2017,9.48,6240
+"Norway",1989,8.32,521
+"Norway",1990,7.93,543
+"Norway",1991,8.1,567
+"Norway",1992,8.4,596
+"Norway",1993,8.78,639
+"Norway",1994,8.87,649
+"Norway",1995,9.53,691
+"Norway",1996,9.49,725
+"Norway",1997,9.5,753
+"Norway",1998,9.61,781
+"Norway",1999,9.46,830
+"Norway",2000,9.71,861
+"Norway",2001,9.46,909
+"Norway",2002,9.71,943
+"Norway",2003,9.72,993
+"Norway",2004,9.5,1010
+"Norway",2005,9.53,1050
+"Norway",2006,9.81,1120
+"Norway",2007,9.52,1150
+"Norway",2008,9.1,1200
+"Norway",2009,9.47,1240
+"Norway",2010,9.2,1280
+"Norway",2011,8.99,1300
+"Norway",2012,8.86,1350
+"Norway",2013,8.74,1350
+"Norway",2014,8.72,1350
+"Norway",2015,8.47,1380
+"Norway",2016,8.26,1360
+"Norway",2017,8.31,1370
+"Nepal",1989,0.0406,141
+"Nepal",1990,0.0553,147
+"Nepal",1991,0.0648,152
+"Nepal",1992,0.0718,159
+"Nepal",1993,0.0809,164
+"Nepal",1994,0.112,170
+"Nepal",1995,0.111,175
+"Nepal",1996,0.122,181
+"Nepal",1997,0.0965,187
+"Nepal",1998,0.136,196
+"Nepal",1999,0.127,204
+"Nepal",2000,0.133,212
+"Nepal",2001,0.105,221
+"Nepal",2002,0.112,231
+"Nepal",2003,0.104,243
+"Nepal",2004,0.119,256
+"Nepal",2005,0.0971,269
+"Nepal",2006,0.0978,284
+"Nepal",2007,0.127,300
+"Nepal",2008,0.156,316
+"Nepal",2009,0.181,337
+"Nepal",2010,0.195,357
+"Nepal",2011,0.205,379
+"Nepal",2012,0.234,401
+"Nepal",2013,0.285,424
+"Nepal",2014,0.223,450
+"Nepal",2015,0.325,475
+"Nepal",2016,0.33,500
+"Nepal",2017,0.337,529
+"Nauru",1989,13.1,0.34
+"Nauru",1990,12.8,0.34
+"Nauru",1991,12.1,0.34
+"Nauru",1992,11.1,0.33
+"Nauru",1993,10.5,0.33
+"Nauru",1994,10,0.33
+"Nauru",1995,9.62,0.33
+"Nauru",1996,9.65,0.33
+"Nauru",1997,9.37,0.33
+"Nauru",1998,8.77,0.33
+"Nauru",1999,8.16,0.33
+"Nauru",2000,7.89,0.33
+"Nauru",2001,7.62,0.33
+"Nauru",2002,6.61,0.33
+"Nauru",2003,6.66,0.32
+"Nauru",2004,6.33,0.32
+"Nauru",2005,4.48,0.33
+"Nauru",2006,4.47,0.33
+"Nauru",2007,4.45,0.33
+"Nauru",2008,4.06,0.34
+"Nauru",2009,4.4,0.34
+"Nauru",2010,4.01,0.35
+"Nauru",2011,3.98,0.36
+"Nauru",2012,4.31,0.38
+"Nauru",2013,4.63,0.39
+"Nauru",2014,4.6,0.41
+"Nauru",2015,4.55,0.43
+"Nauru",2016,4.63,0.44
+"Nauru",2017,4.71,0.46
+"New Zealand",1989,7.5,515
+"New Zealand",1990,7.59,523
+"New Zealand",1991,8.03,532
+"New Zealand",1992,7.78,564
+"New Zealand",1993,7.7,573
+"New Zealand",1994,7.63,615
+"New Zealand",1995,7.89,624
+"New Zealand",1996,8.35,639
+"New Zealand",1997,7.91,643
+"New Zealand",1998,8.25,671
+"New Zealand",1999,8.38,680
+"New Zealand",2000,8.83,692
+"New Zealand",2001,8.75,683
+"New Zealand",2002,9.05,755
+"New Zealand",2003,8.82,795
+"New Zealand",2004,9.1,798
+"New Zealand",2005,8.96,833
+"New Zealand",2006,8.65,864
+"New Zealand",2007,8.79,916
+"New Zealand",2008,8.05,947
+"New Zealand",2009,8.01,950
+"New Zealand",2010,7.77,985
+"New Zealand",2011,8.06,1020
+"New Zealand",2012,7.82,1040
+"New Zealand",2013,7.81,1080
+"New Zealand",2014,7.77,1100
+"New Zealand",2015,7.36,1110
+"New Zealand",2016,7.67,1130
+"New Zealand",2017,7.34,1170
+"Oman",1989,6.2,10.8
+"Oman",1990,6.13,11.4
+"Oman",1991,6,12.3
+"Oman",1992,6.39,13.2
+"Oman",1993,7.01,14.3
+"Oman",1994,7.14,15.5
+"Oman",1995,6.66,16.3
+"Oman",1996,6.78,17.1
+"Oman",1997,7.24,17.9
+"Oman",1998,9.12,18.8
+"Oman",1999,9.5,19.8
+"Oman",2000,8.77,20.5
+"Oman",2001,10.8,21.6
+"Oman",2002,13.4,22.3
+"Oman",2003,11.3,22.6
+"Oman",2004,11.7,23.8
+"Oman",2005,15.1,25.4
+"Oman",2006,16.4,27
+"Oman",2007,15.3,28.4
+"Oman",2008,14.1,30.2
+"Oman",2009,15.4,31.3
+"Oman",2010,16.4,33.1
+"Oman",2011,16.8,34.9
+"Oman",2012,16.2,35
+"Oman",2013,15,36.3
+"Oman",2014,15.1,38.1
+"Oman",2015,14,40.2
+"Oman",2016,13.7,42.2
+"Oman",2017,13.9,43.5
+"Pakistan",1989,0.631,749
+"Pakistan",1990,0.61,784
+"Pakistan",1991,0.633,824
+"Pakistan",1992,0.66,853
+"Pakistan",1993,0.699,897
+"Pakistan",1994,0.676,963
+"Pakistan",1995,0.735,1010
+"Pakistan",1996,0.716,1070
+"Pakistan",1997,0.718,1120
+"Pakistan",1998,0.718,1190
+"Pakistan",1999,0.741,1280
+"Pakistan",2000,0.734,1360
+"Pakistan",2001,0.756,1420
+"Pakistan",2002,0.768,1480
+"Pakistan",2003,0.83,1540
+"Pakistan",2004,0.841,1610
+"Pakistan",2005,0.877,1680
+"Pakistan",2006,0.929,1740
+"Pakistan",2007,0.906,1820
+"Pakistan",2008,0.885,1910
+"Pakistan",2009,0.925,1990
+"Pakistan",2010,0.917,2050
+"Pakistan",2011,0.889,2140
+"Pakistan",2012,0.895,2280
+"Pakistan",2013,0.915,2380
+"Pakistan",2014,0.926,2480
+"Pakistan",2015,0.967,2590
+"Pakistan",2016,1.02,2700
+"Pakistan",2017,1.05,2840
+"Panama",1989,1.11,49.2
+"Panama",1990,1.28,50.2
+"Panama",1991,1.64,53.5
+"Panama",1992,1.48,55.3
+"Panama",1993,1.6,56.8
+"Panama",1994,1.07,58.9
+"Panama",1995,1.64,63.5
+"Panama",1996,1.96,67.8
+"Panama",1997,2.02,70.1
+"Panama",1998,1.89,70.5
+"Panama",1999,1.89,73.1
+"Panama",2000,2.25,73.9
+"Panama",2001,1.85,79.1
+"Panama",2002,1.89,84.3
+"Panama",2003,1.75,88.5
+"Panama",2004,2.03,90.6
+"Panama",2005,2.17,92.5
+"Panama",2006,2.09,92.2
+"Panama",2007,2.08,97.2
+"Panama",2008,2.35,101
+"Panama",2009,2.49,104
+"Panama",2010,2.69,109
+"Panama",2011,2.59,114
+"Panama",2012,2.97,126
+"Panama",2013,2.78,132
+"Panama",2014,2.74,139
+"Panama",2015,2.59,144
+"Panama",2016,2.54,152
+"Panama",2017,2.62,161
+"Peru",1989,0.95,609
+"Peru",1990,0.896,631
+"Peru",1991,0.885,705
+"Peru",1992,1,733
+"Peru",1993,0.97,797
+"Peru",1994,0.975,850
+"Peru",1995,0.978,824
+"Peru",1996,1.08,817
+"Peru",1997,1.08,821
+"Peru",1998,1.12,729
+"Peru",1999,1.14,781
+"Peru",2000,1.01,796
+"Peru",2001,0.995,841
+"Peru",2002,0.954,904
+"Peru",2003,1.14,901
+"Peru",2004,1.32,931
+"Peru",2005,1.01,942
+"Peru",2006,1.22,942
+"Peru",2007,1.43,1010
+"Peru",2008,1.78,1150
+"Peru",2009,1.97,1200
+"Peru",2010,1.67,1240
+"Peru",2011,1.84,1270
+"Peru",2012,1.53,1310
+"Peru",2013,1.67,1330
+"Peru",2014,1.69,1350
+"Peru",2015,1.82,1400
+"Peru",2016,1.68,1460
+"Peru",2017,1.74,1520
+"Philippines",1989,0.669,1750
+"Philippines",1990,0.686,1810
+"Philippines",1991,0.743,1920
+"Philippines",1992,0.735,2020
+"Philippines",1993,0.794,2110
+"Philippines",1994,0.86,2210
+"Philippines",1995,0.859,2320
+"Philippines",1996,0.96,2380
+"Philippines",1997,0.915,2410
+"Philippines",1998,0.894,2350
+"Philippines",1999,0.928,2370
+"Philippines",2000,0.883,2390
+"Philippines",2001,0.863,2400
+"Philippines",2002,0.846,2380
+"Philippines",2003,0.86,2400
+"Philippines",2004,0.849,2440
+"Philippines",2005,0.758,2440
+"Philippines",2006,0.792,2480
+"Philippines",2007,0.851,2590
+"Philippines",2008,0.828,2650
+"Philippines",2009,0.883,2730
+"Philippines",2010,0.877,2840
+"Philippines",2011,0.91,3020
+"Philippines",2012,0.97,3230
+"Philippines",2013,1.02,3380
+"Philippines",2014,1.12,3570
+"Philippines",2015,1.15,3730
+"Philippines",2016,1.25,3910
+"Philippines",2017,1.27,4110
+"Palau",1989,NA,1.73
+"Palau",1990,NA,1.8
+"Palau",1991,12.5,1.88
+"Palau",1992,12.2,1.94
+"Palau",1993,11.8,2
+"Palau",1994,11.5,2.08
+"Palau",1995,11.3,2.14
+"Palau",1996,11,2.19
+"Palau",1997,10.8,2.24
+"Palau",1998,10.5,2.3
+"Palau",1999,10.9,2.36
+"Palau",2000,11.2,2.4
+"Palau",2001,10.8,2.44
+"Palau",2002,10.7,2.49
+"Palau",2003,10.9,2.6
+"Palau",2004,11.1,2.73
+"Palau",2005,11.6,2.8
+"Palau",2006,13.2,2.87
+"Palau",2007,11,2.94
+"Palau",2008,10.8,3.02
+"Palau",2009,11.6,3.1
+"Palau",2010,12.2,3.14
+"Palau",2011,12.3,3.2
+"Palau",2012,12.5,3.3
+"Palau",2013,12.7,3.45
+"Palau",2014,12.7,3.63
+"Palau",2015,12.6,3.75
+"Palau",2016,12.9,3.89
+"Palau",2017,13.2,4.07
+"Papua New Guinea",1989,0.467,60
+"Papua New Guinea",1990,0.459,61.5
+"Papua New Guinea",1991,0.453,63.7
+"Papua New Guinea",1992,0.443,65.7
+"Papua New Guinea",1993,0.431,67.6
+"Papua New Guinea",1994,0.397,70.3
+"Papua New Guinea",1995,0.412,72.5
+"Papua New Guinea",1996,0.473,74.8
+"Papua New Guinea",1997,0.513,77.3
+"Papua New Guinea",1998,0.428,79.6
+"Papua New Guinea",1999,0.456,81.8
+"Papua New Guinea",2000,0.537,83.7
+"Papua New Guinea",2001,0.572,86.3
+"Papua New Guinea",2002,0.634,88.9
+"Papua New Guinea",2003,0.706,91.8
+"Papua New Guinea",2004,0.675,95.3
+"Papua New Guinea",2005,0.648,98.4
+"Papua New Guinea",2006,0.899,103
+"Papua New Guinea",2007,0.688,107
+"Papua New Guinea",2008,0.713,111
+"Papua New Guinea",2009,0.638,117
+"Papua New Guinea",2010,0.7,123
+"Papua New Guinea",2011,0.653,130
+"Papua New Guinea",2012,0.662,135
+"Papua New Guinea",2013,0.727,142
+"Papua New Guinea",2014,0.91,151
+"Papua New Guinea",2015,0.899,159
+"Papua New Guinea",2016,0.9,168
+"Papua New Guinea",2017,0.911,178
+"Poland",1989,9.94,3360
+"Poland",1990,9.84,3540
+"Poland",1991,9.55,3630
+"Poland",1992,9.54,3730
+"Poland",1993,9.4,3890
+"Poland",1994,9.43,4110
+"Poland",1995,9.78,4260
+"Poland",1996,9.55,4490
+"Poland",1997,8.79,4700
+"Poland",1998,8.53,4950
+"Poland",1999,8.26,5200
+"Poland",2000,8.17,5380
+"Poland",2001,7.97,5560
+"Poland",2002,8.32,5750
+"Poland",2003,8.43,5950
+"Poland",2004,8.41,6210
+"Poland",2005,8.76,6490
+"Poland",2006,8.76,6800
+"Poland",2007,8.58,7000
+"Poland",2008,8.23,7300
+"Poland",2009,8.71,7350
+"Poland",2010,8.7,7600
+"Poland",2011,8.52,7960
+"Poland",2012,8.43,8220
+"Poland",2013,8.11,8480
+"Poland",2014,8.22,8720
+"Poland",2015,8.51,8850
+"Poland",2016,8.88,8950
+"Poland",2017,9.07,9040
+"North Korea",1989,6.04,1420
+"North Korea",1990,5.69,1470
+"North Korea",1991,4.92,1520
+"North Korea",1992,4.46,1570
+"North Korea",1993,4.02,1630
+"North Korea",1994,3.72,1670
+"North Korea",1995,3.24,1710
+"North Korea",1996,2.92,1740
+"North Korea",1997,2.61,1770
+"North Korea",1998,2.82,1810
+"North Korea",1999,3.02,1840
+"North Korea",2000,3.1,1880
+"North Korea",2001,2.94,1910
+"North Korea",2002,2.98,1960
+"North Korea",2003,3.02,2030
+"North Korea",2004,3.14,2100
+"North Korea",2005,3.17,2180
+"North Korea",2006,2.63,2270
+"North Korea",2007,2.9,2350
+"North Korea",2008,2.19,2420
+"North Korea",2009,2.04,2480
+"North Korea",2010,1.47,2550
+"North Korea",2011,1.52,2600
+"North Korea",2012,1.08,2660
+"North Korea",2013,1.22,2710
+"North Korea",2014,0.978,2750
+"North Korea",2015,1.09,2810
+"North Korea",2016,1.12,2870
+"North Korea",2017,1.18,2930
+"Portugal",1989,4.62,520
+"Portugal",1990,4.77,541
+"Portugal",1991,5.18,546
+"Portugal",1992,5.02,570
+"Portugal",1993,5.07,561
+"Portugal",1994,5.44,583
+"Portugal",1995,5.15,589
+"Portugal",1996,5.43,611
+"Portugal",1997,5.85,626
+"Portugal",1998,6.57,649
+"Portugal",1999,6.43,668
+"Portugal",2000,6.36,689
+"Portugal",2001,6.71,730
+"Portugal",2002,6.19,768
+"Portugal",2003,6.43,788
+"Portugal",2004,6.62,817
+"Portugal",2005,6.15,848
+"Portugal",2006,5.9,887
+"Portugal",2007,5.67,918
+"Portugal",2008,5.39,957
+"Portugal",2009,5,961
+"Portugal",2010,4.9,992
+"Portugal",2011,4.75,1010
+"Portugal",2012,4.6,1040
+"Portugal",2013,4.61,1060
+"Portugal",2014,5.04,1070
+"Portugal",2015,4.88,1100
+"Portugal",2016,5.32,1110
+"Portugal",2017,4.97,1120
+"Paraguay",1989,0.506,56.4
+"Paraguay",1990,0.486,57.5
+"Paraguay",1991,0.581,61.8
+"Paraguay",1992,0.64,66.1
+"Paraguay",1993,0.73,69.1
+"Paraguay",1994,0.825,72.6
+"Paraguay",1995,0.761,77.9
+"Paraguay",1996,0.827,81.5
+"Paraguay",1997,0.859,85.5
+"Paraguay",1998,0.84,89.8
+"Paraguay",1999,0.678,95.6
+"Paraguay",2000,0.681,98.4
+"Paraguay",2001,0.698,103
+"Paraguay",2002,0.716,109
+"Paraguay",2003,0.709,115
+"Paraguay",2004,0.65,117
+"Paraguay",2005,0.662,122
+"Paraguay",2006,0.674,124
+"Paraguay",2007,0.704,128
+"Paraguay",2008,0.736,136
+"Paraguay",2009,0.804,143
+"Paraguay",2010,0.821,147
+"Paraguay",2011,0.806,150
+"Paraguay",2012,0.795,160
+"Paraguay",2013,0.828,162
+"Paraguay",2014,0.905,167
+"Paraguay",2015,1.06,182
+"Paraguay",2016,1.05,190
+"Paraguay",2017,1.07,198
+"Palestine",1989,0.41,26.1
+"Palestine",1990,0.403,26.8
+"Palestine",1991,0.401,27.6
+"Palestine",1992,0.391,28.8
+"Palestine",1993,0.387,30.1
+"Palestine",1994,0.361,31.6
+"Palestine",1995,0.378,33.4
+"Palestine",1996,0.301,35.4
+"Palestine",1997,0.488,37.1
+"Palestine",1998,0.438,38.7
+"Palestine",1999,0.515,40.7
+"Palestine",2000,0.408,42.2
+"Palestine",2001,0.342,43.5
+"Palestine",2002,0.372,44.6
+"Palestine",2003,0.627,46.1
+"Palestine",2004,0.767,48.3
+"Palestine",2005,0.619,51
+"Palestine",2006,0.619,53.5
+"Palestine",2007,0.532,56.9
+"Palestine",2008,0.528,61
+"Palestine",2009,0.502,66.4
+"Palestine",2010,0.542,72.5
+"Palestine",2011,0.519,76.5
+"Palestine",2012,0.563,80
+"Palestine",2013,0.641,85.3
+"Palestine",2014,0.664,91.6
+"Palestine",2015,0.698,98
+"Palestine",2016,0.671,102
+"Palestine",2017,0.661,107
+"Qatar",1989,24.7,2.16
+"Qatar",1990,36.2,2.32
+"Qatar",1991,54.5,2.5
+"Qatar",1992,61.8,2.66
+"Qatar",1993,60.6,2.81
+"Qatar",1994,61.8,3.03
+"Qatar",1995,61.7,3.28
+"Qatar",1996,69.9,3.49
+"Qatar",1997,58.6,3.68
+"Qatar",1998,54.9,3.86
+"Qatar",1999,58.4,4.12
+"Qatar",2000,67.1,4.49
+"Qatar",2001,63.6,4.91
+"Qatar",2002,60.6,5.29
+"Qatar",2003,56.7,5.71
+"Qatar",2004,58.6,6.31
+"Qatar",2005,61.8,7.14
+"Qatar",2006,51.7,8.56
+"Qatar",2007,44.8,9.6
+"Qatar",2008,41.5,10.1
+"Qatar",2009,38.8,10.7
+"Qatar",2010,39.2,11.7
+"Qatar",2011,42.5,12.8
+"Qatar",2012,36,13.9
+"Qatar",2013,43.1,14.9
+"Qatar",2014,41.3,15.7
+"Qatar",2015,38.5,16.8
+"Qatar",2016,39.8,18.1
+"Qatar",2017,38,19.8
+"Romania",1989,7.22,1270
+"Romania",1990,5.97,1290
+"Romania",1991,5.6,1330
+"Romania",1992,5.29,1380
+"Romania",1993,5.28,1410
+"Romania",1994,5.53,1490
+"Romania",1995,5.71,1550
+"Romania",1996,5.44,1580
+"Romania",1997,4.79,1590
+"Romania",1998,4.07,1590
+"Romania",1999,4.31,1630
+"Romania",2000,4.57,1690
+"Romania",2001,4.66,1740
+"Romania",2002,4.85,1780
+"Romania",2003,4.83,1800
+"Romania",2004,4.8,1840
+"Romania",2005,4.95,1890
+"Romania",2006,5.09,1940
+"Romania",2007,5.05,2020
+"Romania",2008,4.25,2130
+"Romania",2009,4.11,2160
+"Romania",2010,4.42,2200
+"Romania",2011,4.28,2300
+"Romania",2012,3.84,2330
+"Romania",2013,3.87,2460
+"Romania",2014,3.91,2490
+"Romania",2015,3.83,2540
+"Romania",2016,3.82,2600
+"Romania",2017,3.8,2620
+"Russia",1989,17.1,NA
+"Russia",1990,16.2,NA
+"Russia",1991,13.2,NA
+"Russia",1992,12.5,NA
+"Russia",1993,11.1,NA
+"Russia",1994,10.9,NA
+"Russia",1995,10.7,NA
+"Russia",1996,9.99,9690
+"Russia",1997,9.9,9360
+"Russia",1998,10.1,9390
+"Russia",1999,10.1,9550
+"Russia",2000,10.3,9430
+"Russia",2001,10.3,9400
+"Russia",2002,10.6,9410
+"Russia",2003,10.6,9320
+"Russia",2004,10.8,9780
+"Russia",2005,11.2,9580
+"Russia",2006,11.2,9670
+"Russia",2007,11.4,NA
+"Russia",2008,10.7,NA
+"Russia",2009,11.3,NA
+"Russia",2010,11.6,NA
+"Russia",2011,11.7,NA
+"Russia",2012,11.2,NA
+"Russia",2013,11.2,NA
+"Russia",2014,11.2,NA
+"Russia",2015,11.1,NA
+"Russia",2016,11.3,NA
+"Russia",2017,11.7,NA
+"Rwanda",1989,0.0719,66.9
+"Rwanda",1990,0.0667,69.3
+"Rwanda",1991,0.0715,64.1
+"Rwanda",1992,0.0771,54.3
+"Rwanda",1993,0.0777,51.4
+"Rwanda",1994,0.0778,54.9
+"Rwanda",1995,0.0774,61
+"Rwanda",1996,0.0751,64.6
+"Rwanda",1997,0.0692,65.8
+"Rwanda",1998,0.067,66.1
+"Rwanda",1999,0.0656,65.6
+"Rwanda",2000,0.0634,65.4
+"Rwanda",2001,0.0617,67.4
+"Rwanda",2002,0.0594,69.7
+"Rwanda",2003,0.0594,72.4
+"Rwanda",2004,0.0583,74.4
+"Rwanda",2005,0.0569,77
+"Rwanda",2006,0.0585,80.5
+"Rwanda",2007,0.0555,84.6
+"Rwanda",2008,0.0571,88.3
+"Rwanda",2009,0.0572,93.3
+"Rwanda",2010,0.0629,98.8
+"Rwanda",2011,0.0682,105
+"Rwanda",2012,0.0724,111
+"Rwanda",2013,0.0734,118
+"Rwanda",2014,0.0816,125
+"Rwanda",2015,0.0898,132
+"Rwanda",2016,0.0912,141
+"Rwanda",2017,0.0913,151
+"Saudi Arabia",1989,11.4,68.3
+"Saudi Arabia",1990,16,76.8
+"Saudi Arabia",1991,16.5,85.6
+"Saudi Arabia",1992,17.7,95.5
+"Saudi Arabia",1993,16.9,107
+"Saudi Arabia",1994,12.6,118
+"Saudi Arabia",1995,13.6,129
+"Saudi Arabia",1996,11.1,139
+"Saudi Arabia",1997,10.5,147
+"Saudi Arabia",1998,11.2,155
+"Saudi Arabia",1999,14.4,163
+"Saudi Arabia",2000,14,168
+"Saudi Arabia",2001,14.9,179
+"Saudi Arabia",2002,14.6,185
+"Saudi Arabia",2003,17.1,192
+"Saudi Arabia",2004,16.6,202
+"Saudi Arabia",2005,17.6,213
+"Saudi Arabia",2006,15.4,226
+"Saudi Arabia",2007,16.7,239
+"Saudi Arabia",2008,17.5,249
+"Saudi Arabia",2009,18.9,261
+"Saudi Arabia",2010,17.6,272
+"Saudi Arabia",2011,19.3,286
+"Saudi Arabia",2012,18,303
+"Saudi Arabia",2013,19.5,321
+"Saudi Arabia",2014,19.6,339
+"Saudi Arabia",2015,19.5,359
+"Saudi Arabia",2016,19.1,381
+"Saudi Arabia",2017,18.4,405
+"Sudan",1989,0.237,117
+"Sudan",1990,0.214,121
+"Sudan",1991,0.184,126
+"Sudan",1992,0.122,131
+"Sudan",1993,0.162,136
+"Sudan",1994,0.162,141
+"Sudan",1995,0.163,146
+"Sudan",1996,0.194,151
+"Sudan",1997,0.165,156
+"Sudan",1998,0.175,160
+"Sudan",1999,0.185,165
+"Sudan",2000,0.208,172
+"Sudan",2001,0.259,178
+"Sudan",2002,0.281,184
+"Sudan",2003,0.347,191
+"Sudan",2004,0.324,198
+"Sudan",2005,0.347,206
+"Sudan",2006,0.399,215
+"Sudan",2007,0.413,225
+"Sudan",2008,0.42,236
+"Sudan",2009,0.417,247
+"Sudan",2010,0.396,261
+"Sudan",2011,0.393,274
+"Sudan",2012,0.407,288
+"Sudan",2013,0.407,304
+"Sudan",2014,0.499,320
+"Sudan",2015,0.491,339
+"Sudan",2016,0.503,359
+"Sudan",2017,0.504,382
+"Senegal",1989,0.417,67.2
+"Senegal",1990,0.436,69.5
+"Senegal",1991,0.429,70.7
+"Senegal",1992,0.43,71.8
+"Senegal",1993,0.454,74
+"Senegal",1994,0.395,73.8
+"Senegal",1995,0.411,74
+"Senegal",1996,0.349,74.3
+"Senegal",1997,0.357,76.5
+"Senegal",1998,0.377,79.7
+"Senegal",1999,0.389,80.8
+"Senegal",2000,0.417,99.2
+"Senegal",2001,0.423,104
+"Senegal",2002,0.456,103
+"Senegal",2003,0.462,111
+"Senegal",2004,0.5,116
+"Senegal",2005,0.389,120
+"Senegal",2006,0.413,126
+"Senegal",2007,0.395,132
+"Senegal",2008,0.352,142
+"Senegal",2009,0.575,139
+"Senegal",2010,0.6,148
+"Senegal",2011,0.55,153
+"Senegal",2012,0.571,162
+"Senegal",2013,0.623,174
+"Senegal",2014,0.695,182
+"Senegal",2015,0.693,194
+"Senegal",2016,0.734,202
+"Senegal",2017,0.739,209
+"Singapore",1989,14.7,275
+"Singapore",1990,14.5,275
+"Singapore",1991,15.1,285
+"Singapore",1992,15.4,301
+"Singapore",1993,18,310
+"Singapore",1994,11.9,325
+"Singapore",1995,13.6,334
+"Singapore",1996,15.5,353
+"Singapore",1997,12.5,357
+"Singapore",1998,12.6,354
+"Singapore",1999,12.1,358
+"Singapore",2000,12.1,384
+"Singapore",2001,11.5,392
+"Singapore",2002,7.54,395
+"Singapore",2003,6.82,435
+"Singapore",2004,7.12,421
+"Singapore",2005,7,453
+"Singapore",2006,4.35,469
+"Singapore",2007,7.57,506
+"Singapore",2008,11.8,528
+"Singapore",2009,11.4,547
+"Singapore",2010,8.88,567
+"Singapore",2011,9.31,613
+"Singapore",2012,10.3,610
+"Singapore",2013,10.3,631
+"Singapore",2014,11,651
+"Singapore",2015,6.64,665
+"Singapore",2016,7.11,689
+"Singapore",2017,7.1,738
+"Solomon Islands",1989,0.47,5.36
+"Solomon Islands",1990,0.457,5.66
+"Solomon Islands",1991,0.433,5.97
+"Solomon Islands",1992,0.421,6.29
+"Solomon Islands",1993,0.399,6.64
+"Solomon Islands",1994,0.398,7.08
+"Solomon Islands",1995,0.387,7.48
+"Solomon Islands",1996,0.376,7.89
+"Solomon Islands",1997,0.366,8.31
+"Solomon Islands",1998,0.384,8.66
+"Solomon Islands",1999,0.373,9.08
+"Solomon Islands",2000,0.372,9.37
+"Solomon Islands",2001,0.362,9.5
+"Solomon Islands",2002,0.361,9.73
+"Solomon Islands",2003,0.352,9.94
+"Solomon Islands",2004,0.343,10.3
+"Solomon Islands",2005,0.343,10.7
+"Solomon Islands",2006,0.365,11
+"Solomon Islands",2007,0.357,10.8
+"Solomon Islands",2008,0.349,11.6
+"Solomon Islands",2009,0.354,12
+"Solomon Islands",2010,0.339,13.1
+"Solomon Islands",2011,0.33,13.9
+"Solomon Islands",2012,0.34,14.6
+"Solomon Islands",2013,0.331,15.5
+"Solomon Islands",2014,0.316,16.3
+"Solomon Islands",2015,0.272,16.7
+"Solomon Islands",2016,0.272,17.4
+"Solomon Islands",2017,0.273,18.1
+"Sierra Leone",1989,0.113,33
+"Sierra Leone",1990,0.126,32.9
+"Sierra Leone",1991,0.104,33.1
+"Sierra Leone",1992,0.105,33.2
+"Sierra Leone",1993,0.111,33.6
+"Sierra Leone",1994,0.0869,34.1
+"Sierra Leone",1995,0.0986,34.7
+"Sierra Leone",1996,0.0922,35.1
+"Sierra Leone",1997,0.0904,35.4
+"Sierra Leone",1998,0.0846,35.8
+"Sierra Leone",1999,0.0848,36.6
+"Sierra Leone",2000,0.108,37.9
+"Sierra Leone",2001,0.108,39.9
+"Sierra Leone",2002,0.109,42.1
+"Sierra Leone",2003,0.102,44.6
+"Sierra Leone",2004,0.0818,46.8
+"Sierra Leone",2005,0.106,48.6
+"Sierra Leone",2006,0.0863,51
+"Sierra Leone",2007,0.0873,52.5
+"Sierra Leone",2008,0.0853,54.9
+"Sierra Leone",2009,0.0897,58
+"Sierra Leone",2010,0.113,60.7
+"Sierra Leone",2011,0.128,64.3
+"Sierra Leone",2012,0.151,68.3
+"Sierra Leone",2013,0.163,72
+"Sierra Leone",2014,0.126,74.8
+"Sierra Leone",2015,0.127,78.2
+"Sierra Leone",2016,0.139,82.4
+"Sierra Leone",2017,0.141,86.9
+"El Salvador",1989,0.47,117
+"El Salvador",1990,0.591,118
+"El Salvador",1991,0.613,124
+"El Salvador",1992,0.725,129
+"El Salvador",1993,0.812,134
+"El Salvador",1994,0.889,130
+"El Salvador",1995,0.777,140
+"El Salvador",1996,0.943,145
+"El Salvador",1997,0.989,150
+"El Salvador",1998,0.957,153
+"El Salvador",1999,0.964,157
+"El Salvador",2000,0.989,168
+"El Salvador",2001,1.02,171
+"El Salvador",2002,1.07,179
+"El Salvador",2003,1.04,189
+"El Salvador",2004,1.04,196
+"El Salvador",2005,1.11,201
+"El Salvador",2006,1.12,207
+"El Salvador",2007,1.05,208
+"El Salvador",2008,1.03,221
+"El Salvador",2009,1.02,221
+"El Salvador",2010,1.05,233
+"El Salvador",2011,1.04,234
+"El Salvador",2012,0.973,252
+"El Salvador",2013,0.981,266
+"El Salvador",2014,1.07,274
+"El Salvador",2015,1.11,280
+"El Salvador",2016,1.1,291
+"El Salvador",2017,1.11,303
+"Somalia",1989,0.101,27.4
+"Somalia",1990,0.0972,27.8
+"Somalia",1991,0.0932,28.3
+"Somalia",1992,0.0874,28.6
+"Somalia",1993,0.0853,29.1
+"Somalia",1994,0.0785,30
+"Somalia",1995,0.074,31.1
+"Somalia",1996,0.0679,32.4
+"Somalia",1997,0.0623,33.8
+"Somalia",1998,0.0575,35
+"Somalia",1999,0.0541,36.3
+"Somalia",2000,0.0547,37.5
+"Somalia",2001,0.0617,39.3
+"Somalia",2002,0.0605,41.1
+"Somalia",2003,0.0586,43
+"Somalia",2004,0.0569,44.5
+"Somalia",2005,0.0552,45.5
+"Somalia",2006,0.0549,47.8
+"Somalia",2007,0.0528,49.8
+"Somalia",2008,0.051,51.8
+"Somalia",2009,0.0508,53.6
+"Somalia",2010,0.0495,55.5
+"Somalia",2011,0.0479,57.5
+"Somalia",2012,0.0483,59.8
+"Somalia",2013,0.047,62
+"Somalia",2014,0.0457,64.5
+"Somalia",2015,0.0455,66.8
+"Somalia",2016,0.0466,69.2
+"Somalia",2017,0.0466,71.7
+"Serbia",1989,5.93,865
+"Serbia",1990,4.16,898
+"Serbia",1991,4.51,935
+"Serbia",1992,3.89,976
+"Serbia",1993,3.76,1020
+"Serbia",1994,3.96,1060
+"Serbia",1995,4.65,1120
+"Serbia",1996,5.04,1180
+"Serbia",1997,5.36,1110
+"Serbia",1998,3.74,1170
+"Serbia",1999,4.74,1220
+"Serbia",2000,5.24,1270
+"Serbia",2001,5.58,1310
+"Serbia",2002,6,1390
+"Serbia",2003,6.52,1480
+"Serbia",2004,5.62,1600
+"Serbia",2005,6.66,1650
+"Serbia",2006,6.56,1710
+"Serbia",2007,5.71,1820
+"Serbia",2008,5.09,1910
+"Serbia",2009,5.09,1960
+"Serbia",2010,5.47,2010
+"Serbia",2011,4.89,2080
+"Serbia",2012,5,2100
+"Serbia",2013,4.18,2170
+"Serbia",2014,4.93,2220
+"Serbia",2015,5.09,2210
+"Serbia",2016,5.17,2200
+"Serbia",2017,5.17,2200
+"South Sudan",1989,0.0792,38.9
+"South Sudan",1990,0.0752,38.9
+"South Sudan",1991,0.0688,39
+"South Sudan",1992,0.0486,38.7
+"South Sudan",1993,0.0676,38.7
+"South Sudan",1994,0.07,39.1
+"South Sudan",1995,0.0707,39.1
+"South Sudan",1996,0.0835,38.2
+"South Sudan",1997,0.0691,38.5
+"South Sudan",1998,0.0715,38.8
+"South Sudan",1999,0.0744,39.2
+"South Sudan",2000,0.0823,38.7
+"South Sudan",2001,0.101,39
+"South Sudan",2002,0.109,40.1
+"South Sudan",2003,0.132,41.5
+"South Sudan",2004,0.121,42.4
+"South Sudan",2005,0.127,43.9
+"South Sudan",2006,0.142,45.2
+"South Sudan",2007,0.142,46.4
+"South Sudan",2008,0.142,48.1
+"South Sudan",2009,0.14,50
+"South Sudan",2010,0.133,52
+"South Sudan",2011,0.132,54.1
+"South Sudan",2012,0.14,56
+"South Sudan",2013,0.146,57.9
+"South Sudan",2014,0.181,59.7
+"South Sudan",2015,0.159,61.4
+"South Sudan",2016,0.167,64.1
+"South Sudan",2017,0.171,67.7
+"Sao Tome and Principe",1989,0.4,2.1
+"Sao Tome and Principe",1990,0.391,2.16
+"Sao Tome and Principe",1991,0.383,2.24
+"Sao Tome and Principe",1992,0.375,2.34
+"Sao Tome and Principe",1993,0.368,2.41
+"Sao Tome and Principe",1994,0.362,2.46
+"Sao Tome and Principe",1995,0.356,2.56
+"Sao Tome and Principe",1996,0.351,2.67
+"Sao Tome and Principe",1997,0.346,2.79
+"Sao Tome and Principe",1998,0.341,2.9
+"Sao Tome and Principe",1999,0.335,2.94
+"Sao Tome and Principe",2000,0.355,3
+"Sao Tome and Principe",2001,0.398,3.1
+"Sao Tome and Principe",2002,0.439,3.1
+"Sao Tome and Principe",2003,0.477,3.25
+"Sao Tome and Principe",2004,0.489,3.16
+"Sao Tome and Principe",2005,0.522,3.39
+"Sao Tome and Principe",2006,0.507,3.55
+"Sao Tome and Principe",2007,0.493,3.58
+"Sao Tome and Principe",2008,0.521,3.73
+"Sao Tome and Principe",2009,0.549,3.98
+"Sao Tome and Principe",2010,0.556,4.03
+"Sao Tome and Principe",2011,0.603,4.16
+"Sao Tome and Principe",2012,0.592,4.38
+"Sao Tome and Principe",2013,0.581,4.74
+"Sao Tome and Principe",2014,0.57,4.93
+"Sao Tome and Principe",2015,0.595,5.15
+"Sao Tome and Principe",2016,0.583,5.39
+"Sao Tome and Principe",2017,0.587,5.65
+"Suriname",1989,4.29,10.3
+"Suriname",1990,4.9,10.6
+"Suriname",1991,4.83,11
+"Suriname",1992,4.77,11.3
+"Suriname",1993,4.7,10.9
+"Suriname",1994,4.67,10.2
+"Suriname",1995,4.65,10.3
+"Suriname",1996,4.64,10.5
+"Suriname",1997,4.58,11.2
+"Suriname",1998,4.56,12.3
+"Suriname",1999,4.66,12.9
+"Suriname",2000,4.96,13.7
+"Suriname",2001,3.24,15.1
+"Suriname",2002,3.16,15.7
+"Suriname",2003,3.16,16.6
+"Suriname",2004,3.18,16.9
+"Suriname",2005,3.44,17.6
+"Suriname",2006,3.44,18.1
+"Suriname",2007,3.75,19
+"Suriname",2008,3.82,20
+"Suriname",2009,4.53,20.6
+"Suriname",2010,3.36,21.4
+"Suriname",2011,4.16,22.4
+"Suriname",2012,3.83,23.8
+"Suriname",2013,4.03,25.1
+"Suriname",2014,3.06,26.9
+"Suriname",2015,3.05,28.3
+"Suriname",2016,3.02,29.6
+"Suriname",2017,3.1,30.8
+"Slovak Republic",1989,11.7,337
+"Slovak Republic",1990,10.1,349
+"Slovak Republic",1991,9.2,349
+"Slovak Republic",1992,8.69,356
+"Slovak Republic",1993,8.18,359
+"Slovak Republic",1994,8.24,376
+"Slovak Republic",1995,8.2,373
+"Slovak Republic",1996,8.22,399
+"Slovak Republic",1997,8.16,398
+"Slovak Republic",1998,8,405
+"Slovak Republic",1999,7.64,407
+"Slovak Republic",2000,8.03,422
+"Slovak Republic",2001,7.79,423
+"Slovak Republic",2002,7.85,435
+"Slovak Republic",2003,7.95,453
+"Slovak Republic",2004,7.94,478
+"Slovak Republic",2005,7.9,507
+"Slovak Republic",2006,7.6,563
+"Slovak Republic",2007,7.67,599
+"Slovak Republic",2008,6.98,662
+"Slovak Republic",2009,7.13,665
+"Slovak Republic",2010,7.04,700
+"Slovak Republic",2011,6.65,717
+"Slovak Republic",2012,6.57,734
+"Slovak Republic",2013,6.2,736
+"Slovak Republic",2014,6.35,744
+"Slovak Republic",2015,6.42,736
+"Slovak Republic",2016,6.62,742
+"Slovak Republic",2017,6.61,752
+"Slovenia",1989,7.53,174
+"Slovenia",1990,6.98,172
+"Slovenia",1991,6.99,175
+"Slovenia",1992,7.16,177
+"Slovenia",1993,7.34,181
+"Slovenia",1994,7.67,194
+"Slovenia",1995,8.01,204
+"Slovenia",1996,8.18,218
+"Slovenia",1997,8.04,228
+"Slovenia",1998,7.72,245
+"Slovenia",1999,7.78,255
+"Slovenia",2000,8.25,271
+"Slovenia",2001,8.32,278
+"Slovenia",2002,8.2,285
+"Slovenia",2003,8.37,310
+"Slovenia",2004,8.5,317
+"Slovenia",2005,8.57,320
+"Slovenia",2006,8.59,343
+"Slovenia",2007,9.01,354
+"Slovenia",2008,8.03,373
+"Slovenia",2009,8.02,386
+"Slovenia",2010,7.98,399
+"Slovenia",2011,7.69,412
+"Slovenia",2012,7.36,417
+"Slovenia",2013,6.55,415
+"Slovenia",2014,6.58,420
+"Slovenia",2015,6.95,413
+"Slovenia",2016,6.87,417
+"Slovenia",2017,6.95,421
+"Sweden",1989,6.71,1030
+"Sweden",1990,6.69,1070
+"Sweden",1991,6.61,1100
+"Sweden",1992,6.56,1120
+"Sweden",1993,6.8,1150
+"Sweden",1994,6.7,1220
+"Sweden",1995,7.13,1280
+"Sweden",1996,6.55,1310
+"Sweden",1997,6.62,1360
+"Sweden",1998,6.3,1420
+"Sweden",1999,6.16,1480
+"Sweden",2000,6.26,1530
+"Sweden",2001,6.35,1560
+"Sweden",2002,6.39,1590
+"Sweden",2003,6.28,1690
+"Sweden",2004,5.96,1710
+"Sweden",2005,5.9,1760
+"Sweden",2006,5.76,1800
+"Sweden",2007,5.49,1860
+"Sweden",2008,5.06,1910
+"Sweden",2009,5.63,1900
+"Sweden",2010,5.17,1970
+"Sweden",2011,4.86,2020
+"Sweden",2012,4.66,2080
+"Sweden",2013,4.46,2130
+"Sweden",2014,4.41,2120
+"Sweden",2015,4.33,2180
+"Sweden",2016,4.25,2220
+"Sweden",2017,4.12,2240
+"Eswatini",1989,1.17,11.4
+"Eswatini",1990,1.04,12
+"Eswatini",1991,0.964,12.4
+"Eswatini",1992,0.801,12.8
+"Eswatini",1993,1.19,13.3
+"Eswatini",1994,1.15,13.7
+"Eswatini",1995,1.02,14.2
+"Eswatini",1996,1.25,14.6
+"Eswatini",1997,1.24,15.4
+"Eswatini",1998,1.25,16.5
+"Eswatini",1999,1.19,18
+"Eswatini",2000,1.13,19.2
+"Eswatini",2001,1.11,20.6
+"Eswatini",2002,1.03,21.2
+"Eswatini",2003,1.01,22.1
+"Eswatini",2004,1,22.8
+"Eswatini",2005,0.995,23.1
+"Eswatini",2006,1.03,23.4
+"Eswatini",2007,1.06,23.7
+"Eswatini",2008,1.01,24.1
+"Eswatini",2009,0.995,23.9
+"Eswatini",2010,1,24.1
+"Eswatini",2011,1.15,24.6
+"Eswatini",2012,1.4,25.3
+"Eswatini",2013,0.824,25.9
+"Eswatini",2014,0.89,26.8
+"Eswatini",2015,1.04,27.4
+"Eswatini",2016,1.08,28
+"Eswatini",2017,1.06,28.9
+"Seychelles",1989,2.13,2.03
+"Seychelles",1990,2.41,2.08
+"Seychelles",1991,2.37,2.14
+"Seychelles",1992,2.48,2.2
+"Seychelles",1993,2.67,2.25
+"Seychelles",1994,2.58,2.31
+"Seychelles",1995,3.02,2.42
+"Seychelles",1996,4.35,2.54
+"Seychelles",1997,5.47,2.65
+"Seychelles",1998,6.38,2.74
+"Seychelles",1999,7.06,2.83
+"Seychelles",2000,7.7,2.91
+"Seychelles",2001,6.41,3
+"Seychelles",2002,6.41,3.1
+"Seychelles",2003,8.43,3.17
+"Seychelles",2004,7.78,3.25
+"Seychelles",2005,8.19,3.34
+"Seychelles",2006,7.12,3.45
+"Seychelles",2007,7.66,3.52
+"Seychelles",2008,5.78,3.5
+"Seychelles",2009,4.86,3.51
+"Seychelles",2010,3.55,3.55
+"Seychelles",2011,4.55,3.63
+"Seychelles",2012,3.53,3.75
+"Seychelles",2013,5.18,3.89
+"Seychelles",2014,5.17,4
+"Seychelles",2015,6.32,4.15
+"Seychelles",2016,6.61,4.3
+"Seychelles",2017,6.75,4.48
+"Syria",1989,2.98,117
+"Syria",1990,3.3,124
+"Syria",1991,3.23,135
+"Syria",1992,3.34,138
+"Syria",1993,3.31,146
+"Syria",1994,2.87,157
+"Syria",1995,2.87,166
+"Syria",1996,2.99,175
+"Syria",1997,3.19,189
+"Syria",1998,3.24,195
+"Syria",1999,3.08,203
+"Syria",2000,2.87,196
+"Syria",2001,2.25,196
+"Syria",2002,3.08,194
+"Syria",2003,2.83,198
+"Syria",2004,2.72,203
+"Syria",2005,2.77,210
+"Syria",2006,3.31,219
+"Syria",2007,3.24,238
+"Syria",2008,2.91,260
+"Syria",2009,2.84,294
+"Syria",2010,2.67,309
+"Syria",2011,2.14,318
+"Syria",2012,1.83,325
+"Syria",2013,1.61,331
+"Syria",2014,1.59,334
+"Syria",2015,1.63,343
+"Syria",2016,1.66,355
+"Syria",2017,1.67,369
+"Chad",1989,0.0633,47.2
+"Chad",1990,0.0625,47.6
+"Chad",1991,0.064,48.9
+"Chad",1992,0.0614,49.7
+"Chad",1993,0.06,49.8
+"Chad",1994,0.0602,50.4
+"Chad",1995,0.0602,51.8
+"Chad",1996,0.0601,52.7
+"Chad",1997,0.0595,53.5
+"Chad",1998,0.0592,54.4
+"Chad",1999,0.0584,54.8
+"Chad",2000,0.0579,56.5
+"Chad",2001,0.0565,58.3
+"Chad",2002,0.0794,60.6
+"Chad",2003,0.0769,63
+"Chad",2004,0.0759,65.1
+"Chad",2005,0.0757,67.5
+"Chad",2006,0.079,70.5
+"Chad",2007,0.083,73.4
+"Chad",2008,0.0815,76.3
+"Chad",2009,0.0834,79.8
+"Chad",2010,0.0664,83.5
+"Chad",2011,0.0707,87.4
+"Chad",2012,0.0715,90.9
+"Chad",2013,0.0717,94.8
+"Chad",2014,0.0694,98.6
+"Chad",2015,0.0682,103
+"Chad",2016,0.0661,108
+"Chad",2017,0.0656,113
+"Togo",1989,0.258,32.1
+"Togo",1990,0.272,33.2
+"Togo",1991,0.261,34.4
+"Togo",1992,0.266,35.2
+"Togo",1993,0.244,36.1
+"Togo",1994,0.278,37.1
+"Togo",1995,0.291,38.3
+"Togo",1996,0.196,40
+"Togo",1997,0.279,41.2
+"Togo",1998,0.387,42.2
+"Togo",1999,0.271,43.7
+"Togo",2000,0.229,45.4
+"Togo",2001,0.255,47.6
+"Togo",2002,0.339,49.8
+"Togo",2003,0.319,51.4
+"Togo",2004,0.307,53.2
+"Togo",2005,0.261,55.4
+"Togo",2006,0.256,58.7
+"Togo",2007,0.251,62.4
+"Togo",2008,0.439,66.5
+"Togo",2009,0.405,70.1
+"Togo",2010,0.38,74
+"Togo",2011,0.327,77.7
+"Togo",2012,0.307,81.5
+"Togo",2013,0.305,86.3
+"Togo",2014,0.369,91.5
+"Togo",2015,0.408,98.2
+"Togo",2016,0.432,105
+"Togo",2017,0.434,111
+"Thailand",1989,1.58,3520
+"Thailand",1990,1.72,3800
+"Thailand",1991,1.87,4030
+"Thailand",1992,2.08,4240
+"Thailand",1993,2.29,4400
+"Thailand",1994,2.64,4610
+"Thailand",1995,2.89,4930
+"Thailand",1996,2.95,4960
+"Thailand",1997,2.59,5010
+"Thailand",1998,2.67,5260
+"Thailand",1999,2.71,5260
+"Thailand",2000,2.87,5050
+"Thailand",2001,3,5130
+"Thailand",2002,3.15,5130
+"Thailand",2003,3.36,5250
+"Thailand",2004,3.43,5340
+"Thailand",2005,3.46,5470
+"Thailand",2006,3.49,5620
+"Thailand",2007,3.43,5760
+"Thailand",2008,3.64,5830
+"Thailand",2009,3.82,6020
+"Thailand",2010,3.76,6130
+"Thailand",2011,3.99,6210
+"Thailand",2012,4.17,6230
+"Thailand",2013,4.07,6350
+"Thailand",2014,4.1,6480
+"Thailand",2015,4.07,6760
+"Thailand",2016,4.12,7060
+"Thailand",2017,4.15,7460
+"Tajikistan",1989,1.92,137
+"Tajikistan",1990,1.69,134
+"Tajikistan",1991,1.33,129
+"Tajikistan",1992,0.924,122
+"Tajikistan",1993,0.414,117
+"Tajikistan",1994,0.424,105
+"Tajikistan",1995,0.483,92.5
+"Tajikistan",1996,0.362,88.8
+"Tajikistan",1997,0.414,88
+"Tajikistan",1998,0.411,87.7
+"Tajikistan",1999,0.359,88.4
+"Tajikistan",2000,0.362,90.4
+"Tajikistan",2001,0.292,92.2
+"Tajikistan",2002,0.316,96.5
+"Tajikistan",2003,0.383,104
+"Tajikistan",2004,0.357,109
+"Tajikistan",2005,0.381,109
+"Tajikistan",2006,0.454,113
+"Tajikistan",2007,0.4,117
+"Tajikistan",2008,0.33,119
+"Tajikistan",2009,0.334,125
+"Tajikistan",2010,0.301,133
+"Tajikistan",2011,0.369,138
+"Tajikistan",2012,0.356,139
+"Tajikistan",2013,0.545,144
+"Tajikistan",2014,0.574,149
+"Tajikistan",2015,0.596,156
+"Tajikistan",2016,0.581,166
+"Tajikistan",2017,0.603,174
+"Turkmenistan",1989,11.1,72.7
+"Turkmenistan",1990,9.39,69.4
+"Turkmenistan",1991,8.21,68.7
+"Turkmenistan",1992,6.87,71.1
+"Turkmenistan",1993,8.13,72.1
+"Turkmenistan",1994,8.07,74.4
+"Turkmenistan",1995,7.14,73.3
+"Turkmenistan",1996,7.02,68.6
+"Turkmenistan",1997,7.26,64.2
+"Turkmenistan",1998,8.43,58
+"Turkmenistan",1999,8.3,56.3
+"Turkmenistan",2000,8.33,56.9
+"Turkmenistan",2001,8.66,55
+"Turkmenistan",2002,9.57,53.9
+"Turkmenistan",2003,9.88,55.6
+"Turkmenistan",2004,10.2,59.2
+"Turkmenistan",2005,10.3,62.9
+"Turkmenistan",2006,11.5,64.4
+"Turkmenistan",2007,11.5,66
+"Turkmenistan",2008,10,64.9
+"Turkmenistan",2009,11.2,65.6
+"Turkmenistan",2010,12,70.7
+"Turkmenistan",2011,12.3,74.3
+"Turkmenistan",2012,12.4,78.1
+"Turkmenistan",2013,12.5,84.4
+"Turkmenistan",2014,12.6,84
+"Turkmenistan",2015,12.4,88.2
+"Turkmenistan",2016,12.7,92.4
+"Turkmenistan",2017,13.7,97.2
+"Timor-Leste",1989,NA,10.7
+"Timor-Leste",1990,NA,10.9
+"Timor-Leste",1991,NA,11.4
+"Timor-Leste",1992,NA,11.9
+"Timor-Leste",1993,NA,12.3
+"Timor-Leste",1994,NA,12.8
+"Timor-Leste",1995,NA,13
+"Timor-Leste",1996,NA,13.2
+"Timor-Leste",1997,NA,14.2
+"Timor-Leste",1998,NA,14.4
+"Timor-Leste",1999,NA,14.7
+"Timor-Leste",2000,NA,15.2
+"Timor-Leste",2001,0.175,15.9
+"Timor-Leste",2002,0.17,16.8
+"Timor-Leste",2003,0.181,17.7
+"Timor-Leste",2004,0.177,19.6
+"Timor-Leste",2005,0.177,21.2
+"Timor-Leste",2006,0.177,23.4
+"Timor-Leste",2007,0.191,25.4
+"Timor-Leste",2008,0.212,27.7
+"Timor-Leste",2009,0.215,29.9
+"Timor-Leste",2010,0.221,33
+"Timor-Leste",2011,0.259,35.6
+"Timor-Leste",2012,0.385,37.6
+"Timor-Leste",2013,0.437,39.1
+"Timor-Leste",2014,0.42,41.3
+"Timor-Leste",2015,0.406,42.7
+"Timor-Leste",2016,0.409,43.7
+"Timor-Leste",2017,0.412,44.8
+"Tonga",1989,0.81,2.77
+"Tonga",1990,1,2.83
+"Tonga",1991,0.73,2.9
+"Tonga",1992,0.883,3.01
+"Tonga",1993,0.958,3.1
+"Tonga",1994,0.993,3.2
+"Tonga",1995,0.8,3.28
+"Tonga",1996,1.02,3.4
+"Tonga",1997,0.907,3.55
+"Tonga",1998,1.13,3.62
+"Tonga",1999,0.973,3.67
+"Tonga",2000,0.894,3.65
+"Tonga",2001,1.04,3.64
+"Tonga",2002,1.18,3.64
+"Tonga",2003,1.1,3.62
+"Tonga",2004,1.13,3.67
+"Tonga",2005,1.26,3.74
+"Tonga",2006,1.11,3.85
+"Tonga",2007,1.17,3.95
+"Tonga",2008,1.27,4.05
+"Tonga",2009,1.13,4.18
+"Tonga",2010,0.991,4.33
+"Tonga",2011,1.04,4.45
+"Tonga",2012,1.12,4.52
+"Tonga",2013,1.13,4.6
+"Tonga",2014,1.2,4.71
+"Tonga",2015,1.27,4.79
+"Tonga",2016,1.29,4.89
+"Tonga",2017,1.31,4.99
+"Trinidad and Tobago",1989,13.9,21.9
+"Trinidad and Tobago",1990,13.8,23.4
+"Trinidad and Tobago",1991,15.5,23.7
+"Trinidad and Tobago",1992,14.4,24.7
+"Trinidad and Tobago",1993,13.9,24.8
+"Trinidad and Tobago",1994,13.5,26.4
+"Trinidad and Tobago",1995,16.3,26.1
+"Trinidad and Tobago",1996,14.6,27
+"Trinidad and Tobago",1997,15.1,27.5
+"Trinidad and Tobago",1998,17.8,27.5
+"Trinidad and Tobago",1999,18.8,26.9
+"Trinidad and Tobago",2000,20.7,28
+"Trinidad and Tobago",2001,22.4,27.8
+"Trinidad and Tobago",2002,24.9,29.2
+"Trinidad and Tobago",2003,25.9,28.9
+"Trinidad and Tobago",2004,29.4,29.3
+"Trinidad and Tobago",2005,32.7,30.8
+"Trinidad and Tobago",2006,34.7,33.8
+"Trinidad and Tobago",2007,33.7,36
+"Trinidad and Tobago",2008,33.9,36.6
+"Trinidad and Tobago",2009,36,37.8
+"Trinidad and Tobago",2010,35.1,39.3
+"Trinidad and Tobago",2011,33.7,38.7
+"Trinidad and Tobago",2012,34.3,40.8
+"Trinidad and Tobago",2013,33.9,42.4
+"Trinidad and Tobago",2014,33.7,43
+"Trinidad and Tobago",2015,31.8,44.5
+"Trinidad and Tobago",2016,31.4,45.7
+"Trinidad and Tobago",2017,31.3,47
+"Tunisia",1989,1.59,62
+"Tunisia",1990,1.82,66.4
+"Tunisia",1991,1.73,70.9
+"Tunisia",1992,1.86,75.1
+"Tunisia",1993,1.76,78.4
+"Tunisia",1994,1.71,85.3
+"Tunisia",1995,1.79,90.5
+"Tunisia",1996,1.78,96.9
+"Tunisia",1997,1.87,103
+"Tunisia",1998,1.89,108
+"Tunisia",1999,2.03,113
+"Tunisia",2000,2.1,118
+"Tunisia",2001,2.08,124
+"Tunisia",2002,2.11,128
+"Tunisia",2003,2.19,133
+"Tunisia",2004,2.21,140
+"Tunisia",2005,2.22,147
+"Tunisia",2006,2.3,155
+"Tunisia",2007,2.34,162
+"Tunisia",2008,2.31,170
+"Tunisia",2009,2.55,178
+"Tunisia",2010,2.38,187
+"Tunisia",2011,2.43,195
+"Tunisia",2012,2.45,204
+"Tunisia",2013,2.52,213
+"Tunisia",2014,2.62,223
+"Tunisia",2015,2.57,233
+"Tunisia",2016,2.67,243
+"Tunisia",2017,2.73,255
+"Turkey",1989,2.81,1560
+"Turkey",1990,2.88,1630
+"Turkey",1991,2.94,1690
+"Turkey",1992,3.02,1740
+"Turkey",1993,2.91,1790
+"Turkey",1994,3.1,1820
+"Turkey",1995,3.36,1830
+"Turkey",1996,3.51,1850
+"Turkey",1997,3.46,1880
+"Turkey",1998,3.34,1900
+"Turkey",1999,3.64,1890
+"Turkey",2000,3.33,1900
+"Turkey",2001,3.39,1920
+"Turkey",2002,3.58,1980
+"Turkey",2003,3.65,2060
+"Turkey",2004,3.89,2220
+"Turkey",2005,4.1,2420
+"Turkey",2006,4.5,2650
+"Turkey",2007,4.4,2930
+"Turkey",2008,4.43,3280
+"Turkey",2009,4.35,3560
+"Turkey",2010,4.63,3770
+"Turkey",2011,4.74,3940
+"Turkey",2012,4.55,4100
+"Turkey",2013,4.69,4270
+"Turkey",2014,4.86,4420
+"Turkey",2015,5.03,4590
+"Turkey",2016,5.25,4800
+"Turkey",2017,5.2,4980
+"Tuvalu",1989,0.823,0.47
+"Tuvalu",1990,0.814,0.49
+"Tuvalu",1991,0.805,0.5
+"Tuvalu",1992,0.798,0.52
+"Tuvalu",1993,0.792,0.53
+"Tuvalu",1994,0.789,0.55
+"Tuvalu",1995,0.787,0.56
+"Tuvalu",1996,0.786,0.57
+"Tuvalu",1997,0.786,0.57
+"Tuvalu",1998,0.785,0.58
+"Tuvalu",1999,0.781,0.59
+"Tuvalu",2000,0.774,0.6
+"Tuvalu",2001,1.15,0.6
+"Tuvalu",2002,1.13,0.61
+"Tuvalu",2003,1.11,0.61
+"Tuvalu",2004,1.1,0.62
+"Tuvalu",2005,0.725,0.63
+"Tuvalu",2006,1.08,0.64
+"Tuvalu",2007,1.07,0.66
+"Tuvalu",2008,1.06,0.67
+"Tuvalu",2009,0.697,0.68
+"Tuvalu",2010,0.69,0.69
+"Tuvalu",2011,1.02,0.7
+"Tuvalu",2012,1.01,0.71
+"Tuvalu",2013,1,0.72
+"Tuvalu",2014,0.991,0.74
+"Tuvalu",2015,0.979,0.76
+"Tuvalu",2016,0.994,0.78
+"Tuvalu",2017,1.01,0.8
+"Taiwan",1989,5.89,1140
+"Taiwan",1990,6.32,1230
+"Taiwan",1991,6.67,1310
+"Taiwan",1992,7.24,1420
+"Taiwan",1993,7.45,1510
+"Taiwan",1994,7.76,1650
+"Taiwan",1995,8.09,1790
+"Taiwan",1996,8.66,1910
+"Taiwan",1997,9.11,2030
+"Taiwan",1998,9.41,2110
+"Taiwan",1999,10.1,2230
+"Taiwan",2000,10.1,2290
+"Taiwan",2001,10.6,2210
+"Taiwan",2002,10.8,2540
+"Taiwan",2003,11.1,2740
+"Taiwan",2004,11.3,2970
+"Taiwan",2005,10.9,3100
+"Taiwan",2006,11.9,3280
+"Taiwan",2007,11.3,3390
+"Taiwan",2008,10.7,3490
+"Taiwan",2009,11.4,3600
+"Taiwan",2010,11.5,3720
+"Taiwan",2011,11,3840
+"Taiwan",2012,11,3910
+"Taiwan",2013,11.1,4080
+"Taiwan",2014,10.9,4110
+"Taiwan",2015,11.2,4270
+"Taiwan",2016,11.6,4430
+"Taiwan",2017,11.6,4620
+"Tanzania",1989,0.0838,199
+"Tanzania",1990,0.0866,203
+"Tanzania",1991,0.0808,209
+"Tanzania",1992,0.087,216
+"Tanzania",1993,0.0717,222
+"Tanzania",1994,0.0822,227
+"Tanzania",1995,0.0831,233
+"Tanzania",1996,0.0906,241
+"Tanzania",1997,0.0778,253
+"Tanzania",1998,0.0753,259
+"Tanzania",1999,0.0768,260
+"Tanzania",2000,0.0885,262
+"Tanzania",2001,0.0988,272
+"Tanzania",2002,0.102,287
+"Tanzania",2003,0.113,300
+"Tanzania",2004,0.14,311
+"Tanzania",2005,0.149,324
+"Tanzania",2006,0.14,340
+"Tanzania",2007,0.142,356
+"Tanzania",2008,0.132,372
+"Tanzania",2009,0.154,390
+"Tanzania",2010,0.171,411
+"Tanzania",2011,0.196,434
+"Tanzania",2012,0.225,455
+"Tanzania",2013,0.225,470
+"Tanzania",2014,0.244,485
+"Tanzania",2015,0.219,510
+"Tanzania",2016,0.222,542
+"Tanzania",2017,0.222,575
+"Uganda",1989,0.044,76.7
+"Uganda",1990,0.0437,79.8
+"Uganda",1991,0.0432,82
+"Uganda",1992,0.0418,86
+"Uganda",1993,0.036,91.2
+"Uganda",1994,0.0458,97
+"Uganda",1995,0.0495,104
+"Uganda",1996,0.0503,111
+"Uganda",1997,0.0557,119
+"Uganda",1998,0.0563,128
+"Uganda",1999,0.0593,138
+"Uganda",2000,0.0602,147
+"Uganda",2001,0.06,155
+"Uganda",2002,0.0607,164
+"Uganda",2003,0.0627,173
+"Uganda",2004,0.0761,182
+"Uganda",2005,0.0865,191
+"Uganda",2006,0.0956,198
+"Uganda",2007,0.1,202
+"Uganda",2008,0.103,211
+"Uganda",2009,0.116,221
+"Uganda",2010,0.122,233
+"Uganda",2011,0.112,249
+"Uganda",2012,0.117,269
+"Uganda",2013,0.123,287
+"Uganda",2014,0.133,302
+"Uganda",2015,0.136,319
+"Uganda",2016,0.137,336
+"Uganda",2017,0.135,360
+"Ukraine",1989,13.7,5810
+"Ukraine",1990,12.3,5880
+"Ukraine",1991,11.5,5850
+"Ukraine",1992,9.95,5770
+"Ukraine",1993,8.2,5620
+"Ukraine",1994,7.67,5610
+"Ukraine",1995,6.95,5340
+"Ukraine",1996,6.79,5100
+"Ukraine",1997,6.61,4820
+"Ukraine",1998,6.06,4730
+"Ukraine",1999,5.85,4590
+"Ukraine",2000,6.28,4320
+"Ukraine",2001,6.17,4110
+"Ukraine",2002,6.46,3860
+"Ukraine",2003,6.58,3690
+"Ukraine",2004,6.68,3380
+"Ukraine",2005,7.14,3190
+"Ukraine",2006,7.26,3170
+"Ukraine",2007,7.06,3170
+"Ukraine",2008,6.04,3050
+"Ukraine",2009,6.43,2980
+"Ukraine",2010,6.76,2970
+"Ukraine",2011,6.69,3030
+"Ukraine",2012,6.57,3040
+"Ukraine",2013,5.71,2970
+"Ukraine",2014,4.99,3130
+"Ukraine",2015,5.24,3140
+"Ukraine",2016,5.02,3180
+"Ukraine",2017,5.09,3270
+"Uruguay",1989,1.28,191
+"Uruguay",1990,1.45,204
+"Uruguay",1991,1.63,201
+"Uruguay",1992,1.4,209
+"Uruguay",1993,1.26,212
+"Uruguay",1994,1.41,215
+"Uruguay",1995,1.67,218
+"Uruguay",1996,1.69,227
+"Uruguay",1997,1.72,234
+"Uruguay",1998,2.02,235
+"Uruguay",1999,1.59,241
+"Uruguay",2000,1.51,247
+"Uruguay",2001,1.37,259
+"Uruguay",2002,1.36,269
+"Uruguay",2003,1.68,277
+"Uruguay",2004,1.73,286
+"Uruguay",2005,1.99,291
+"Uruguay",2006,1.79,317
+"Uruguay",2007,2.46,333
+"Uruguay",2008,2.37,342
+"Uruguay",2009,1.88,361
+"Uruguay",2010,2.27,379
+"Uruguay",2011,2.55,395
+"Uruguay",2012,2.21,411
+"Uruguay",2013,1.96,428
+"Uruguay",2014,1.94,446
+"Uruguay",2015,1.95,453
+"Uruguay",2016,1.95,455
+"Uruguay",2017,2.01,457
+"United States",1989,20.3,NA
+"United States",1990,19.9,NA
+"United States",1991,20.2,NA
+"United States",1992,20.4,NA
+"United States",1993,20.5,NA
+"United States",1994,20.5,NA
+"United States",1995,21,NA
+"United States",1996,21,NA
+"United States",1997,20.9,NA
+"United States",1998,20.9,NA
+"United States",1999,21.3,NA
+"United States",2000,20.7,NA
+"United States",2001,20.7,NA
+"United States",2002,20.7,NA
+"United States",2003,20.9,NA
+"United States",2004,20.8,NA
+"United States",2005,20.3,NA
+"United States",2006,20.4,NA
+"United States",2007,19.5,NA
+"United States",2008,17.9,NA
+"United States",2009,18.5,NA
+"United States",2010,17.9,NA
+"United States",2011,17.1,NA
+"United States",2012,17.5,NA
+"United States",2013,17.5,NA
+"United States",2014,16.9,NA
+"United States",2015,16.4,NA
+"United States",2016,16.2,NA
+"United States",2017,16.6,NA
+"Uzbekistan",1989,5.39,549
+"Uzbekistan",1990,5.4,555
+"Uzbekistan",1991,5.2,563
+"Uzbekistan",1992,5.3,575
+"Uzbekistan",1993,4.84,576
+"Uzbekistan",1994,4.53,581
+"Uzbekistan",1995,4.57,579
+"Uzbekistan",1996,4.53,573
+"Uzbekistan",1997,4.95,573
+"Uzbekistan",1998,5.01,564
+"Uzbekistan",1999,4.91,568
+"Uzbekistan",2000,4.9,555
+"Uzbekistan",2001,5.03,553
+"Uzbekistan",2002,4.91,543
+"Uzbekistan",2003,4.82,513
+"Uzbekistan",2004,4.43,524
+"Uzbekistan",2005,4.47,517
+"Uzbekistan",2006,4.39,512
+"Uzbekistan",2007,4.47,503
+"Uzbekistan",2008,3.8,491
+"Uzbekistan",2009,3.64,493
+"Uzbekistan",2010,3.9,512
+"Uzbekistan",2011,3.91,548
+"Uzbekistan",2012,3.43,575
+"Uzbekistan",2013,3.44,608
+"Uzbekistan",2014,3.31,612
+"Uzbekistan",2015,2.9,661
+"Uzbekistan",2016,2.92,700
+"Uzbekistan",2017,2.81,741
+"St. Vincent and the Grenadines",1989,0.751,2.34
+"St. Vincent and the Grenadines",1990,0.783,2.37
+"St. Vincent and the Grenadines",1991,0.781,2.41
+"St. Vincent and the Grenadines",1992,0.95,2.43
+"St. Vincent and the Grenadines",1993,1.12,2.43
+"St. Vincent and the Grenadines",1994,1.19,2.34
+"St. Vincent and the Grenadines",1995,1.22,2.32
+"St. Vincent and the Grenadines",1996,1.22,2.33
+"St. Vincent and the Grenadines",1997,1.5,2.35
+"St. Vincent and the Grenadines",1998,1.53,2.41
+"St. Vincent and the Grenadines",1999,1.36,2.53
+"St. Vincent and the Grenadines",2000,1.67,2.56
+"St. Vincent and the Grenadines",2001,1.73,2.66
+"St. Vincent and the Grenadines",2002,1.83,2.72
+"St. Vincent and the Grenadines",2003,2.03,2.78
+"St. Vincent and the Grenadines",2004,2.03,2.85
+"St. Vincent and the Grenadines",2005,2.03,2.92
+"St. Vincent and the Grenadines",2006,2.1,3.02
+"St. Vincent and the Grenadines",2007,2.1,3.23
+"St. Vincent and the Grenadines",2008,2.88,3.39
+"St. Vincent and the Grenadines",2009,2.03,3.55
+"St. Vincent and the Grenadines",2010,1.83,3.74
+"St. Vincent and the Grenadines",2011,2.33,3.9
+"St. Vincent and the Grenadines",2012,1.92,4.06
+"St. Vincent and the Grenadines",2013,2.02,4.22
+"St. Vincent and the Grenadines",2014,2.02,4.37
+"St. Vincent and the Grenadines",2015,2.01,4.49
+"St. Vincent and the Grenadines",2016,2.02,4.6
+"St. Vincent and the Grenadines",2017,2.03,4.73
+"Venezuela",1989,6.21,654
+"Venezuela",1990,5.73,678
+"Venezuela",1991,5.14,712
+"Venezuela",1992,5.9,723
+"Venezuela",1993,6.04,767
+"Venezuela",1994,6.06,801
+"Venezuela",1995,5.47,818
+"Venezuela",1996,5.85,845
+"Venezuela",1997,7.17,878
+"Venezuela",1998,7.27,920
+"Venezuela",1999,6.28,956
+"Venezuela",2000,6.98,1030
+"Venezuela",2001,7.69,1120
+"Venezuela",2002,7.5,1120
+"Venezuela",2003,5.82,1140
+"Venezuela",2004,6.2,1200
+"Venezuela",2005,6.32,1280
+"Venezuela",2006,5.92,1370
+"Venezuela",2007,6.5,1480
+"Venezuela",2008,6.43,1530
+"Venezuela",2009,6.67,1580
+"Venezuela",2010,5.9,1660
+"Venezuela",2011,6.51,1750
+"Venezuela",2012,6.14,1830
+"Venezuela",2013,6.13,1990
+"Venezuela",2014,5.69,2050
+"Venezuela",2015,5.47,2110
+"Venezuela",2016,5.23,2140
+"Venezuela",2017,4.81,2160
+"Vietnam",1989,0.312,1740
+"Vietnam",1990,0.306,1790
+"Vietnam",1991,0.301,1840
+"Vietnam",1992,0.314,1940
+"Vietnam",1993,0.354,2040
+"Vietnam",1994,0.381,2150
+"Vietnam",1995,0.448,2280
+"Vietnam",1996,0.575,2360
+"Vietnam",1997,0.596,2450
+"Vietnam",1998,0.591,2560
+"Vietnam",1999,0.655,2660
+"Vietnam",2000,0.738,2800
+"Vietnam",2001,0.843,2960
+"Vietnam",2002,0.928,3140
+"Vietnam",2003,1.06,3340
+"Vietnam",2004,1.13,3540
+"Vietnam",2005,1.17,3750
+"Vietnam",2006,1.18,3970
+"Vietnam",2007,1.31,4200
+"Vietnam",2008,1.41,4430
+"Vietnam",2009,1.55,4650
+"Vietnam",2010,1.63,4850
+"Vietnam",2011,1.51,5060
+"Vietnam",2012,1.55,5290
+"Vietnam",2013,1.75,5550
+"Vietnam",2014,1.95,5800
+"Vietnam",2015,1.96,6070
+"Vietnam",2016,1.95,6360
+"Vietnam",2017,2.16,6690
+"Vanuatu",1989,0.45,2.07
+"Vanuatu",1990,0.438,2.23
+"Vanuatu",1991,0.402,2.38
+"Vanuatu",1992,0.39,2.5
+"Vanuatu",1993,0.38,2.69
+"Vanuatu",1994,0.393,2.73
+"Vanuatu",1995,0.491,2.87
+"Vanuatu",1996,0.482,2.96
+"Vanuatu",1997,0.453,3.07
+"Vanuatu",1998,0.465,3.21
+"Vanuatu",1999,0.456,3.2
+"Vanuatu",2000,0.465,3.36
+"Vanuatu",2001,0.435,3.24
+"Vanuatu",2002,0.424,3.23
+"Vanuatu",2003,0.287,3.38
+"Vanuatu",2004,0.28,3.71
+"Vanuatu",2005,0.222,4.01
+"Vanuatu",2006,0.451,4.38
+"Vanuatu",2007,0.424,4.72
+"Vanuatu",2008,0.526,5
+"Vanuatu",2009,0.512,5.31
+"Vanuatu",2010,0.544,5.72
+"Vanuatu",2011,0.456,6.03
+"Vanuatu",2012,0.414,6.34
+"Vanuatu",2013,0.584,6.64
+"Vanuatu",2014,0.487,6.9
+"Vanuatu",2015,0.527,7.17
+"Vanuatu",2016,0.527,7.47
+"Vanuatu",2017,0.529,7.8
+"Samoa",1989,0.631,2.78
+"Samoa",1990,0.648,2.89
+"Samoa",1991,0.665,2.98
+"Samoa",1992,0.658,3.01
+"Samoa",1993,0.674,3.07
+"Samoa",1994,0.69,3.19
+"Samoa",1995,0.728,3.25
+"Samoa",1996,0.746,3.29
+"Samoa",1997,0.764,3.34
+"Samoa",1998,0.782,3.41
+"Samoa",1999,0.82,3.5
+"Samoa",2000,0.836,3.55
+"Samoa",2001,0.831,3.61
+"Samoa",2002,0.868,3.68
+"Samoa",2003,0.842,3.75
+"Samoa",2004,0.898,3.84
+"Samoa",2005,0.912,3.94
+"Samoa",2006,0.947,4.05
+"Samoa",2007,0.98,4.16
+"Samoa",2008,1.01,4.24
+"Samoa",2009,1.01,4.3
+"Samoa",2010,1.08,4.4
+"Samoa",2011,1.05,4.46
+"Samoa",2012,1.04,4.44
+"Samoa",2013,1.09,4.51
+"Samoa",2014,1.21,4.7
+"Samoa",2015,1.26,4.85
+"Samoa",2016,1.29,5
+"Samoa",2017,1.32,5.16
+"Yemen",1989,0.814,65.4
+"Yemen",1990,0.743,66.9
+"Yemen",1991,0.763,69.3
+"Yemen",1992,0.633,71.4
+"Yemen",1993,0.629,73.7
+"Yemen",1994,0.695,77.2
+"Yemen",1995,0.681,80.9
+"Yemen",1996,0.709,84.7
+"Yemen",1997,0.734,88.3
+"Yemen",1998,0.812,93.2
+"Yemen",1999,0.832,98.3
+"Yemen",2000,0.895,105
+"Yemen",2001,0.844,113
+"Yemen",2002,0.901,119
+"Yemen",2003,0.955,127
+"Yemen",2004,0.985,136
+"Yemen",2005,1.02,146
+"Yemen",2006,0.974,157
+"Yemen",2007,1.01,170
+"Yemen",2008,1.08,179
+"Yemen",2009,1,186
+"Yemen",2010,0.849,200
+"Yemen",2011,0.747,211
+"Yemen",2012,0.994,224
+"Yemen",2013,0.937,235
+"Yemen",2014,0.48,246
+"Yemen",2015,0.377,257
+"Yemen",2016,0.363,268
+"Yemen",2017,0.356,279
+"South Africa",1989,8.51,1200
+"South Africa",1990,8.65,1250
+"South Africa",1991,7.8,1380
+"South Africa",1992,8.1,1390
+"South Africa",1993,8.36,1510
+"South Africa",1994,8.74,1480
+"South Africa",1995,8.62,1600
+"South Africa",1996,8.98,1880
+"South Africa",1997,8.64,1910
+"South Africa",1998,8.46,1890
+"South Africa",1999,8.42,1950
+"South Africa",2000,8.16,1930
+"South Africa",2001,7.73,1940
+"South Africa",2002,8.66,1970
+"South Africa",2003,9.5,1970
+"South Africa",2004,8.69,1980
+"South Africa",2005,9.22,2070
+"South Africa",2006,9.47,2100
+"South Africa",2007,9.94,2170
+"South Africa",2008,9.96,2240
+"South Africa",2009,9.16,2290
+"South Africa",2010,9.16,2360
+"South Africa",2011,8.77,2390
+"South Africa",2012,8.53,2440
+"South Africa",2013,8.86,2550
+"South Africa",2014,8.35,2640
+"South Africa",2015,8.46,2700
+"South Africa",2016,8.12,2720
+"South Africa",2017,8.1,2670
+"Zambia",1989,0.3,66.7
+"Zambia",1990,0.289,69.1
+"Zambia",1991,0.287,70.8
+"Zambia",1992,0.285,71.9
+"Zambia",1993,0.27,74
+"Zambia",1994,0.236,76
+"Zambia",1995,0.197,77.8
+"Zambia",1996,0.245,79.3
+"Zambia",1997,0.231,80.5
+"Zambia",1998,0.175,81.5
+"Zambia",1999,0.172,81.8
+"Zambia",2000,0.176,82.5
+"Zambia",2001,0.179,83.9
+"Zambia",2002,0.185,86.1
+"Zambia",2003,0.182,89.1
+"Zambia",2004,0.189,92.2
+"Zambia",2005,0.183,97.8
+"Zambia",2006,0.149,103
+"Zambia",2007,0.164,109
+"Zambia",2008,0.182,116
+"Zambia",2009,0.189,126
+"Zambia",2010,0.199,135
+"Zambia",2011,0.241,143
+"Zambia",2012,0.252,152
+"Zambia",2013,0.277,161
+"Zambia",2014,0.271,169
+"Zambia",2015,0.296,179
+"Zambia",2016,0.304,192
+"Zambia",2017,0.302,204
+"Zimbabwe",1989,1.49,152
+"Zimbabwe",1990,1.49,157
+"Zimbabwe",1991,1.55,164
+"Zimbabwe",1992,1.47,166
+"Zimbabwe",1993,1.57,169
+"Zimbabwe",1994,1.32,168
+"Zimbabwe",1995,1.29,171
+"Zimbabwe",1996,1.23,178
+"Zimbabwe",1997,1.2,198
+"Zimbabwe",1998,1.33,223
+"Zimbabwe",1999,1.16,250
+"Zimbabwe",2000,1.05,268
+"Zimbabwe",2001,0.996,290
+"Zimbabwe",2002,0.886,309
+"Zimbabwe",2003,0.785,331
+"Zimbabwe",2004,0.887,324
+"Zimbabwe",2005,0.853,328
+"Zimbabwe",2006,0.803,329
+"Zimbabwe",2007,0.624,340
+"Zimbabwe",2008,0.441,345
+"Zimbabwe",2009,0.607,343
+"Zimbabwe",2010,0.737,342
+"Zimbabwe",2011,0.587,349
+"Zimbabwe",2012,0.872,360
+"Zimbabwe",2013,0.881,378
+"Zimbabwe",2014,0.881,392
+"Zimbabwe",2015,0.771,407
+"Zimbabwe",2016,0.845,421
+"Zimbabwe",2017,0.85,436

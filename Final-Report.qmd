@@ -1,0 +1,441 @@
+---
+title: "Lung Cancer and Carbon Dioxide Emissions"
+subtitle: "An analysis of the relationship between new lung cancer cases and carbon dioxide emissions"
+author: "Alisa Krasilnikov, Jake Aaknes, Lex Schuster, Gabi Richardson"
+format: 
+  html:
+    self-contained: true
+    code-tools: true
+    code-fold: true
+    toc: true
+editor: source
+execute: 
+  error: true
+  echo: true
+  message: false
+  warning: false
+---
+
+# Abstract
+
+Over time, the world has evolved to use higher levels of carbon dioxide. Though there have been efforts made to reduce emissions, outdated technology still spurs production of this harmful greenhouse gas[^1]. Previous knowledge of the effect of carbon dioxide on human health shows that it is known to cause various forms of cancers[^2]. Thus, we believe that over time, since carbon dioxide output has increased, the presence of lung cancer has increased as well. Thus, this paper attempts to draw information regarding the relationship of these two variables. 
+
+# Data
+
+The data used to assess the relationship between carbon dioxide output and lung cancer cases was obtained from GapMinder[^3]. Specifically, we will be using the total new lung cases for women data set, as well as the Co2 emissions as tonnes per person. 
+
+The Total New Lung Cases for women data is a data set that contains the amount of new lung cases in women per country per year, measured in 100,000s. This data ranges from the year 1989 to 2018. Every observational unit in this data is a country, and every variable is a year's recorded total lung cancer cases. 
+
+Similarly, the Co2 emissions data contains data for every combination of country and year from the range 1799 to 2017, where one row is a country, and every variable is a year's recorded Co2 emissions per person. This is measured in metric tons per person. Because the only years we have in common are 1989 to 2017, these are the values that we will be using in our combined data. 
+
+```{r}
+#| include: false
+
+library(tidyverse)
+library(gganimate)
+library(magick)
+library(transformr)
+library(gifski)
+library(DT)
+library(broom)
+library(knitr)
+library(kableExtra)
+library(gridExtra)
+library(patchwork)
+
+```
+
+```{r}
+
+co2 <- read_csv(here::here("Project",
+                           "Data", 
+                           "co2_emissions_tonnes_per_person.csv"))
+cancer <- read_csv(here::here("Project",
+                              "Data", 
+                              "lung_cancer_number_of_new_female_cases.csv"))
+
+```
+
+## Cleaning
+
+As stated previously, the only years we have in common range from 1989 - 2017. We will drop year values that are not within these values. Additionally, we want to ensure that all of the values used are numeric.
+
+```{r}
+
+co2 <- co2 |> 
+  mutate(across(`1799`:`2017`, as.numeric)) |> 
+  select(country,
+         c(`1989`:`2017`))
+
+cancer <- cancer |> 
+  mutate(across(`1989`:`2018`, as.numeric)) |> 
+  select(country, 
+         c(`1989`:`2017`))
+```
+
+When we ran our R code to clean our data, we had some warnings popping up, as there are some missing values that are being reconverted to missing values. We checked over the data set visually, and there are no values that are being artificially converted to NA. Thus, we have no cause for concern and we can proceed. 
+
+We now want to have one observation for every combination of year and country, for each corresponding data set. So, we will pivot the data. We also want to make sure that the "year" column is numeric, though this may be redundant. 
+
+```{r}
+
+co2 <- co2 |> 
+  pivot_longer(c(`1989`:`2017`), names_to = "year") |> 
+  mutate(year = as.numeric(year))
+
+cancer <- cancer |> 
+  pivot_longer(c(`1989`:`2017`), names_to = "year") |> 
+  mutate(year = as.numeric(year))
+```
+
+Our data sets look good, and have no issues that we need to account for. So, we do not need to perform any more data cleaning. 
+
+However, we would like our data to be conveniently accessible in one file. Thus, we can perform an inner join, which joins the data by years and countries that they have in common.
+
+```{r}
+co2_cancer_combined <- co2 |> 
+  inner_join(cancer, by = c("year", "country")) |> 
+  rename(co2_per_person = value.x, new_cancer_cases = value.y)
+```
+
+## Final data set
+
+```{r}
+datatable(co2_cancer_combined, options = list(pageLength = 10))
+```
+
+Based on our previous knowledge of the data, and based on how technology has changed over time, we believe that there is going to be a positive, linear relationship between new cases of lung cancer and carbon dioxide emissions. This does not mean, however, that we believe that carbon dioxide emissions cause lung cancer, as correlation is not equivalent to causation. 
+
+We would like to see the relationship between these variables, as we believe that an increase in carbon dioxide may correlate with a higher rate of cancer cases. This can be done with by fitting a linear regression.
+
+## What is a Linear Regression?
+
+Linear regression is a statistical method that models the relationship between two variables by fitting a linear equation to the observed data. In simple linear regression, there are two variables: the independent variable, which is the predictor or explanatory variable, and the dependent variable, which is the response or outcome variable. The linear equation is of the form y = mx + b, where y is the dependent variable, x is the independent variable, m is the slope of the line, and b is the y-intercept. The goal of linear regression is to find the values of m and b that minimize the sum of the squared differences between the predicted values of y and the actual values of y for the given values of x.
+
+In short, this is a useful tool that allows us to use one quantitative variable to predict the values of another. Though a linear regression cannot be used to predict cause and effect, in our case that Co2 emissions cause lung cancer, it would allow us to see general trends. In this case, we predict our trend to be moderately strong and positive, as we believe that an increase in carbon dioxide would be correlated with an increase in new lung cancer cases. 
+
+# Assessment of Relationships
+
+## A Study of Lung Cancer versus Carbon Dioxide Output
+
+We will label our y-axis as lung cancer cases, and our x-axis as carbon dioxide output. This is because our carbon dioxide variable is our explanatory variable, since we think that it will predict lung cancer cases. 
+
+```{r}
+#| fold: true
+
+co2_cancer_anim <- co2_cancer_combined |>
+  ggplot(aes(x = co2_per_person, y = new_cancer_cases)) +
+  geom_point() +
+  transition_time(year) +
+  labs(title = "Change in Co2 and New Cancer Cases over Time, by Country",
+   	subtitle = "Year: {as.integer(frame_time)}",
+   	x = "Carbon Dioxide Output Per Person (In Metric Tons)",
+   	y = "New Cancer Cases (In 100,000s)") +
+  shadow_mark(alpha = .3, size = .5)
+
+co2_cancer_anim
+
+```
+From looking at the visualization it appears as though our initial hypothesis is mostly correct. There is, in fact, a mildly positive trend. However, it is a little hard to tell the true relationship of this graph. It appears as though there is a very weak relationship, and it seems that it may not be truly linear, as there is a slight curve to our data. 
+
+Nevertheless, we would like to assess how both of these variables have changed over time. 
+
+## Lung Cancer and Carbon Dioxide Output Over Time
+
+Before we run this test, our initial assumption is that as the years increase, both carbon dioxide output and new lung cancer cases will increase, based on our perception on how technology has changed.
+
+```{r}
+#| layout-ncol: 2
+#| column: page
+#| include: false
+
+summarized_data <- co2_cancer_combined |> 
+  group_by(year) |> 
+  summarize(total_co2 = sum(co2_per_person, na.rm = TRUE),
+            total_cancer = sum(new_cancer_cases, na.rm = TRUE)) 
+
+plot_co2 <- ggplot(summarized_data) +
+  geom_line(mapping = aes(x = year, y = total_co2), color = "blue") +
+  ggtitle("CO2 Emissions", subtitle = "Total CO2 Emissions Per Person (In Metric Tons)") +
+  theme(axis.title.y = element_blank()) +
+  xlab("Year") +
+  transition_reveal(year)
+
+plot_cancer <- ggplot(summarized_data) +
+  geom_line(mapping = aes(x = year, y = total_cancer), color = 'red') +
+  ggtitle("Cancer Cases", subtitle = "Total New Cancer Cases (In 100,000s)") +
+  theme(axis.title.y = element_blank()) +
+  xlab("Year") +
+  transition_reveal(year)
+
+```
+
+:::{layout-ncol=2}
+```{r}
+animate(plot_co2, width = 240, height = 240)
+```
+```{r}
+animate(plot_cancer, width = 240, height = 240)
+```
+:::
+
+We were mostly correct in our predictions. The number of total new lung cancer cases has mostly increased over time. However, there is a lot more variability in the years for the CO2 Emissions than we previously expected. There is a distinct hump where we reach a peak of carbon dioxide emissions around 2005, after a period of oscillation. But, after this peak, we start to drop in carbon dioxide emissions, which we did not expect. Upon further research, we see that this initial drop was, at least partially, due to a recession in the EU in 2008, as oil prices were very high, and thus purchase of oil and gasoline were limited[^4]. Additionally, environmental efforts have been made to reduce carbon dioxide output emissions, allowing for this decrease in our data. Environmental acts like the Clean Air Act, which was updated in 2010 to set industry-wide limits for greenhouse gas outputs, which may be contributing to this decrease[^5].
+
+We were also mostly correct in our prediction of cancer cases, as we believed these would increase quite steadily. And, though they did increase over time, there was a big drop around 2008. We were unable to figure out exactly why, but we believe that this may have been at least partially caused by anti-smoking legislation[^6]. A ban in cigarette advertisement in 1971 may have resulted in less sales of cigarettes, and therefore the new generation may have had healthier lungs. However, after about 2007, we see a rapid increase of new lung cancer cases once again. This is at least partially due to the presence of E-cigarettes, which hit the market in 2007, and quickly became popular among the youth[^7]. 
+
+Though this graphic seems scary, showing an increase in cancer cases, keep in mind that this is only showing new lung cancer diagnoses. This isn't death, this is detection. As the years go by, our technology has improved immensely, thus allowing us to detect cancers at much earlier stages than we could before. Additionally, medical access has improved, and knowledge regarding how cancers look and feel like in our bodies has spread, allowing more people to seek medical attention. Thus, if anything, this graphic shows that humans as a society are getting better at finding cancers, rather than causing them[^8].
+
+We would like to further assess this relationship, by seeing if there is any stability in the ratio of new cancer cases to carbon dioxide emissions. Based on the prior graph, we believe that there will be some fluctuation, as new cancer cases tends to increase at a quicker rate than carbon dioxide emissions, and has less fluctuation as well. 
+
+```{r}
+#| fold: true
+co2_cancer_combined |> 
+  group_by(year) |> 
+  summarize(total_co2 = sum(co2_per_person, na.rm = TRUE),
+            total_cancer = sum(new_cancer_cases, na.rm = TRUE),
+            ratio = total_cancer/total_co2) |>
+  ggplot(mapping = aes(x = year, y = ratio)) +
+    geom_line() +
+   ggtitle("Ratio of New Lung Cancer Cases to Carbon Dioxide Emissions Over Time",
+           subtitle = "New Lung Cancer Cases (100,000s) / Carbon Dioxide Emissions per Person") +
+  xlab("Year") +
+  theme(axis.title.y = element_blank()) +
+  transition_reveal(year)
+```
+
+As we assess the ratio of the total number of cancer cases to carbon dioxide emissions as plotted over year, we see that the total amount of new lung cancer cases seem to increase at a faster rate than the total carbon dioxide emissions per person. This is seen in the fact that the ratio seems to be increasing over the years. 
+
+This makes sense based on prior knowledge. Environmental efforts have been made to slow the output of carbon dioxide. However, efforts relating lung cancer detection have increased. This results in an uneven growth across both of the variables used. 
+
+# Linear Regression
+
+Now that we have a basic understanding of this relationship, we would like to fit a linear regression model to our data. 
+
+```{r}
+co2_cancer_lm <- lm(new_cancer_cases ~ co2_per_person,
+             	data = co2_cancer_combined
+             	)
+
+kable(tidy(co2_cancer_lm))
+```
+
+## Graph of Regression Equation
+
+```{r}
+co2_cancer_lm |>
+ggplot(aes(x = co2_per_person,
+       	y = new_cancer_cases)
+   	) +
+  geom_jitter() +
+  geom_smooth(method = "lm") +
+  xlab("Co2 Output Per Person (In Metric Tons)") +
+  ylab("") +
+  ggtitle("Regression between Co2 New Lung Cancer Cases", "New Cancer Cases (In 100,000s)")
+```
+For our regression model, we used the Co2 emissions in tonnes per person over the year as the explanatory variable, and the total number of new lung cancer cases among women over the year for the response variable.
+
+Adding a regression line confirms our previous idea that there is a positive linear relationship, albeit very weak. However, as we stated previously, it seems as though this line does not truly fit our data, and a different model may work better. 
+
+As shown by the linear regression model, we had an intercept of 620.20, and a slope of 31.72. This provides us with an equation to estimate the lung cancer cases among women based on the Co2 emissions per person. This equation is:
+
+$$
+\widehat{New\ Cancer\  Cases\  in\  Women} = 620.00 + 31.72(CO2\ Emissions\ Per\ Person)
+$$
+
+Through this equation, there seems to be a positive relation between the lung cancer cases in women and Co2 emissions per person. If Co2 emissions per person were somehow 0, then the estimated cancer cases would be around 620, as shown by the intercept. Given the slope, we estimate that for every additional metric ton of CO2 emissions per person there will be 31.72 new cancer cases among women. 
+
+However, we do not believe that this model will be a good fit. From simply assessing the regression line visually, it appears as though we are trying to fit a linear model to something that shows a potentially curved relationship, or no relationship at all.
+
+We will attempt to assess this fit in a numeric fashion, in order to see whether our intuition is correct. 
+
+# Assessment of Fit
+
+We will create a table that uses our prior equation to calculate the predicted cancer cases based on our values of carbon dioide output. Then, we will find the difference between the true values and these predicted values, known as residuals. 
+
+## Table with fitted values and residuals
+```{r}
+resids <- augment(co2_cancer_lm)
+
+kable(head(resids)) |>
+  kable_styling(font_size = 12) |>
+  kable_styling(latex_options = "scale_down") |>
+  add_header_above(c(" " = 3, "Summary Statistics" = 6))
+```
+From a quick glance at our residuals, we can see that our model is pretty bad at predicting data. We have predicted values that are really, really different from the true values, as seen by the fact that our residuals are so far from zero. 
+
+The additional benefit of calculating residuals is the ability to plot them to check them to see if our data meets the equal variance condition. 
+
+## Plot of the Residuals
+
+```{r}
+ggplot(data = resids, mapping = aes(x = new_cancer_cases, y = .resid)) +
+  geom_point() +
+  ggtitle("Residual Plot", subtitle = "Residuals") +
+  theme(axis.title.y = element_blank()) +
+  xlab("New Cancer Cases")
+  
+```
+
+Ideally, our residuals should display no pattern. This would allow us to approximate equal variance, as the distribution widths would be roughly equivalent for each value of new_cancer_cases. However, we very clearly have a distinct linear pattern, and more weight towards the lower values of new cancer cases. Thus, we cannot assume equal variance, and a linear model would not fit for this data.
+
+In addition to the residuals, we are able to calculate the variance in our response values, the variance in the fitted regression, and the variance in residuals from our regression model.
+
+## Table with SST, SSR, and SSE
+```{r}
+resids_clean <- resids |> 
+  select(co2_per_person, new_cancer_cases, .fitted, .resid) |> 
+  arrange(co2_per_person) |> 
+  summarise(SST = sum((new_cancer_cases - mean(new_cancer_cases))^2), 
+            SSR = sum((.fitted - mean(new_cancer_cases))^2),
+            SSE = sum((.resid)^2),
+            R_Squared = (SSR/SST))
+
+kable(resids_clean, booktabs = TRUE) %>%
+  kable_styling(font_size = 15)
+```
+
+Though these values, SST, SSR, and SSE, are quite difficult to interpret without prior statistical knowledge, they are important because they allow us to calculate the R-Squared value 
+
+The R-Squared value is the proportion of variation in new cancer cases that is explained by our model which relates new cancer cases to carbon dioxide output. We would ideally want this to be a high value, close to 1. But, the proportion of variability in the response values that was accounted for by our linear regression model was quite low, with the R-Squared value being 0.018. To determine whether this is due to any confounding variables, we may need to adjust our model by year and country in order to account for more variation. However, our data does not appear to follow a linear model so it may be better to fit it to a quadratic model. 
+
+# Simulation 
+
+Despite the fact that we do not believe that our model works well at predicting new cancer cases, we still would like to use this model to simulate some values based on our model, just to assess how similar and different it is from our true distribution of values. 
+
+```{r}
+set.seed(2002)
+CO2_predict <- predict(co2_cancer_lm)
+CO2_sigma <- sigma(co2_cancer_lm)
+
+noise <- function(x, mean = 0, sd){
+  x + rnorm(length(x), 
+            mean, 
+            sd)
+}
+sim_co2 <- tibble(sim_new_cancer_cases = noise(CO2_predict, 
+                                           sd = CO2_sigma)
+                   )
+kable(head(sim_co2))
+
+```
+
+Now that we have a range of simulated cancer cases, we would like to plot them to see how they compare to our true cancer case levels. 
+
+```{r, warning=FALSE}
+obs_p <- co2_cancer_combined |>
+  ggplot(aes(x = new_cancer_cases)) +
+  geom_histogram(binwidth = 350,
+                 fill = "red") +
+  labs(x = "Observed New Cancer Cases",
+       y = "",
+       subtitle = "Count",
+       title = "Observed Data") +
+  xlim(0,10000) +
+  ylim(0, 1000) +
+  theme_bw()
+
+new_p <- sim_co2 |>
+  ggplot(aes(x = sim_new_cancer_cases)) +
+  geom_histogram(binwidth = 350,
+                 fill = "steelblue") +
+  labs(x = "Simulated New Cancer Cases",
+       y = "",
+       subtitle = "Count",
+       title = "Simulated Data") +
+  xlim(0,10000) +
+  ylim(0,1000) +
+  theme_bw()
+
+obs_p + new_p
+```
+The simulated data are much different from the observed data in that they are more evenly spread across a range of values for new cancer cases. The observed data have a large amount of samples with very few to no new cancer cases, with each sample being a specific country at a certain point in time (year). The simulated data still have a large amount of samples with very few cancer cases, but do not have a spike around 0 but rather a smooth curve in which the count decreases as the number of new cases increases. 
+
+From both of these distributions, we can tell that there are fewer samples with a large number of new cancer cases and more samples with a fewer number of cancer cases. However, the observed data have a disproportionately large number of samples with low to no new cancer cases compared to the simulated data, meaning that the data may be skewed in relation to some other variable. 
+
+Now that we have simulated cancer cases, we would like to see how these are predicted by our the carbon dioxide values that we have. 
+
+```{r}
+sim_data <- co2_cancer_combined |> 
+  filter(!is.na(new_cancer_cases), 
+         !is.na(co2_per_person)
+         ) |> 
+  select(new_cancer_cases, co2_per_person) |> 
+  bind_cols(sim_co2)
+
+kable(head(sim_data))
+```
+
+```{r}
+ggplot(data = sim_data, 
+       mapping = aes(x = co2_per_person, y = sim_new_cancer_cases)) +
+  geom_point() +
+  geom_smooth(method=lm) +
+  ggtitle("The Simulated Relationship Between Carbon Dioxide Output and Lung Cancer",
+          subtitle = "New Cancer Cases (In 100,000s)") +
+  theme(axis.title.y = element_blank()) +
+  xlab("Carbon Dioxide Output Per Person (In Metric Tons)")
+```
+
+This relationship appears to be positive, which, of course, is the same relationship that we had with our true data. However, this appears much stronger. While our observed data was quite weak, and appeared to display a curve, this is pretty linear and about moderately strong. 
+
+Using this simulation, we would like to see how our R-Squared values compare. Beforehand, the R-Squared was quite low, and so we would expect the simulated R-Squared values to be quite low as well. 
+
+```{r}
+nsims <- 1000
+sims <- map_dfc(.x = 1:nsims,
+                .f = ~ tibble(sim = noise(CO2_predict, 
+                                          sd = CO2_sigma)
+                              )
+                )
+
+colnames(sims) <- colnames(sims) |> 
+  str_replace(pattern = "\\.\\.\\.",
+                  replace = "_")
+
+sims <- co2_cancer_combined |> 
+  filter(!is.na(new_cancer_cases), 
+         !is.na(co2_per_person)) |> 
+  select(new_cancer_cases) |> 
+  bind_cols(sims)
+
+sim_r_sq <- sims |> 
+  map(~ lm(new_cancer_cases ~ .x, data = sims)) |> 
+  map(glance) |> 
+  map_dbl(~ .x$r.squared)
+```
+Shown below are some of the simulated R-Squared values that were generated by the simulated cancer cases values. 
+
+```{r}
+sim_r_sq <- sim_r_sq[names(sim_r_sq) != "new_cancer_cases"]
+kable(head(sim_r_sq))
+```
+
+Now, we will plot these in a histogram, to see where these values lie. 
+
+```{r}
+tibble(sims = sim_r_sq) |> 
+  ggplot(aes(x = sims)) + 
+  geom_histogram(binwidth = 0.0001) +
+  labs(x = expression("Simulated"~ R^2),
+       y = "",
+       subtitle = "Number of Simulated Models",
+       title = "R^2 Distribution")
+```
+
+The simulated R-Squared values are quite low, with the highest one being somewhere around 0.005. This is quite a bit lower than the R-Squared value we obtained from our true distribution, 0.018. Since our ideal R-Squared value is 1, these are quite far from any ideal value. We have a very right-skewed distribution, with most of the values falling around 0.005.
+
+# Conclusion
+
+Based on our results, our initial hypothesis was incorrect. While we expected our relationship to be positive and linear, where carbon dioxide outputs predict new lung cancer cases, our relationship was weak. Thus, we should reject the null hypothesis which claims that there is a true relationship between these variables. However, our data was only tested on a linear scale, and we don't believe that this fits our data, due to a distinct curve that we have. Nevertheless, our analysis of our data shows that over time, we have seen a steady increase of new lung cancer cases, though this can mostly be attributed to development in technology, allowing better detection of cancers. Additionally, though we initially expected a steady increase of carbon dioxide output, we have instead seen a curve, where the carbon dioxide output has started to decrease, most likely due to the presence of environmental movements. 
+
+# References
+
+[^1]: [Increases in Carbon Dioxide](https://climate.nasa.gov/news/2915/the-atmosphere-getting-a-handle-on-carbon-dioxide/)
+[^2]: [PubMed Carbon Dioxide Causing Cancer](https://pubmed.ncbi.nlm.nih.gov/11344436/#:~:text=After%20a%20short%20period%20of,effects%20in%20promoting%20tumor%20growth.)
+[^3]: [GapMinder ](https://www.gapminder.org/data/)
+[^4]: [Carbon Output and The 2008 Recession](https://www.theguardian.com/environment/2009/jun/25/carbon-emissions)
+[^5]: [Clean Air Act 2010](https://www.biologicaldiversity.org/programs/climate_law_institute/global_warming_litigation/clean_air_act/index.html#:~:text=In%20late%202010%20the%20EPA,of%20the%20Clean%20Air%20Act.)
+[^6]: [Cigarette Advertising](https://pubmed.ncbi.nlm.nih.gov/2715337/)
+[^7]: [E-Cigarettes ](https://www.cdc.gov/tobacco/basic_information/e-cigarettes/surgeon-general-advisory/index.html#:~:text=E%2Dcigarettes%20entered%20the%20U.S.,tobacco%20product%20among%20U.S.%20youth.&text=E%2Dcigarette%20use%20among%20U.S.,first%20time%20during%202015%2D2017.)
+[^8]: [Lung Cancer Detection](https://www.sciencedirect.com/science/article/abs/pii/S0272523117301077?via%3Dihub)
+
